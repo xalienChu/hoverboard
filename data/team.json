@@ -81,6 +81,16 @@
             "icon": "facebook",
             "link": "https://www.facebook.com/shakalaca",
             "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/shakalaca",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://23pin.logdown.com/",
+            "name": "Blog"
           }
         ],
         "title": "Co-organizer"
