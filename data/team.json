@@ -157,6 +157,28 @@
     "title": "Google Cloud Platform User Group",
     "members": [
       {
+        "name": "David Chen",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-lucemia.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+LucemiaChen",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/lucemia",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Organizer"
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Platform User Group",
+    "members": [
+      {
         "name": "Sunny Hu",
         "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-sunnyhu.jpg",
         "socials": [
