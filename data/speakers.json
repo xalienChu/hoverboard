@@ -162,17 +162,18 @@
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Andy Shih/施緯誠",
+        "name": "Andy Shih / 施緯誠",
         "title": "Full-Stack Engineer",
         "company": "QNAP System Inc.",
         "companyLogo": "https://download.qnap.com/Origin/i/images/q_logo.jpg",
         "country": "Taipei, Taiwan",
         "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-andy.jpg",
         "shortBio": "QNAP 全端攻城獅",
-        "bio": "任職qnap，負責gce上MetaCloud的架構與開發，喜歡探討各種議題，玩些無聊的東西，涉獵各種經驗與大家交流分享。",
+        "bio": "任職 QNAP，負責 GCE 上 MetaCloud 的架構與開發，喜歡探討各種議題，玩些無聊的東西，涉獵各種經驗與大家交流分享。",
         "tags": [
             "Cloud",
-            "Fullstack"
+            "Fullstack",
+            "GCE"
         ],
         "badges": [
           {
