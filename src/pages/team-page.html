@@ -69,8 +69,8 @@
       }
 
       .team-logo {
-        width: 140px;
-        height: 140px;
+        width: 280px;
+        height: 280px;
         position: relative;
         overflow: hidden;
       }
@@ -218,8 +218,8 @@
 
       <template is="dom-repeat" items="[[app.team]]" as="team">
         <div class="team-block">
-          <div class="header" hidden$="[[!team.photoUrl]]">
-            <a href="[[team.link]]"><img class="team-logo" src="[[team.photoUrl]]"/></a>
+          <div class="header">
+            <a hidden$="[[!team.photoUrl]]" href="[[team.link]]"><img class="team-logo" src="[[team.photoUrl]]"/></a>
           </div>
           <h3 class="team-name" cascaded>[[team.title]]</h3>
           <marked-element class="team-description" markdown="[[team.description]]">

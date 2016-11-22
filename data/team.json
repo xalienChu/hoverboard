@@ -1,6 +1,6 @@
 [
   {
-    "title": "GDG Taipei / 台北谷歌開發者社群",
+    "title": "Google Developer Group Taipei / 台北谷歌開發者社群",
     "photoUrl": "/images/logos/gdg-taipei.svg",
     "link": "http://www.gdg-taipei.org/",
     "description": "GDG 是源自於 Google 的開發者社群，透過熱心的 Google 技術開發者在各地以各種形式聚會的方式，邀請大家分享在 Google 相關的領域進行技術交流，讓大家可以在輕鬆的環境下，學習瞭解 Google 的相關技術。讓開發者在學習的路途上，不再寂寞！我們是在台北市的 Google 技術社群，希望協助對 Google 技術熱衷的技術開發者彼此間更多地交流，並促進彼此成長！",
@@ -117,7 +117,7 @@
       },
       {
         "name": "Mia Yu",
-        "title": "Co-organizer, Women Techmakers Lead",
+        "title": "Co-organizer",
         "photoUrl": "/images/people/mia_yu.jpg",
         "socials": [
           {
@@ -135,7 +135,32 @@
     ]
   },
   {
-    "title": "GCPUG.TW / Google Cloud Platform User Group Taiwan / 台灣谷歌雲端平台使用者社群",
+    "title": "Women Techmakers / 女性技術從業人員社群",
+    "photoUrl": "/images/logos/WTM_logo.png",
+    "link": "https://www.womentechmakers.com/",
+    "description": "WTM 女性資訊從業人員社群是由 Google 所創立的女性開發者社群，希望經由社群的力量帶領女性朋友們走入科技，藉由邀請成功的女性加入，跟大家分享技術、經驗與見聞，讓大家一起成長！",
+    "members" : [
+      {
+        "name": "Mia Yu",
+        "title": "Women Techmakers Lead",
+        "photoUrl": "/images/people/mia_yu.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+MiaYu",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/mia.shopgal",
+            "name": "Facebook"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Platform User Group Taiwan / 台灣谷歌雲端平台使用者社群",
     "photoUrl": "/images/logos/GCPUG-TW.png",
     "description": "GCPUG 透過網際網路串聯喜好 Google Cloud Platform 的使用者，分享與交流使用 GCP的點滴鑑驗。我們在 GCPUG 邀請前輩們分享使用經驗，同時也邀請各路高手互相交流，也歡迎初學者來聽聽我們是怎麼使用 Google 雲端平台的！",
     "link": "http://www.gcpug.tw",
@@ -221,7 +246,7 @@
     ]
   },
   {
-    "title": "TADSG / Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+    "title": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
     "photoUrl": "/images/logos/TADSG_logo.png",
     "link": "https://www.facebook.com/groups/523386591081376/",
     "description": "台灣 Android 開發者讀書會是聚集了眾多 Android 開發相關資訊的開發者社群，透過共同讀書、分享讓大家可以快速學習，輕鬆進入 Android 開發的殿堂。歡迎有有趣題目的開發者、有想要學習 Android 開發的朋友、想尋覓人才的朋友一起參加！",

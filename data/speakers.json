@@ -16,7 +16,11 @@
             "Data Visualization"
         ],
         "badges": [
-
+          {
+              "name": "Google",
+              "description": "Developer Relation, Reginal Lead",
+              "link": "https://developers.google.com"
+          }
         ],
         "socials": [
 
@@ -38,7 +42,11 @@
             "Google Play"
         ],
         "badges": [
-
+          {
+              "name": "Google",
+              "description": "Business Development, Google Play Apps & Games",
+              "link": "https://play.google.com"
+          }
         ],
         "socials": [
 
@@ -46,7 +54,7 @@
     },
     "3": {
         "id": 3,
-        "featured": false,
+        "featured": true,
         "name": "Caesar Chi",
         "title": "F2E Lead",
         "company": "Linker Networks",
@@ -59,7 +67,11 @@
 
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "F2E Lead",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -83,7 +95,7 @@
         "badges": [
             {
                 "name": "iOS Dev Club",
-                "description": "Co-organizer of iOS Dev Club",
+                "description": "Co-organizer",
                 "link": ""
             }
         ],
@@ -108,8 +120,8 @@
         ],
         "badges": [
             {
-              "name": "iOS@Taipei",
-              "description": "Founder of iOS @ Taipei / iOS @ Taipei 社群創辦人",
+              "name": "iOS @ Taipei",
+              "description": "Founder / 社群創辦人",
               "link": "https://www.facebook.com/groups/ios.taipei/"
             }
         ],
@@ -119,7 +131,7 @@
     },
     "6": {
         "id": 6,
-        "featured": false,
+        "featured": true,
         "name": "Ray Shih",
         "title": "Senior Software Engineer",
         "company": "Mobiusbobs",
@@ -160,7 +172,11 @@
             "Cloud"
         ],
         "badges": [
-
+          {
+              "name": "QNAP",
+              "description": "Full-Stack Engineer",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -169,7 +185,7 @@
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Evan Lin 林宜鋒",
+        "name": "Evan Lin / 林宜鋒",
         "title": "Cloud Architect",
         "company": "Linker Networks",
         "companyLogo": "http://image.cnbp.net/logo/c604070c-86a1-420f-93d4-073e65ba0344.png",
@@ -187,7 +203,7 @@
         "badges": [
             {
                 "name": "Golang Taiwan User Group",
-                "description": "Co-organizer",
+                "description": "Cloud Architect",
                 "link": "https://www.facebook.com/groups/269001993248363/"
             }
         ],
@@ -197,7 +213,7 @@
     },
     "9": {
         "id": 9,
-        "featured": false,
+        "featured": true,
         "name": "Williams",
         "title": "Android Engineer",
         "company": "KKBOX Inc.",
@@ -217,7 +233,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Member of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Android Engineer",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
@@ -240,7 +256,11 @@
             "Cloud"
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "Data Scientist",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -262,7 +282,11 @@
             "Prototyping"
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "嫁給 RD 的 UI Designer",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -287,7 +311,7 @@
         "badges": [
             {
                 "name": "ASUS",
-                "description": "ASUSTeK Computer Inc.",
+                "description": "Division Director",
                 "link": "https://zenbo.asus.com/tw/"
             }
         ],
@@ -312,7 +336,7 @@
         "badges": [
           {
               "name": "Android Taipei",
-              "description": "Android Taipei 開發者社群",
+              "description": "Organizer",
               "link": "https://www.facebook.com/groups/AndroidTaipei/"
           }
         ],
@@ -335,7 +359,11 @@
             "Python"
         ],
         "badges": [
-
+          {
+              "name": "Pinkoi",
+              "description": "Python Charmer",
+              "link": "https://www.pinkoi.com"
+          }
         ],
         "socials": [
 
@@ -359,7 +387,7 @@
         "badges": [
             {
                 "name": "HTC",
-                "description": "HTC Corporation / 宏達國際電子",
+                "description": "",
                 "link": "https://www.htc.com"
             }
         ],
@@ -385,7 +413,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Member of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Member",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
@@ -412,7 +440,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Co-organizer of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Co-organizer",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
