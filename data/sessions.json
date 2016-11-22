@@ -261,13 +261,13 @@
     "language": "中文",
     "complexity": "Intermediate",
     "tags": [
-        "Python"
+        "General"
     ],
     "presentation":""
   },
   "113": {
     "id": 113,
-    "title": "Android Pro-tips / Android 的日常：RxJava / Kotlin / AutoValue / Android-Proguards",
+    "title": "Android 的日常：RxJava / Kotlin / AutoValue / Android-Proguards",
     "description": "TBD",
     "speakers": [
       13
@@ -351,14 +351,13 @@
     "language": "中文",
     "complexity": "Begineer",
     "tags": [
-      "Cloud",
-      "Golang"
+      "Go"
     ],
     "presentation":""
   },
   "107": {
     "id": 107,
-    "title": "Visual Tool for writing the Internet of Things / 物維網的視覺化工具：Node-RED",
+    "title": "Visual Tool for writing the Internet of Things / 物維網的視覺化工具：Node-Red",
     "description": "Node-Red 是一個圖型界面的工具，裡面提供許多種特定功能的 “Node”，使用者只要透過 Node-Red 的圖型工具來利用這些不同功能的 Node 給設定和組合起來，然後，加入一些自定的程式碼，這樣，就可以串出一個特定功能的流程 (Flow) 來執行一些功能。",
     "speakers": [
       7
@@ -366,6 +365,7 @@
     "language": "中文",
     "complexity": "Beginner",
     "tags": [
+      "Community",
       "IoT"
     ]
   },
@@ -394,6 +394,7 @@
     "language": "中文",
     "complexity": "Advanced",
     "tags": [
+      "Community",
       "iOS"
     ],
     "presentation":""
@@ -401,7 +402,7 @@
   "104": {
     "id": 104,
     "title": "Move to iOS with Firebase!!",
-    "description": "曾在 2015/16年擔任臺大黑客松評審/講者，也曾經在台中榮總、東海大學、資策會、教育部、HackNTU...等單位擔任講師，在 iOS 領域上有突出表現的景隆此次分享本年度的熱門話題 Firebase，並帶領大家如何佈署在 iOS 上面。",
+    "description": "曾在 2015/16 年擔任臺大黑客松評審/講者，也曾經在台中榮總、東海大學、資策會、教育部、HackNTU...等單位擔任講師，在 iOS 領域上有突出表現的景隆此次分享本年度的熱門話題 Firebase，並帶領大家如何佈署在 iOS 上面。",
     "speakers": [
       4
     ],
@@ -441,7 +442,7 @@
   },
   "101": {
     "id": 101,
-    "title": "Material Design / 質感設計",
+    "title": "Material Design / 實感設計",
     "description": "TBD",
     "speakers": [
       1
@@ -449,7 +450,7 @@
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "UX"
+      "Material Design"
     ],
     "presentation":""
   }

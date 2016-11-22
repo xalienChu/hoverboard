@@ -12,7 +12,7 @@
         "bio": "Takuo is a Developer Relation Regional Lead at Google, currently focused on helping developers with Google technologies.",
         "tags": [
             "UX",
-            "Startups",
+            "Entrepreneurship",
             "Data Visualization"
         ],
         "badges": [
@@ -64,7 +64,9 @@
         "shortBio": "Full stack tech manager, distribution collaborator  and open source project developer, focus on Node.js, JavaScript language.",
         "bio": "",
         "tags": [
-
+          "Full-Stack",
+          "Node.JS",
+          "JavaScript"
         ],
         "badges": [
           {
@@ -85,7 +87,7 @@
         "company": "iOS Dev Club",
         "companyLogo": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-1/c94.0.480.480/p480x480/421243_489616664444085_1423449068_n.png?oh=39bd91458f6238ca065dbd07f2b71b33&oe=588851E8",
         "country": "Taiwan",
-        "photoUrl": "https://www.evernote.com/shard/s9/sh/94deb824-7895-44b8-b1c2-a218a74c3013/6c353ef2c2929ece/res/51fd8bd6-6bd4-4bbb-ba62-f461dc24ca95/appletone.jpg?resizeSmall&width=832",
+        "photoUrl": "/images/people/appletone_chang.jpg",
         "shortBio": "2015/16年臺大黑客松評審/講者、2014 MOPCON 講者、熱門軟體 CWMoney 開發者",
         "bio": "曾在 2015/16年擔任臺大黑客松評審/講者，也曾經在台中榮總、東海大學、資策會、教育部、HackNTU...等單位擔任講師，在 iOS 領域上有突出表現。",
         "tags": [
@@ -169,7 +171,8 @@
         "shortBio": "QNAP 全端攻城獅",
         "bio": "",
         "tags": [
-            "Cloud"
+            "Cloud",
+            "Fullstack"
         ],
         "badges": [
           {
@@ -194,10 +197,10 @@
         "shortBio": "Cloud Architect at Linker Networks, Co-organizer of Golang Taiwan User Group.",
         "bio": "Cloud Architect at Linker Networks, Co-organizer of Golang Taiwan User Group.",
         "tags": [
+            "Go",
             "Android",
             "iOS",
             "Cloud",
-            "Golang",
             "Multimedia"
         ],
         "badges": [
@@ -413,7 +416,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Member",
+                "description": "Android Developer",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
