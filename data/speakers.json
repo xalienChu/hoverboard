@@ -11,12 +11,16 @@
         "shortBio": "Takuo is a Developer Relation, Regional Lead at Google, currently focused on helping developers with Google technologies...",
         "bio": "Takuo is a Developer Relation Regional Lead at Google, currently focused on helping developers with Google technologies.",
         "tags": [
+            "UX",
             "Startups",
-            "UI/UX",
             "Data Visualization"
         ],
         "badges": [
-
+          {
+              "name": "Google",
+              "description": "Developer Relation, Reginal Lead",
+              "link": "https://developers.google.com"
+          }
         ],
         "socials": [
 
@@ -38,7 +42,11 @@
             "Google Play"
         ],
         "badges": [
-
+          {
+              "name": "Google",
+              "description": "Business Development, Google Play Apps & Games",
+              "link": "https://play.google.com"
+          }
         ],
         "socials": [
 
@@ -46,20 +54,24 @@
     },
     "3": {
         "id": 3,
-        "featured": false,
-        "name": "",
-        "title": "",
-        "company": "",
-        "companyLogo": "",
-        "country": "",
-        "photoUrl": "",
-        "shortBio": "",
+        "featured": true,
+        "name": "Caesar Chi",
+        "title": "F2E Lead",
+        "company": "Linker Networks",
+        "companyLogo": "http://image.cnbp.net/logo/c604070c-86a1-420f-93d4-073e65ba0344.png",
+        "country": "Taipei, Taiwan",
+        "photoUrl": "https://avatars.io/facebook/clonncd/large",
+        "shortBio": "Full stack tech manager, distribution collaborator  and open source project developer, focus on Node.js, JavaScript language.",
         "bio": "",
         "tags": [
 
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "F2E Lead",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -83,7 +95,7 @@
         "badges": [
             {
                 "name": "iOS Dev Club",
-                "description": "Co-organizer of iOS Dev Club",
+                "description": "Co-organizer",
                 "link": ""
             }
         ],
@@ -108,8 +120,8 @@
         ],
         "badges": [
             {
-              "name": "iOS@Taipei",
-              "description": "Founder of iOS @ Taipei / iOS @ Taipei 社群創辦人",
+              "name": "iOS @ Taipei",
+              "description": "Founder / 社群創辦人",
               "link": "https://www.facebook.com/groups/ios.taipei/"
             }
         ],
@@ -119,7 +131,7 @@
     },
     "6": {
         "id": 6,
-        "featured": false,
+        "featured": true,
         "name": "Ray Shih",
         "title": "Senior Software Engineer",
         "company": "Mobiusbobs",
@@ -148,19 +160,23 @@
     "7": {
         "id": 7,
         "featured": true,
-        "name": "Andy",
+        "name": "Andy Lin",
         "title": "Full-Stack Engineer",
         "company": "QNAP System Inc.",
         "companyLogo": "https://download.qnap.com/Origin/i/images/q_logo.jpg",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://lh3.googleusercontent.com/PjtLz_h8CN6tTJTGlQ6vXMPCrxnquPWLdsmzbRKYfG8-PQTLZmTHbQSwuWoqgwN2NNTu2BC5FeVSRrE=w2880-h1554",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-andy.jpg",
         "shortBio": "QNAP 全端攻城獅",
         "bio": "",
         "tags": [
             "Cloud"
         ],
         "badges": [
-
+          {
+              "name": "QNAP",
+              "description": "Full-Stack Engineer",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -169,7 +185,7 @@
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Evan Lin 林宜鋒",
+        "name": "Evan Lin / 林宜鋒",
         "title": "Cloud Architect",
         "company": "Linker Networks",
         "companyLogo": "http://image.cnbp.net/logo/c604070c-86a1-420f-93d4-073e65ba0344.png",
@@ -187,7 +203,7 @@
         "badges": [
             {
                 "name": "Golang Taiwan User Group",
-                "description": "Co-organizer",
+                "description": "Cloud Architect",
                 "link": "https://www.facebook.com/groups/269001993248363/"
             }
         ],
@@ -197,7 +213,7 @@
     },
     "9": {
         "id": 9,
-        "featured": false,
+        "featured": true,
         "name": "Williams",
         "title": "Android Engineer",
         "company": "KKBOX Inc.",
@@ -217,7 +233,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Member of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Android Engineer",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
@@ -228,19 +244,23 @@
     "10": {
         "id": 10,
         "featured": true,
-        "name": "Araon Lai / 賴顗安",
+        "name": "Aaron Lai / 賴顗安",
         "title": "Data Scientist",
         "company": "GliaCloud Co. Ltd.",
         "companyLogo": "https://pbs.twimg.com/profile_images/641885889656819714/qdNlR-mT.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "https://lh4.googleusercontent.com/1MzoVFxc7SHFczUaY_fq_ItnvcAvzAgEG6wdoCmE0eYBAdNwjac6RFftsMki2E0OGAM4fEu3ngLT4GM=w2880-h1554",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-aaron.jpg",
         "shortBio": "Yi-An Lai is a Data Scientist in GliaCloud and participates in the core development of GliaStudio, an artificial intelligence video creation platform.",
         "bio": "Yi-An Lai is a Data Scientist in GliaCloud and participates in the core development of GliaStudio, an artificial intelligence video creation platform. Yi-An Lai has broad interests in Machine Learning, Deep Learning, and Recommender systems. He is also a travel lover.",
         "tags": [
             "Cloud"
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "Data Scientist",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -258,11 +278,15 @@
         "shortBio": "嫁給 RD 的 UI Designer，為了能讓老公準時下班，所以努力推廣 UI/UX 設計方面的知識與技術。希望設計師能和工程師合作順利，成為專案開發中的重要戰力。",
         "bio": "嫁給 RD 的 UI Designer，為了能讓老公準時下班，所以努力推廣 UI/UX 設計方面的知識與技術。希望設計師能和工程師合作順利，成為專案開發中的重要戰力。",
         "tags": [
-            "UI/UX",
+            "UX",
             "Prototyping"
         ],
         "badges": [
-
+          {
+              "name": "",
+              "description": "嫁給 RD 的 UI Designer",
+              "link": ""
+          }
         ],
         "socials": [
 
@@ -287,7 +311,7 @@
         "badges": [
             {
                 "name": "ASUS",
-                "description": "ASUSTeK Computer Inc.",
+                "description": "Division Director",
                 "link": "https://zenbo.asus.com/tw/"
             }
         ],
@@ -312,7 +336,7 @@
         "badges": [
           {
               "name": "Android Taipei",
-              "description": "Android Taipei 開發者社群",
+              "description": "Organizer",
               "link": "https://www.facebook.com/groups/AndroidTaipei/"
           }
         ],
@@ -335,7 +359,11 @@
             "Python"
         ],
         "badges": [
-
+          {
+              "name": "Pinkoi",
+              "description": "Python Charmer",
+              "link": "https://www.pinkoi.com"
+          }
         ],
         "socials": [
 
@@ -359,7 +387,7 @@
         "badges": [
             {
                 "name": "HTC",
-                "description": "HTC Corporation / 宏達國際電子",
+                "description": "",
                 "link": "https://www.htc.com"
             }
         ],
@@ -385,7 +413,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Member of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Member",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
@@ -412,7 +440,7 @@
         "badges": [
             {
                 "name": "TADSG",
-                "description": "Co-organizer of Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+                "description": "Co-organizer",
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
