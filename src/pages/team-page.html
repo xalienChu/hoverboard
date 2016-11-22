@@ -68,6 +68,17 @@
         text-align: center;
       }
 
+      .team-logo {
+        width: 140px;
+        height: 140px;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .team-description {
+        text-align: justify;
+      }
+
       .member {
         @apply(--layout-horizontal);
         width: 100%;
@@ -207,7 +218,13 @@
 
       <template is="dom-repeat" items="[[app.team]]" as="team">
         <div class="team-block">
+          <div class="header" hidden$="[[!team.photoUrl]]">
+            <a href="[[team.link]]"><img class="team-logo" src="[[team.photoUrl]]"/></a>
+          </div>
           <h3 class="team-name" cascaded>[[team.title]]</h3>
+          <marked-element class="team-description" markdown="[[team.description]]">
+            <div class="markdown-html"></div>
+          </marked-element>
 
           <div class="team-container">
             <template is="dom-repeat" items="[[team.members]]" as="member" on-dom-change="updateCascadedNodes">
