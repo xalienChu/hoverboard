@@ -374,7 +374,7 @@
     },
     "15": {
         "id": 15,
-        "featured": true,
+        "featured": false,
         "name": "Cooper",
         "title": "",
         "company": "HTC Corporation / 宏達國際電子",
@@ -400,7 +400,7 @@
     },
     "16": {
         "id": 16,
-        "featured": true,
+        "featured": false,
         "name": "Cateyes Lin",
         "title": "Android Developer",
         "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
