@@ -403,17 +403,19 @@
     "16": {
         "id": 16,
         "featured": false,
-        "name": "Cateyes Lin",
+        "name": "Cateyes Lin / 林致捷",
         "title": "Android Developer",
         "company": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
         "companyLogo": "../images/logos/TADSG_logo.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "",
-        "shortBio": "TADSG member, Android enthusiast.",
-        "bio": "Cateyes is a passionate Android developer and mobile technology evangelist. He is an member of TADSG.",
+        "photoUrl": "../images/people/cateyes_lin.jpg",
+        "shortBio": "無特殊專長，有不良嗜好，前後端到處遊走的<span style=\"text-decoration:line-through;\">阿宅</span>工程師。因為沒有特殊專長，所以在其他的聚會看到這個傢伙也是非常正常的。",
+        "bio": "主要？專注於 Android 開發以及 AWS 雲端服務的架構整合的軟體開發者，時不時也會碰各種覺得有趣的東西來玩玩看。目前任職於 Ecowork 擔任<span style=\"text-decoration:line-through;\">阿宅</span>工程師，負責程式規劃開發、系統設計、CI / CD 建置、新東西的掃雷等等。",
         "tags": [
             "Android",
-            "Firebase"
+            "Firebase",
+            "Cloud",
+            "AWS"
         ],
         "badges": [
             {
@@ -422,9 +424,7 @@
                 "link": "https://www.facebook.com/groups/523386591081376/"
             }
         ],
-        "socials": [
-
-        ]
+        "socials": []
     },
     "17": {
         "id": 17,
