@@ -429,8 +429,8 @@
     "17": {
         "id": 17,
         "featured": false,
-        "name": "TBD",
-        "title": "TBD",
+        "name": "張騰文",
+        "title": "技術長",
         "company": "iStaging Corporation",
         "companyLogo": "http://istaging.co/wp-content/themes/istaging/images/logo-medium.png",
         "country": "Taipei, Taiwan",
@@ -439,13 +439,42 @@
         "bio": "",
         "tags": [
             "Android",
+            "Firebase",
             "VR",
             "Tango"
         ],
         "badges": [
             {
                 "name": "iStaging",
-                "description": "",
+                "description": "Chief Technical Offier",
+                "link": "https://www.istaging.co"
+            }
+        ],
+        "socials": [
+
+        ]
+    },
+    "18": {
+        "id": 18,
+        "featured": false,
+        "name": "陳毅承",
+        "title": "Unity 工程師",
+        "company": "iStaging Corporation",
+        "companyLogo": "http://istaging.co/wp-content/themes/istaging/images/logo-medium.png",
+        "country": "Taipei, Taiwan",
+        "photoUrl": "",
+        "shortBio": "",
+        "bio": "",
+        "tags": [
+            "Android",
+            "Firebase",
+            "VR",
+            "Tango"
+        ],
+        "badges": [
+            {
+                "name": "iStaging",
+                "description": "Unity 工程師",
                 "link": "https://www.istaging.co"
             }
         ],
