@@ -134,6 +134,14 @@
         "soldOut": true
       },
       {
+        "name": "early-ticket",
+        "price": 0,
+        "currency": "$",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "soldOut": true
+      },
+      {
         "name": "lazy-ticket",
         "price": 0,
         "currency": "$",
