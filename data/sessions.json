@@ -209,16 +209,17 @@
   },
   "117": {
     "id": 117,
-    "title": "Andorid Nougat - Multi-Window",
+    "title": "Google VR & Tango",
     "description": "TBD",
     "speakers": [
       17
     ],
     "language": "中文",
-    "complexity": "Intermediate",
+    "complexity": "Begineer",
     "tags": [
       "Android",
-      "Android Nougat"
+      "VR",
+      "Tango"
     ]
   },
   "116": {
