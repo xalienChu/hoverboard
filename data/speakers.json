@@ -375,23 +375,24 @@
     },
     "15": {
         "id": 15,
-        "featured": false,
-        "name": "Cooper",
-        "title": "",
+        "featured": true,
+        "name": "Cooper Lin",
+        "title": "VR Content Engineer",
         "company": "HTC Corporation / 宏達國際電子",
         "companyLogo": "http://logos-download.com/wp-content/uploads/2016/03/HTC_logo.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "../images/people/cooper_lin.jpg",
+        "shortBio": "Cooper is a VR content and Android developer from HTC, focused on user experience",
+        "bio": "Cooper is a VR content and Android developer from HTC, focused on user experience",
         "tags": [
             "Android",
-            "VR"
+            "VR",
+            "Unity"
         ],
         "badges": [
             {
                 "name": "HTC",
-                "description": "",
+                "description": "VR Content Engineer",
                 "link": "https://www.htc.com"
             }
         ],

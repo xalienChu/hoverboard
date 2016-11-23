@@ -357,7 +357,7 @@
   },
   "107": {
     "id": 107,
-    "title": "Visual Tool for writing the Internet of Things / 物維網的視覺化工具：Node-Red",
+    "title": "當個Program Maker吧！使用視覺化元件，做出屬於自己專屬的應用/Node-Red",
     "description": "Node-Red 是一個圖型界面的工具，裡面提供許多種特定功能的 “Node”，使用者只要透過 Node-Red 的圖型工具來利用這些不同功能的 Node 給設定和組合起來，然後，加入一些自定的程式碼，這樣，就可以串出一個特定功能的流程 (Flow) 來執行一些功能。",
     "speakers": [
       7
