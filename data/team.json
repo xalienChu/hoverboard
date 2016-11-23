@@ -335,6 +335,28 @@
         ]
       },
       {
+        "name": "YI-Teng Wang / 王易騰",
+        "photoUrl": "/images/people/teng_wang.jpeg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/106916437160362325642",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/yumi.wang.568",
+            "name": "Facebook"
+          },
+          {
+            "icon": "website",
+            "link": "http://teng-wang.blogspot.com/",
+            "name": "Blog"
+          }
+        ],
+        "title": "Co-organizer"
+      },
+      {
         "name": "Charlie Tsai / 蔡昇哲",
         "title": "Co-organizer",
         "photoUrl": "/images/people/charlie_tsai.jpg",
