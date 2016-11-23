@@ -226,7 +226,7 @@
   "116": {
     "id": 116,
     "title": "Codelab: Firebase @ Android",
-    "description": "TBD",
+    "description": "初步介紹 Firebase 的各項服務並應用 Firebase 的 Realtime Database、Auth 等等服務輕鬆的開發一套簡易的即時聊天程式。",
     "speakers": [
       16
     ],
@@ -236,7 +236,7 @@
       "Firebase",
       "Android"
     ],
-    "presentation":""
+    "presentation":"https://www.gitbook.com/book/cateyeslin/myawesomechat/details"
   },
   "115": {
     "id": 115,
