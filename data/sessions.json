@@ -209,22 +209,24 @@
   },
   "117": {
     "id": 117,
-    "title": "Andorid Nougat - Multi-Window",
+    "title": "Google VR & Tango",
     "description": "TBD",
     "speakers": [
-      17
+      17,
+      18
     ],
     "language": "中文",
-    "complexity": "Intermediate",
+    "complexity": "Begineer",
     "tags": [
       "Android",
-      "Android Nougat"
+      "VR",
+      "Tango"
     ]
   },
   "116": {
     "id": 116,
     "title": "Codelab: Firebase @ Android",
-    "description": "TBD",
+    "description": "初步介紹 Firebase 的各項服務並應用 Firebase 的 Realtime Database、Auth 等等服務輕鬆的開發一套簡易的即時聊天程式。",
     "speakers": [
       16
     ],
@@ -234,7 +236,7 @@
       "Firebase",
       "Android"
     ],
-    "presentation":""
+    "presentation":"https://www.gitbook.com/book/cateyeslin/myawesomechat/details"
   },
   "115": {
     "id": 115,
@@ -261,13 +263,13 @@
     "language": "中文",
     "complexity": "Intermediate",
     "tags": [
-        "Python"
+        "General"
     ],
     "presentation":""
   },
   "113": {
     "id": 113,
-    "title": "Android Pro-tips / Android 的日常：RxJava / Kotlin / AutoValue / Android-Proguards",
+    "title": "Android 的日常：RxJava / Kotlin / AutoValue / Android-Proguards",
     "description": "TBD",
     "speakers": [
       13
@@ -298,7 +300,7 @@
   },
   "111": {
     "id": 111,
-    "title": "Testing Between Prototype and UI States / Prototype 與 UI 狀態間的測試",
+    "title": "Prototype 與 UI 狀態間的測試",
     "description": "TBD",
     "speakers": [
       11
@@ -306,7 +308,7 @@
     "language": "中文",
     "complexity": "Intermediate",
     "tags": [
-      "UI/UX",
+      "UX",
       "Prototype",
       "Testing"
     ],
@@ -314,7 +316,7 @@
   },
   "110": {
     "id": 110,
-    "title": "Using TensorFlow / TensorFlow 的應用",
+    "title": "Activity Recognition with TensorFlow",
     "description": "Videos are gaining the ascendancy for Machine Intelligence research and applications. This talk will introduce how to leverage a power tool, TensorFlow, to realize deep learning models and recognize the activities present in the video.",
     "speakers": [
       10
@@ -351,14 +353,13 @@
     "language": "中文",
     "complexity": "Begineer",
     "tags": [
-      "Cloud",
-      "Golang"
+      "Go"
     ],
     "presentation":""
   },
   "107": {
     "id": 107,
-    "title": "Visual Tool for writing the Internet of Things / 物維網的視覺化工具：Node-RED",
+    "title": "當個 Program Maker 吧！使用視覺化元件，做出屬於自己專屬的應用 / Node-Red",
     "description": "Node-Red 是一個圖型界面的工具，裡面提供許多種特定功能的 “Node”，使用者只要透過 Node-Red 的圖型工具來利用這些不同功能的 Node 給設定和組合起來，然後，加入一些自定的程式碼，這樣，就可以串出一個特定功能的流程 (Flow) 來執行一些功能。",
     "speakers": [
       7
@@ -366,6 +367,7 @@
     "language": "中文",
     "complexity": "Beginner",
     "tags": [
+      "Community",
       "IoT"
     ]
   },
@@ -394,6 +396,7 @@
     "language": "中文",
     "complexity": "Advanced",
     "tags": [
+      "Community",
       "iOS"
     ],
     "presentation":""
@@ -401,7 +404,7 @@
   "104": {
     "id": 104,
     "title": "Move to iOS with Firebase!!",
-    "description": "曾在 2015/16年擔任臺大黑客松評審/講者，也曾經在台中榮總、東海大學、資策會、教育部、HackNTU...等單位擔任講師，在 iOS 領域上有突出表現的景隆此次分享本年度的熱門話題 Firebase，並帶領大家如何佈署在 iOS 上面。",
+    "description": "曾在 2015/16 年擔任臺大黑客松評審/講者，也曾經在台中榮總、東海大學、資策會、教育部、HackNTU...等單位擔任講師，在 iOS 領域上有突出表現的景隆此次分享本年度的熱門話題 Firebase，並帶領大家如何佈署在 iOS 上面。",
     "speakers": [
       4
     ],
@@ -415,13 +418,13 @@
   },
   "103": {
     "id": 103,
-    "title": "TBD",
-    "description": "",
+    "title": "Morden F2E Education, Think of Progressive Web Apps",
+    "description": "- how we learn f2e<br>- education situation<br>- what we think about f2e<br>- key course we have to learn.<br>- Progressive web apps learning.<br>- Progressive web apps as a base courses for front end.<br>- Feature is now for front end.",
     "speakers": [
       3
     ],
     "tags": [
-
+      "Progressive Web Apps"
     ],
     "presentation":""
   },
@@ -441,7 +444,7 @@
   },
   "101": {
     "id": 101,
-    "title": "Material Design / 質感設計",
+    "title": "Material Design / 實感設計",
     "description": "TBD",
     "speakers": [
       1
@@ -449,7 +452,7 @@
     "language": "English",
     "complexity": "Beginner",
     "tags": [
-      "UI/UX"
+      "Material Design"
     ],
     "presentation":""
   }

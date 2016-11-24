@@ -189,30 +189,6 @@
             </ul>
           </div>
 
-          <div class="bottom-caption" layout horizontal center justified>
-            <div class="tags" hidden$="[[!session.tags.length]]" layout horizontal center>
-              <iron-icon icon="tags"></iron-icon>
-              <span>[[_joinArray(session.tags)]]</span>
-            </div>
-
-            <iron-icon
-              class$="action-icon [[myScheduleIcon]]"
-              icon$="[[myScheduleIcon]]"
-              on-tap="toggleMyScheduleSession"
-              session-id$="[[session.id]]"
-              disabled$="[[!online]]"
-            ></iron-icon>
-
-            <template is="dom-if" if="[[!app.user.uid]]">
-              <iron-icon
-                class="action-icon add-icon-outline"
-                icon="add-circle-outline"
-                on-tap="toggleMyScheduleSession"
-                disabled$="[[!online]]"
-              ></iron-icon>
-            </template>
-          </div>
-
           <div
             class="speaker-block"
             hidden$="[[!session.speakers.length]]"
