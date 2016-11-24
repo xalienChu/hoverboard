@@ -210,7 +210,7 @@
   "117": {
     "id": 117,
     "title": "Google VR & Tango",
-    "description": "TBD",
+    "description": "AR/VR 的介紹和商業應用現場展示. 以及現場 Live 做 Google VR 和 Project Tango 的實作。",
     "speakers": [
       17,
       18
@@ -220,7 +220,8 @@
     "tags": [
       "Android",
       "VR",
-      "Tango"
+      "Tango",
+      "Unity"
     ]
   },
   "116": {

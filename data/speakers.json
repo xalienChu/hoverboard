@@ -436,9 +436,9 @@
         "company": "iStaging Corporation",
         "companyLogo": "http://istaging.co/wp-content/themes/istaging/images/logo-medium.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "/images/people/felix_chang.jpg",
+        "shortBio": "全端工程師。興趣就是玩新技術，然後把技術整合帶來一點不一樣的生活體驗。",
+        "bio": "全端工程師。興趣就是玩新技術，然後把技術整合帶來一點不一樣的生活體驗。",
         "tags": [
             "Android",
             "Firebase",
@@ -464,14 +464,15 @@
         "company": "iStaging Corporation",
         "companyLogo": "http://istaging.co/wp-content/themes/istaging/images/logo-medium.png",
         "country": "Taipei, Taiwan",
-        "photoUrl": "",
-        "shortBio": "",
-        "bio": "",
+        "photoUrl": "/images/people/YiCheng_Chen.jpg",
+        "shortBio": "Unity工程師，專長為電腦圖學。目前致力於AR/VR軟體的開發。興趣是研究更好的演算法及使用者體驗。",
+        "bio": "Unity工程師，專長為電腦圖學。目前致力於AR/VR軟體的開發。興趣是研究更好的演算法及使用者體驗。",
         "tags": [
             "Android",
             "Firebase",
             "VR",
-            "Tango"
+            "Tango",
+            "Unity"
         ],
         "badges": [
             {
