@@ -275,7 +275,7 @@
       },
       {
         "name": "Skuld Chen",
-        "title": "Co-Organizer",
+        "title": "Co-organizer",
         "photoUrl": "/images/people/skuld_chen.jpg",
         "socials": [
           {
@@ -292,7 +292,7 @@
       },
       {
         "name": "Ymow Wu / 吳俊逸",
-        "title": "Co-Organizer",
+        "title": "Co-organizer",
         "photoUrl": "/images/people/ymou_wu.png",
         "socials": [
           {
@@ -369,6 +369,23 @@
           {
             "icon": "linkedin",
             "link": "https://www.linkedin.com/in/charlie-tsai-21ba2269",
+            "name": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Weihung Liu / 劉威宏",
+        "title": "Co-organizer",
+        "photoUrl": "https://lh3.googleusercontent.com/oDYfzDhKzqiDwWxhWtTvQZPT9qoN9goOUae0yA-QkHufnqeddP0Em17NFbEC3v_yiICIBJm3808WGiO-oUc8M1T0nfVLlrRjfHV8o6HI3_GkWyGupM8JJ-MGbqNTuoWd6VBmq5Oq4_08X6XUO1Mq-lLy5fhZaYmiRItB_VJEH7nyLTmmhBS_3_ksedJjg2RMz-hXsqoCqfcAHnnpZripbga_sygUNOkICd6k1fdw6FZC2m4_cCNjGegfQ4pAVs9u62rJTZhz6rsgYVaNDRYTlw_sZiNmwA3wd2-62cyVsbt56uqJn4P1-QFhvcDu-O488wml9aWF76_zOfL1r0aKmvafrPIgwOpJs7ZKfTzUTBmpYxSk8DDWy8_iWM1_xjmfrCKJPS7KtwKWUgkxT98R3im-u0A7cFeyUrZq8UYnyx9ahKJx_7uyp5z6PShDIAeVC3SDKhfN0CEF-kogwsSkx72AVNLvmAqfwzhUKvnzxkB64pblwXJ0Rz40LeYksjKIZtGxJQMM0irPLWUs_i9Z17k2aiJhB18xNdKL9aMWylKd6Ql8bh_iWOndpIxO4ygrQAUFYqGFOnQpBP3yZKJgxa5pa3hkg-RYb_THcnSCK_e8_v3o=w587-h693-no",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/Weihung.TW",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/weihung-liu-4910b845",
             "name": "LinkedIn"
           }
         ]
