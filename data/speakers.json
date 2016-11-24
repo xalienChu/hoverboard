@@ -404,7 +404,7 @@
     },
     "16": {
         "id": 16,
-        "featured": false,
+        "featured": true,
         "name": "Cateyes Lin / 林致捷",
         "title": "Android Developer",
         "company": "台灣 Android 開發者讀書會",
@@ -430,7 +430,7 @@
     },
     "17": {
         "id": 17,
-        "featured": false,
+        "featured": true,
         "name": "張騰文",
         "title": "技術長",
         "company": "iStaging Corporation",
@@ -458,7 +458,7 @@
     },
     "18": {
         "id": 18,
-        "featured": false,
+        "featured": true,
         "name": "陳毅承",
         "title": "Unity 工程師",
         "company": "iStaging Corporation",
