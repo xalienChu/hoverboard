@@ -18,7 +18,7 @@ HOVERBOARD.ServiceWorkerRegistration = (function () {
   'use strict';
 
   // Ensure we only attempt to register the SW once.
-  var isAlreadyRegistered = false;
+  var isAlreadyRegistered = true;
 
   var URL = 'service-worker.js';
   var SCOPE = './';
