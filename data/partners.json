@@ -22,6 +22,11 @@
         "url": "https://zenbo.asus.com/tw/",
         "logoUrl": "../images/logos/ASUS_Logo.png"
       }
+      {
+        "name": "MiTAC Information Technology Inc. / 神通資科",
+        "url": "https://www.mitac.com.tw/",
+        "logoUrl": "../images/logos/mitac-logo.png"
+      }
     ]
   },
   {
