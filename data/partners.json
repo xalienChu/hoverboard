@@ -10,6 +10,16 @@
     ]
   },
   {
+    "title": "gold-sponsor",
+    "logos": [
+      {
+        "name": "MiTAC",
+        "url": "https://www.mitac.com.tw/",
+        "logoUrl": "../images/logos/google.svg"
+      }
+    ]
+  },
+  {
     "title": "general-partner",
     "logos": [
       {
