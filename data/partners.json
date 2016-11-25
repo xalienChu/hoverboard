@@ -13,9 +13,9 @@
     "title": "gold-sponsor",
     "logos": [
       {
-        "name": "MiTAC",
+        "name": "MiTAC Information Technology Corp. / 神通資訊科技",
         "url": "https://www.mitac.com.tw/",
-        "logoUrl": "../images/logos/google.svg"
+        "logoUrl": "../images/logos/mitac-logo.png"
       }
     ]
   },
@@ -26,16 +26,6 @@
         "name": "GDG[x]",
         "url": "https://github.com/gdg-x",
         "logoUrl": "../images/logos/gdg-x.svg"
-      },
-      {
-        "name": "ASUSTek Computer Inc. / 華碩電腦",
-        "url": "https://zenbo.asus.com/tw/",
-        "logoUrl": "../images/logos/ASUS_Logo.png"
-      }
-      {
-        "name": "MiTAC Information Technology Inc. / 神通資科",
-        "url": "https://www.mitac.com.tw/",
-        "logoUrl": "../images/logos/mitac-logo.png"
       }
     ]
   },
