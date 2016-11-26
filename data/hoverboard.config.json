@@ -9,7 +9,7 @@
   "pages": {
     "home": {
       "headerSettings": {
-        "backgroundColor": "#FF9800",
+        "backgroundColor": "#FFFFFF",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
@@ -18,6 +18,7 @@
     "speakers": {
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -25,6 +26,7 @@
     "schedule": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -32,6 +34,7 @@
     "team": {
       "headerSettings": {
         "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -39,6 +42,7 @@
     "cod": {
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -130,6 +134,14 @@
         "soldOut": true
       },
       {
+        "name": "early-ticket",
+        "price": 0,
+        "currency": "$",
+        "starts": "early-ticket-starts",
+        "ends": "early-ticket-ends",
+        "soldOut": true
+      },
+      {
         "name": "lazy-ticket",
         "price": 0,
         "currency": "$",
@@ -196,7 +208,9 @@
       "longitude": 121.5367215
     },
     "images": [
-      ""
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
     ]
   },
   "videosSessionsUrl": "",

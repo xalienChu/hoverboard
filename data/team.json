@@ -1,10 +1,14 @@
 [
   {
-    "title": "GDG Taipei / 台北谷歌開發者社群",
+    "title": "Google Developer Group Taipei / 台北谷歌開發者社群",
+    "photoUrl": "/images/logos/gdg-taipei.svg",
+    "link": "http://www.gdg-taipei.org/",
+    "description": "GDG 是源自於 Google 的開發者社群，透過熱心的 Google 技術開發者在各地以各種形式聚會的方式，邀請大家分享在 Google 相關的領域進行技術交流，讓大家可以在輕鬆的環境下，學習瞭解 Google 的相關技術。讓開發者在學習的路途上，不再寂寞！我們是在台北市的 Google 技術社群，希望協助對 Google 技術熱衷的技術開發者彼此間更多地交流，並促進彼此成長！",
     "members": [
       {
         "name": "Ted Chien / 簡翔泰",
-        "photoUrl": "http://en.gravatar.com/userimage/2635180/c9757c44283ee800e3b31e1452834fb9.jpg",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/ted_chien.png",
         "socials": [
           {
             "icon": "gplus",
@@ -26,12 +30,12 @@
             "link": "http://www.htchien.tw/",
             "name": "Blog"
           }
-        ],
-        "title": "Co-organizer"
+        ]
       },
       {
         "name": "Colin Su",
-        "photoUrl": "https://lh3.googleusercontent.com/OW9iYbNXbOhZs4M3ZQNmURywMmFkRjOHc2EjG8TvT8BkneIfhYd-IpD9caiT-rid6Zcpie0GdXE=w5760-h3600-rw-no",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/colin_su.webp",
         "socials": [
           {
             "icon": "gplus",
@@ -48,12 +52,12 @@
             "link": "https://twitter.com/little0903",
             "name": "Twitter"
           }
-        ],
-        "title": "Co-organizer"
+        ]
       },
       {
         "name": "Fred Lin",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-1/c0.11.320.320/p320x320/1620743_10205240126421845_8305327759927491897_n.jpg?oh=ef7963809d578a3333d9ed3dc453a937&oe=588A6A49",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/gasolin.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -65,12 +69,12 @@
             "link": "https://www.facebook.com/fred.g.lin",
             "name": "Facebook"
           }
-        ],
-        "title": "Co-organizer"
+        ]
       },
       {
         "name": "Shaka Huang / 黃建洲",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-1/c0.33.200.200/1912535_10202913639382527_1137649879_n.jpg?oh=e423ea8a20a61fd6e4926102d3066d39&oe=5886D6DB",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/shaka_huang.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -81,13 +85,23 @@
             "icon": "facebook",
             "link": "https://www.facebook.com/shakalaca",
             "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/shakalaca",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://23pin.logdown.com/",
+            "name": "Blog"
           }
-        ],
-        "title": "Co-organizer"
+        ]
       },
       {
         "name": "Ahdaa Yeh / 葉承達",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-1/p320x320/10433797_10152551559675836_2027807005492652910_n.jpg?oh=eb193b2627e58ac73a7295a92de76b82&oe=58BA6B42",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/ahdaa_yeh.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -99,12 +113,12 @@
             "link": "https://www.facebook.com/ahdaa.yeh",
             "name": "Facebook"
           }
-        ],
-        "title": "Co-organizer"
+        ]
       },
       {
         "name": "Mia Yu",
-        "photoUrl": "https://scontent-tpe1-1.xx.fbcdn.net/v/t1.0-1/p320x320/11182268_1013596611986790_1026325429729914142_n.jpg?oh=e549d932ea6cd705e46715e6925623c6&oe=58C716DC",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/mia_yu.jpg",
         "socials": [
           {
             "icon": "gplus",
@@ -116,94 +130,265 @@
             "link": "https://www.facebook.com/mia.shopgal",
             "name": "Facebook"
           }
-        ],
-        "title": "Co-organizer, Women Techmakers Lead"
+        ]
       }
     ]
   },
   {
-    "title": "Google Cloud Platform User Group",
+    "title": "Women Techmakers / 女性技術從業人員社群",
+    "photoUrl": "/images/logos/WTM_logo.png",
+    "link": "https://www.womentechmakers.com/",
+    "description": "WTM 女性資訊從業人員社群是由 Google 所創立的女性開發者社群，希望經由社群的力量帶領女性朋友們走入科技，藉由邀請成功的女性加入，跟大家分享技術、經驗與見聞，讓大家一起成長！",
+    "members" : [
+      {
+        "name": "Mia Yu",
+        "title": "Women Techmakers Lead",
+        "photoUrl": "/images/people/mia_yu.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+MiaYu",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/mia.shopgal",
+            "name": "Facebook"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Google Cloud Platform User Group Taiwan / 台灣谷歌雲端平台使用者社群",
+    "photoUrl": "/images/logos/GCPUG-TW.png",
+    "description": "GCPUG 透過網際網路串聯喜好 Google Cloud Platform 的使用者，分享與交流使用 GCP的點滴鑑驗。我們在 GCPUG 邀請前輩們分享使用經驗，同時也邀請各路高手互相交流，也歡迎初學者來聽聽我們是怎麼使用 Google 雲端平台的！",
+    "link": "http://www.gcpug.tw",
     "members": [
       {
         "name": "Simon Su",
-        "photoUrl": "",
+        "title": "Organizer",
+        "photoUrl": "https://developers.google.com/experts/img/user/106161812829884405374.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "",
+            "link": "https://plus.google.com/106161812829884405374",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "",
+            "link": "https://www.facebook.com/peihsinsu",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "",
+            "link": "https://twitter.com/peihsinsu",
             "name": "Twitter"
           },
           {
             "icon": "website",
-            "link": "",
+            "link": "http://peihsinsu.blogspot.tw/",
             "name": "Blog"
           }
-        ],
-        "title": "Organizer"
-      }
-    ]
-  },
-  {
-    "title": "Taiwan Android Developer Study Group",
-    "members": [
+        ]
+      },
       {
-        "name": "Takuma Lee / 李思諒",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAOaAAAAJDJkOGYzOTNmLWU1OTktNGIxNS1hYjM5LTQyOTY3ZTVjZDc2NA.jpg",
+        "name": "David Chen",
+        "title": "Organizer",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-lucemia.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "",
+            "link": "https://plus.google.com/u/0/+LucemiaChen",
             "name": "Google+"
           },
           {
             "icon": "facebook",
-            "link": "",
+            "link": "https://www.facebook.com/lucemia",
+            "name": "Facebook"
+          }
+        ]
+      },
+      {
+        "name": "Sunny Hu",
+        "title": "Organizer",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-sunnyhu.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/sunny.hu.573",
             "name": "Facebook"
           },
           {
-            "icon": "twitter",
-            "link": "",
-            "name": "Twitter"
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+sunnyHU",
+            "name": "Google+"
+          }
+        ]
+      },
+      {
+        "name": "Cage Chung",
+        "title": "Organizer",
+        "photoUrl": "https://storage.googleapis.com/devfest-2016/devfest2016-cage.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cage.chung",
+            "name": "Facebook"
           },
           {
-            "icon": "website",
-            "link": "",
-            "name": "Blog"
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+KaiChuChung",
+            "name": "Google+"
           }
-        ],
-        "title": "Organizer"
+        ]
       }
     ]
   },
   {
-    "title": "Program Committee",
+    "title": "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會",
+    "photoUrl": "/images/logos/TADSG_logo.png",
+    "link": "https://www.facebook.com/groups/523386591081376/",
+    "description": "台灣 Android 開發者讀書會是聚集了眾多 Android 開發相關資訊的開發者社群，透過共同讀書、分享讓大家可以快速學習，輕鬆進入 Android 開發的殿堂。歡迎有有趣題目的開發者、有想要學習 Android 開發的朋友、想尋覓人才的朋友一起參加！",
     "members": [
       {
-        "name": "Charlie Tsai",
-        "photoUrl": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/04a/00f/31dfaae.jpg",
+        "name": "Takuma Lee",
+        "title": "Organizer",
+        "photoUrl": "/images/people/takuma_lee.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/115839679759708165200",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/vmgsahm1",
+            "name": "Facebook"
+          },
+          {
+            "icon": "website",
+            "link": "http://takuma-nekomayoi-blog.logdown.com/",
+            "name": "Blog"
+          }
+        ]
+      },
+      {
+        "name": "Skuld Chen",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/skuld_chen.jpg",
         "socials": [
           {
             "icon": "facebook",
-            "link": "",
+            "link": "https://www.facebook.com/profile.php?id=100000342244227",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://tw.linkedin.com/in/skuld-chen-46936379",
+            "name": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Ymow Wu / 吳俊逸",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/ymou_wu.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/+YmowWu",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/ymow.wu",
             "name": "Facebook"
           },
           {
             "icon": "twitter",
-            "link": "",
+            "link": "https://twitter.com/ymow",
             "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "http://ymow.net/",
+            "name": "Blog"
+          }
+        ]
+      },
+      {
+        "name": "HsinHung / 林信宏",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/hsinhung_lin.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/108663180295687550055",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/gn00540683",
+            "name": "Facebook"
+          }
+        ]
+      },
+      {
+        "name": "YI-Teng Wang / 王易騰",
+        "photoUrl": "/images/people/teng_wang.jpeg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/u/0/106916437160362325642",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/yumi.wang.568",
+            "name": "Facebook"
+          },
+          {
+            "icon": "website",
+            "link": "http://teng-wang.blogspot.com/",
+            "name": "Blog"
           }
         ],
-        "title": "Committee Officer"
+        "title": "Co-organizer"
+      },
+      {
+        "name": "Charlie Tsai / 蔡昇哲",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/charlie_tsai.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/cha122977",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/charlie-tsai-21ba2269",
+            "name": "LinkedIn"
+          }
+        ]
+      },
+      {
+        "name": "Weihung Liu / 劉威宏",
+        "title": "Co-organizer",
+        "photoUrl": "https://lh3.googleusercontent.com/oDYfzDhKzqiDwWxhWtTvQZPT9qoN9goOUae0yA-QkHufnqeddP0Em17NFbEC3v_yiICIBJm3808WGiO-oUc8M1T0nfVLlrRjfHV8o6HI3_GkWyGupM8JJ-MGbqNTuoWd6VBmq5Oq4_08X6XUO1Mq-lLy5fhZaYmiRItB_VJEH7nyLTmmhBS_3_ksedJjg2RMz-hXsqoCqfcAHnnpZripbga_sygUNOkICd6k1fdw6FZC2m4_cCNjGegfQ4pAVs9u62rJTZhz6rsgYVaNDRYTlw_sZiNmwA3wd2-62cyVsbt56uqJn4P1-QFhvcDu-O488wml9aWF76_zOfL1r0aKmvafrPIgwOpJs7ZKfTzUTBmpYxSk8DDWy8_iWM1_xjmfrCKJPS7KtwKWUgkxT98R3im-u0A7cFeyUrZq8UYnyx9ahKJx_7uyp5z6PShDIAeVC3SDKhfN0CEF-kogwsSkx72AVNLvmAqfwzhUKvnzxkB64pblwXJ0Rz40LeYksjKIZtGxJQMM0irPLWUs_i9Z17k2aiJhB18xNdKL9aMWylKd6Ql8bh_iWOndpIxO4ygrQAUFYqGFOnQpBP3yZKJgxa5pa3hkg-RYb_THcnSCK_e8_v3o=w587-h693-no",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/Weihung.TW",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/weihung-liu-4910b845",
+            "name": "LinkedIn"
+          }
+        ]
       }
     ]
   }
