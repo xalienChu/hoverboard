@@ -193,15 +193,15 @@
     },
     "9": {
         "id": 9,
-        "featured": false,
-        "name": "Williams",
+        "featured": true,
+        "name": "William",
         "title": "Android Engineer",
         "company": "KKBOX",
         "companyLogo": "https://www.kkbox.com/images/fb/kkbox_logo_1200.jpg",
         "country": "Taiwan",
         "photoUrl": "../images/people/william_wang.jpg",
         "shortBio": "靠寫程式混口飯吃的哲學愛好者，經常探究更好的效能和架構",
-        "bio": "KKBOX 的 Android 工程師，負責開發新功能及設計 Framework 以提升 Performance and Testability",
+        "bio": "KKBOX Android Engineer，負責開發新功能及設計 Framework 以提升 Performance and Testability。",
         "tags": [
             "Android",
             "Java",
