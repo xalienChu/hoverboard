@@ -256,7 +256,7 @@
   },
   "114": {
     "id": 114,
-    "title": "Boost Maintainability / 最大化專案程式碼的可攜性",
+    "title": "Boost Maintainability／最大化專案程式碼可維護性",
     "description": "「為了瞭解程式中隨機地一行，你需要往回讀多少行？」這是這場演講的核心概念。講者會以此為核心，介紹由多年開發經驗累積而來，使其最小化、可維護性最大化的 Python 實踐技巧。",
     "speakers": [
       14
