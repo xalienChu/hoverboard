@@ -332,7 +332,7 @@
   },
   "109": {
     "id": 109,
-    "title": "Android Performance Tuning - Recycler / Android 談效能：Recycler 也可以很滑",
+    "title": "Android Performance Tuning - Recycler Optimization / Android 談效能：RecyclerView 也可以很滑",
     "description": "TBD",
     "speakers": [
       9
