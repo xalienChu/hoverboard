@@ -389,6 +389,23 @@
             "name": "LinkedIn"
           }
         ]
+      },
+      {
+        "name": "EnPing Hsieh / 謝恩平",
+        "title": "Co-organizer",
+        "photoUrl": "/images/people/enping_hsieh.jpg",
+        "socials": [
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/enping.hsieh",
+            "name": "Facebook"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://tw.linkedin.com/in/en-ping-hsieh-7519a087",
+            "name": "LinkedIn"
+          }
+        ]
       }
     ]
   }
