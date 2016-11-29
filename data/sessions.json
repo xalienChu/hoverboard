@@ -239,17 +239,18 @@
   },
   "115": {
     "id": 115,
-    "title": "Codelab: Practical VR - HTC Vive",
-    "description": "TBD",
+    "title": "Codelab: Practical VR - Google Cardboard",
+    "description": "從零開始的第一個Mobile VR 專案，介紹如何使用Unity實作Google Cardboard App",
     "speakers": [
       15
     ],
     "language": "中文",
     "tags": [
       "Android",
+      "Unity",
       "VR"
     ],
-    "presentation":""
+    "presentation":"https://goo.gl/QJNkVg"
   },
   "114": {
     "id": 114,
