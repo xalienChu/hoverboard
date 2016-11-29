@@ -216,7 +216,6 @@
       18
     ],
     "language": "中文",
-    "complexity": "Begineer",
     "tags": [
       "Android",
       "VR",
@@ -232,7 +231,6 @@
       16
     ],
     "language": "中文",
-    "complexity": "Beginner",
     "tags": [
       "Firebase",
       "Android"
@@ -247,7 +245,6 @@
       15
     ],
     "language": "中文",
-    "complexity": "Beginner",
     "tags": [
       "Android",
       "VR"
@@ -262,7 +259,6 @@
       14
     ],
     "language": "中文",
-    "complexity": "Intermediate",
     "tags": [
         "General"
     ],
@@ -276,7 +272,6 @@
       13
     ],
     "language": "中文",
-    "complexity": "Intermediate",
     "tags": [
       "Android",
       "RxJava",
@@ -292,7 +287,6 @@
       12
     ],
     "language": "中文",
-    "complexity": "Begineer",
     "tags": [
       "Android",
       "Robotics"
@@ -307,7 +301,6 @@
       11
     ],
     "language": "中文",
-    "complexity": "Intermediate",
     "tags": [
       "UX",
       "Prototype",
@@ -323,7 +316,6 @@
       10
     ],
     "language": "中文",
-    "complexity": "Beginner",
     "tags": [
       "Cloud",
       "TensorFlow"
@@ -338,7 +330,6 @@
       9
     ],
     "language": "中文",
-    "complexity": "Advanced",
     "tags": [
       "Android"
     ],
@@ -352,7 +343,6 @@
       8
     ],
     "language": "中文",
-    "complexity": "Begineer",
     "tags": [
       "Go"
     ],
@@ -366,7 +356,6 @@
       7
     ],
     "language": "中文",
-    "complexity": "Beginner",
     "tags": [
       "Community",
       "IoT"
@@ -380,7 +369,6 @@
       6
     ],
     "language": "中文",
-    "complexity": "Advanced",
     "tags": [
       "Android",
       "React Native"
@@ -395,7 +383,6 @@
       5
     ],
     "language": "中文",
-    "complexity": "Advanced",
     "tags": [
       "Community",
       "iOS"
@@ -410,7 +397,6 @@
       4
     ],
     "language": "中文",
-    "complexity": "Intermediate",
     "tags": [
       "Firebase",
       "iOS"
@@ -437,7 +423,6 @@
       2
     ],
     "language": "English",
-    "complexity": "Beginner",
     "tags": [
       "Android",
       "Google Play"
@@ -451,7 +436,6 @@
       1
     ],
     "language": "English",
-    "complexity": "Beginner",
     "tags": [
       "Material Design"
     ],
