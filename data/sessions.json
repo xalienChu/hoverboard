@@ -195,17 +195,18 @@
   },
   "118": {
     "id": 118,
-    "title": "Kotlin + Android",
-    "description": "TBD",
+    "title": "Codelab: Practical VR - HTC Vive",
+    "description": "從零開始的第一個 Mobile VR 專案，介紹如何使用 Unity 實作 HTC Vive App",
     "speakers": [
-      16
+      15
     ],
-    "language": "English",
-    "complexity": "Intermediate",
+    "language": "中文",
     "tags": [
-      "Android"
+      "Android",
+      "Unity",
+      "VR"
     ],
-    "presentation":"https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android"
+    "presentation":"https://goo.gl/QJNkVg"
   },
   "117": {
     "id": 117,
@@ -240,7 +241,7 @@
   "115": {
     "id": 115,
     "title": "Codelab: Practical VR - Google Cardboard",
-    "description": "從零開始的第一個Mobile VR 專案，介紹如何使用Unity實作Google Cardboard App",
+    "description": "從零開始的第一個 Mobile VR 專案，介紹如何使用 Unity 實作 Google Cardboard App",
     "speakers": [
       15
     ],
@@ -268,7 +269,7 @@
   "113": {
     "id": 113,
     "title": "Android 的日常：RxJava / Kotlin / AutoValue / Android-Proguards",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       13
     ],
@@ -283,7 +284,7 @@
   "112": {
     "id": 112,
     "title": "Introduction to the Zenbo robot and its SDK / Zenbo 機器人與應用軟體開發介紹",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       12
     ],
@@ -297,7 +298,7 @@
   "111": {
     "id": 111,
     "title": "Prototype 與 UI 狀態間的測試",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       11
     ],
@@ -326,7 +327,7 @@
   "109": {
     "id": 109,
     "title": "Android Performance Tuning - Recycler Optimization / Android 談效能：RecyclerView 也可以很滑",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       9
     ],
@@ -365,7 +366,7 @@
   "106": {
     "id": 106,
     "title": "React Native Performance Tuning",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       6
     ],
@@ -419,7 +420,7 @@
   "102": {
     "id": 102,
     "title": "What's New in Google Play",
-    "description": "TBD",
+    "description": "",
     "speakers": [
       2
     ],
@@ -432,7 +433,7 @@
   "101": {
     "id": 101,
     "title": "Material Design / 實感設計",
-    "description": "TBD",
+    "description": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理，在本講題中他將會說明 Google 現今的 Material Design 實感設計樣式及其設計工具。藉由深入剖析實感設計的規則、設計支援函式庫 (Design Support Library) 以及其相關設計工具，說明實感設計將能如何幫助開發者及設計者更好地開發吸引人的 App",
     "speakers": [
       1
     ],

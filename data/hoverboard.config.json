@@ -84,10 +84,6 @@
       "title": "for-visitors",
       "links": [
         {
-          "text": "hackpads",
-          "url": "http://hackfoldr.org/devfest-taipei-2016/https%253A%252F%252Fhackmd.io%252FCYQ2BYRA2YFoBmBWAxtO4DsBTARnEAJmgAY5MkBmSkFTBbaBADiA"
-        },
-        {
           "text": "team",
           "url": "/team/"
         },
@@ -151,7 +147,7 @@
         "currency": "$",
         "starts": "lazy-ticket-starts",
         "ends": "lazy-ticket-ends",
-        "soldOut": false
+        "soldOut": true
       }
     ]
   },
@@ -167,15 +163,15 @@
       "caption": "tracks"
     },
     {
-      "counter": 14,
+      "counter": 15,
       "caption": "sessions"
     },
     {
-      "counter": 2,
+      "counter": 3,
       "caption": "codelabs"
     }
   ],
-  "hashtag": "DevFestTP",
+  "hashtag": "DevFestTaipei",
   "social": [
     {
       "name": "twitter",

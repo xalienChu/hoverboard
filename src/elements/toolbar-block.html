@@ -72,7 +72,7 @@
       }
 
       .action-button {
-        color: #000;
+        color: var(--text-primary-color);
         background: var(--header-color);
         font-size: 13px;
       }
@@ -158,8 +158,8 @@
         </template>
 
         <div class="action-button-wrapper" hidden$="[[app.isPhoneSize]]" layout horizontal center-center>
-          <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-            <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
+          <a href="http://hackfoldr.org/devfest-taipei-2016/https%253A%252F%252Fhackmd.io%252FCYQ2BYRA2YFoBmBWAxtO4DsBTARnEAJmgAY5MkBmSkFTBbaBADiA" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+            <paper-button class="action-button">[[localize('hackpads')]]</paper-button>
           </a>
         </div>
       </div>
