@@ -419,14 +419,15 @@
   },
   "102": {
     "id": 102,
-    "title": "What's New in Google Play",
-    "description": "",
+    "title": "Google Daydream VR",
+    "description": "Daydream is the latest Google technology for VR. Kevin Chiao is going to give us a sneak peek on Daydream and show us how the 3D VR world Google has planned.",
     "speakers": [
       2
     ],
     "language": "English",
     "tags": [
       "Android",
+      "Daydream",
       "Google Play"
     ]
   },
