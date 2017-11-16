@@ -1,9 +1,9 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
+      "logoUrl" : "../images/logos/gdg-taipei.svg",
+      "name" : "GDG Taipei",
+      "url" : "https://plus.google.com/+GTUGTaipei",
       "width" : 170
     } ],
     "title" : "Template Creator"
