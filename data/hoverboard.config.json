@@ -1,14 +1,14 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "url": "https://devfest-taipei-2017.firebaseapp.com/",
+  "startDate": "2017-11-25T09:00:00+08:00",
+  "endDate": "2017-11-25T19:00:00+08:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-109766778-1",
+    "dev": "UA-109766778-1"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Taipei",
+    "twitter": "taipei_gtug"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -16,23 +16,23 @@
     "backgroundColor": "#F57C00"
   },
   "firebase": {
-    "name": "hoverboard-master",
-    "domain": "hoverboard-master.firebaseapp.com",
-    "database": "https://hoverboard-master.firebaseio.com",
-    "api": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "userSessionsPath": "/userSessions",
-    "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
-  },
+        "name": "devfest-taipei-2017",
+        "domain": "devfest-taipei-2017.firebaseapp.com",
+        "database": "https://devfest-taipei-2017.firebaseio.com",
+        "api": "AIzaSyAOu3-4uFvT_paKk4pKa7ZHi-GId2UY_k8",
+        "userSessionsPath": "/userSessions",
+        "ratingsPath": "/ratings",
+        "indexedDbSession": "devfest-taipei-2017"
+      },
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "zh-TW",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
+  "hashtag": "dftpe",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "http://bit.ly/df16-sponsor",
@@ -42,10 +42,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/"
     },
     {
       "route": "schedule",
@@ -63,38 +59,38 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGTaipei",
+      "url": "https://twitter.com/taipei_gtug"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "GTUGTaipei",
+      "url": "https://plus.google.com/+GTUGTaipei"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
+      "nickname": "GDGTaipei",
+      "url": "https://www.facebook.com/GDG.Taipei"
     },
     {
       "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "google-developers-group-taipei",
+      "url": "https://www.linkedin.com/company/gdgtaipei"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "國立台灣大學博雅教學館",
+    "address": "台北市大安區羅斯福路四段1號",
+    "link": "https://www.facebook.com/pages/%E5%8F%B0%E5%A4%A7%E5%8D%9A%E9%9B%85%E9%A4%A8/159412974198958",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 15
+      "latitude": 25.0188305,
+      "longitude": 121.5367037,
+      "zoom": 17
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 25.0188305,
+      "longitude": 121.5367037
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -103,7 +99,7 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://goo.gl/photos/FsJQMVBZzB8cjyAd6",
     "photos": {
       "big": "/images/backgrounds/2015_1.jpg",
       "small": [
@@ -114,31 +110,23 @@
   },
   "pages": {
     "home": {
-      "title": "Home",
+      "title": "首頁",
       "headerSettings": {
         "backgroundColor": "#FF9800",
         "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "GDG DevFest Taipei 2017",
+          "youtubeId": "VqHvGqTGmtI",
+          "text": "了解 2016 年度的活動"
         },
         "hideLogo": true,
         "minHeight": "360px"
       }
     },
-    "blog": {
-      "title": "Blog",
-      "headerSettings": {
-        "backgroundColor": "#03a9f4",
-        "fontColor": "#fff",
-        "tabBarColor": "#fff"
-      }
-    },
     "speakers": {
-      "title": "Speakers",
+      "title": "講者",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
         "fontColor": "#fff",
@@ -146,7 +134,7 @@
       }
     },
     "schedule": {
-      "title": "Schedule",
+      "title": "議程",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
@@ -154,7 +142,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "籌辦團隊",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -162,7 +150,7 @@
       }
     },
     "cod": {
-      "title": "Code of Conduct",
+      "title": "會議規章",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",

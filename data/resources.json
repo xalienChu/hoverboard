@@ -1,110 +1,100 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
+  "title": "GDG DevFest Taipei 2017",
+  "description": "由 GDG Taipei 台北谷歌開發者社群、Women Techmakers 女性資訊技術從業人員社群、GCPUG.TW 台灣谷歌雲端平台使用者社群 以及 TADSG 台灣 Android 開發者讀書會等台灣在地社群所提供給您最大的 Google 技術研討會，由業界專家們提供包含 Android、Firebase、網頁、雲端與 VR 虛擬實境等技術內容！",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
-  "motto": "Be a GDG. Be a Hero!",
-  "playIcon": "See how it was in 2015",
-  "c4p": "Become a speaker",
-  "buyTicket": "Buy ticket",
-  "backToTop": "Back to top",
-  "subscribe": "Subscribe",
-  "yourEmail": "Your email",
-  "subscribeNote": "No spam, only the latest news and updates!",
-  "contactUs": "Contact us",
-  "ticketsTitle": "Tickets",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-  "close": "Close",
-  "soldOutTickets": "Sold Out",
-  "socialTitle": "Social",
-  "socialMotto": "Add to circles, like, follow or connect with us on",
-  "beforeHashtag": "What's up",
-  "clickToViewPhotos": "Click here to view more photos",
-  "partners": "Partners",
-  "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
-  "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
-  "featuredPeopleViewAll": "View all speakers",
-  "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
-  "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
-  "organizerTitle": "Organizer",
-  "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-  "openTeamPage": "Open team page",
-  "whatIsGdg": "What is GDG?",
-  "aboutGdg": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
-  "readMore": "Read more",
-  "copyLink": "Copy link",
-  "filteredBy": "filtered by",
-  "clearAll": "Clear all",
-  "filter": "Filter",
-  "latestNews": "Latest news",
-  "continueReading": "Continue reading",
-  "viewPresentation": "View presentation",
-  "viewVideo": "View video",
-  "skills": "Skills",
-  "share": "Share",
-  "shareWith": "Share with",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
-  "mySchedule": "My Schedule",
-  "browseMore": "Browse more events",
-  "youShouldSignInSessions": "Sign in to save sessions",
-  "youShouldSignInRating": "Sign in to rate sessions",
-  "offlineMessage": "You are offline",
-  "removedFromSchedule": "Removed from My Schedule",
-  "addedToSchedule": "Added to My Schedule",
-  "rateSession": "Rate session",
+  "dates": "2017 年 11 月 25 日",
+  "locationAddressShort": "台灣台北市",
+  "motto": "成為 GDG，成為英雄！",
+  "playIcon": "看看 2016 年的研討會歷程！",
+  "c4p": "成為講者",
+  "buyTicket": "訂票",
+  "backToTop": "回到首頁",
+  "subscribe": "訂閱",
+  "yourEmail": "您的電子郵件",
+  "subscribeNote": "沒有垃圾耶件，只有最新的資訊更新！",
+  "contactUs": "聯絡我們",
+  "ticketsTitle": "票卷",
+  "ticketsDetails": "票卷可以讓您進入所有會議空間，並取用餐飲；票價並未包含住宿",
+  "close": "關閉",
+  "soldOutTickets": "已售完",
+  "socialTitle": "社交平台",
+  "socialMotto": "在社交平台上跟隨我們的帳號",
+  "beforeHashtag": "最新訊息",
+  "clickToViewPhotos": "觀看更多照片",
+  "partners": "合作夥伴",
+  "becomePartner": "成為合作夥伴",
+  "featuredVideosTitle": "精選 2016 年 #DFTPE 議程",
+  "featuredVideosViewAll": "觀看所有影片",
+  "featuredPeopleTitle": "特選講者",
+  "featuredPeopleViewAll": "觀看所有講者",
+  "action": "觀看內容",
+  "locationTitle": "國立臺灣大學",
+  "locationDescription": "國立台灣大學是在台北市歷史悠久的國立大學",
+  "locationAddress": "國立臺灣大學博雅教學館",
+  "organizerTitle": "主辦團隊",
+  "aboutOrganizers": "<a href='http://www.gdg-taipei.org' target='_blank'>GDG Taipei 台北谷歌開發者社群</a>、<a href='http://www.womentechmakers.com' target='_blank'>Women Techmakers 女性技術從業人員社群</a>、<a href='http://gcpug.tw/' target='_blank'>GCPUG.TW 台灣谷歌雲端平台使用者社群</a>與<a href='https://www.facebook.com/groups/523386591081376/' target='_blank'>TADSG 台灣 Android 開發者讀書會</a>共同主辦 GDG DevFest Taipei 2017",
+  "openTeamPage": "開啟團隊頁面",
+  "whatIsGdg": "什麼是 GDG 谷歌開發者社群？",
+  "aboutGdg": "谷歌開發者社群 (GDG) - 是開放並由志工所組成的技術社群，我們創造令人感興趣的專案，並以熱情分享使用 Google 技術的相關經驗",
+  "readMore": "閱讀更多",
+  "copyLink": "複製連結",
+  "filteredBy": "過濾選項",
+  "clearAll": "清除所有",
+  "filter": "過濾器",
+  "latestNews": "最新資訊",
+  "continueReading": "繼續閱讀",
+  "viewPresentation": "觀看投影片",
+  "viewVideo": "觀看影片",
+  "skills": "技能",
+  "share": "分享",
+  "shareWith": "分享至",
+  "signIn": "登入",
+  "signOut": "登出",
+  "mySchedule": "我的議程",
+  "browseMore": "瀏覽更多活動",
+  "youShouldSignInSessions": "登入以客製化您的議程",
+  "youShouldSignInRating": "登入以對您的議程評分",
+  "offlineMessage": "您目前離線中",
+  "removedFromSchedule": "從我的議程中移除",
+  "addedToSchedule": "已加入我的議程",
+  "rateSession": "對議程評分",
   "footerBlocks": [
     {
-      "title": "For visitors",
+      "title": "給參加者",
       "links": [
         {
-          "text": "Team",
+          "text": "籌辦團隊",
           "url": "/team/",
           "newTab": false
         },
         {
-          "text": "Code of Conduct",
+          "text": "會議規章",
           "url": "/cod/",
           "newTab": false
         },
         {
-          "text": "Google Developers",
+          "text": "谷歌開發者",
           "url": "https://developers.google.com/",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
+          "text": "GDG DevFest Taipei 2013",
+          "url": "http://www.taipei-gtug.org/meetings/google-devfest-taipei-2013",
           "newTab": true
         },
         {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
+          "text": "GDG DevFest Taipei 2016",
+          "url": "http://devfest-taipei-2016.firebaseapp.com",
           "newTab": true
         }
       ]
     },
     {
-      "title": "For Partners",
+      "title": "給合作夥伴",
       "links": [
         {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
+          "text": "贊助邀請書",
+          "url": "https://goo.gl/aosByg",
           "newTab": true
         }
       ]
@@ -113,33 +103,33 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "DevFestTaipei@googlegroups.com",
+        "url": "mailto:devfesttaipei@googlegroups.com"
       }
     ]
   },
-  "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageTitle": "籌辦團隊",
+  "teamPageText": "Google 是全世界知名的公司，每個人都在用 Google 搜尋，用 Google 地圖查路線資訊，並用 Gmail 互相聯絡。對一般使用者來說，Google 所提供的服務也許剛剛好，但我們不會滿足於現狀。開發者們需要更多：API 程式介面、因應服務規模擴增而來的問題處理、複雜的技術堆疊等等，而 GDG 開發者社群就是為了解決這些需求而成立的。<br><br> 我們是開放並由志工所組成的技術社群，我們創造令人感興趣的專案，並以熱情分享使用 Google 技術的相關經驗。<br><br>我們的目的是創造讓產業最佳專家們與台灣開發者們有建立連結的空間，以讓科技的發展更加蓬勃發展！",
   "statistics": [
     {
-      "counter": 600,
-      "caption": "Attendees"
+      "counter": 500,
+      "caption": "參加者"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "天"
     },
     {
-      "counter": 30,
-      "caption": "Sessions"
+      "counter": 15,
+      "caption": "議程"
     },
     {
       "counter": 3,
-      "caption": "Tracks"
+      "caption": "軌"
     }
   ],
   "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
+    "videoTitle": "GDG DevFest 2016",
+    "videoId": "VqHvGqTGmtI"
   }
 }
