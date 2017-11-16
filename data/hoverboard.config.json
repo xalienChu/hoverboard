@@ -1,5 +1,5 @@
 {
-  "url": "https://devfest-taipei-2017.firebaseapp.com/",
+  "url": "https://devfest.gdg-taipei.org/",
   "startDate": "2017-11-25T09:00:00+08:00",
   "endDate": "2017-11-25T19:00:00+08:00",
   "analytics": {
@@ -22,7 +22,7 @@
         "api": "AIzaSyAOu3-4uFvT_paKk4pKa7ZHi-GId2UY_k8",
         "userSessionsPath": "/userSessions",
         "ratingsPath": "/ratings",
-        "indexedDbSession": "devfest-taipei-2017"
+        "indexedDbSession": "hoverboard"
       },
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
