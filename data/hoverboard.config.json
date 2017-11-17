@@ -11,7 +11,7 @@
     "twitter": "taipei_gtug"
   },
   "webapp": {
-    "shortName": "DevFestTaipei",
+    "shortName": "DevFest",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
@@ -32,7 +32,7 @@
     "locale": "zh-TW",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "DevFestTaipei",
+  "hashtag": "DevFestTaipei17",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "https://goo.gl/aosByg",
@@ -163,32 +163,6 @@
     }
   },
   "tickets": {
-    "url": "http://gdg-taipei.kktix.cc/events/devfest-17",
-    "elements": [
-      {
-        "name": "志工報名",
-        "price": 0,
-        "currency": "$",
-        "starts": "2017 年 11 月 1 日",
-        "ends": "2017 年 11 月 15 日",
-        "soldOut": true
-      },
-      {
-        "name": "講者報名",
-        "price": 0,
-        "currency": "$",
-        "starts": "2017 年 11 月 1 日",
-        "ends": "2017 年 11 月 22 日",
-        "soldOut": false
-      },
-      {
-        "name": "參加者報名",
-        "price": 0,
-        "currency": "$",
-        "starts": "2017 年 11 月 18 日",
-        "ends": "2017 年 11 月 24 日",
-        "soldOut": false
-      }
-    ]
+    "url": "http://gdg-taipei.kktix.cc/events/devfest-17"
   }
 }
