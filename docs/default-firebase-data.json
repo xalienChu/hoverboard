@@ -11,7 +11,7 @@
     "logos" : [ {
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
-      "url" : "https://www.google.com/about/"
+      "url" : "https://www.google.com/intl/zh-tw/about/"
     }, {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
