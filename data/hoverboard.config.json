@@ -11,7 +11,7 @@
     "twitter": "taipei_gtug"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFestTaipei",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
   },
@@ -32,7 +32,7 @@
     "locale": "zh-TW",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dftpe",
+  "hashtag": "DevFestTaipei",
   "disqusShortName": "hoverboard-gdg-x",
   "tweetsSource": "/data/tweets.json",
   "partnershipProposition": "https://goo.gl/aosByg",
@@ -75,7 +75,7 @@
     {
       "name": "linkedin",
       "nickname": "google-developers-group-taipei",
-      "url": "https://www.linkedin.com/company/gdgtaipei"
+      "url": "https://www.linkedin.com/company/480844"
     }
   ],
   "location": {
@@ -129,6 +129,7 @@
       "title": "講者",
       "headerSettings": {
         "backgroundColor": "#3f51b5",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -137,6 +138,7 @@
       "title": "議程",
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -145,6 +147,7 @@
       "title": "籌辦團隊",
       "headerSettings": {
         "backgroundColor": "#009688",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
@@ -153,9 +156,39 @@
       "title": "會議規章",
       "headerSettings": {
         "backgroundColor": "#673ab7",
+        "backgroundImage": "/images/backgrounds/home.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff"
       }
     }
+  },
+  "tickets": {
+    "url": "http://gdg-taipei.kktix.cc/events/devfest-17",
+    "elements": [
+      {
+        "name": "志工報名",
+        "price": 0,
+        "currency": "$",
+        "starts": "2017 年 11 月 1 日",
+        "ends": "2017 年 11 月 15 日",
+        "soldOut": true
+      },
+      {
+        "name": "講者報名",
+        "price": 0,
+        "currency": "$",
+        "starts": "2017 年 11 月 1 日",
+        "ends": "2017 年 11 月 22 日",
+        "soldOut": false
+      },
+      {
+        "name": "參加者報名",
+        "price": 0,
+        "currency": "$",
+        "starts": "2017 年 11 月 18 日",
+        "ends": "2017 年 11 月 24 日",
+        "soldOut": false
+      }
+    ]
   }
 }
