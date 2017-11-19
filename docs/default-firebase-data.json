@@ -518,7 +518,8 @@
       "title" : "第一次玩地圖就上手"
     }
   },
-  "speakers" : [ {
+  "speakers" : [
+    null, {
     "bio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
     "company" : "日康科技",
     "companyLogo" : "/images/logos/zcon.png",
@@ -821,7 +822,7 @@
     "badges" : [ {
       "description" : "",
       "link" : "",
-      "name" : ""
+      "name" : "GDG Hong Kong"
     }],
     "bio" : "Peter 是GDG香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
     "company" : "CG Marketing",
