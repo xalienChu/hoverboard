@@ -23,279 +23,502 @@
     "date" : "2017-11-25",
     "dateReadable" : "11月25日",
     "timeslots" : [ {
-      "endTime" : "10:00",
-      "sessions" : [ [ 132 ] ],
-      "startTime" : "09:00"
+      "startTime" : "08:30",
+      "sessions" : [ [ 10101 ],[10201],[10301] ],
+      "endTime" : "09:00"
     }, {
-      "endTime" : "10:15",
-      "sessions" : [ [ 136 ] ],
-      "startTime" : "10:00"
+      "startTime" : "09:00",
+      "sessions" : [ [ 10102 ]],
+      "endTime" : "09:15"
     }, {
-      "endTime" : "11:00",
-      "sessions" : [ [ 101 ], [ 111 ], [ 121 ] ],
-      "startTime" : "10:15"
+      "startTime" : "09:15",
+      "sessions" : [ [10103],[10203],[6],[30103],[30203]],
+      "endTime" : "10:00"
     }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 102 ], [ 112 ], [ 122 ] ],
-      "startTime" : "11:00"
+      "startTime" : "10:15",
+      "sessions" : [ [7],[1],[15],[30104],[30204]],
+      "endTime" : "11:00"
     }, {
-      "endTime" : "12:30",
-      "sessions" : [ [ 133 ] ],
-      "startTime" : "11:50"
+      "startTime" : "11:15",
+      "sessions" : [ [4],[2],[12],[30105],[30205]],
+      "endTime" : "12:00"
     }, {
-      "endTime" : "14:00",
-      "sessions" : [ [ 103 ], [ 113 ], [ 123 ] ],
-      "startTime" : "12:30"
+      "startTime" : "12:00",
+      "sessions" : [ [10106],[10206],[10306],[30106],[30206]],
+      "endTime" : "13:00"
     }, {
-      "endTime" : "14:40",
-      "sessions" : [ [ 134 ] ],
-      "startTime" : "14:00"
+      "startTime" : "13:00",
+      "sessions" : [ [10107],[10207],[10307],[30107],[30207]],
+      "endTime" : "13:15"
     }, {
-      "endTime" : "15:30",
-      "sessions" : [ [ 104 ], [ 114 ], [ 124 ] ],
-      "startTime" : "14:50"
+      "startTime" : "13:15",
+      "sessions" : [ [3],[8],[9],[30108],[30208]],
+      "endTime" : "14:00"
     }, {
-      "endTime" : "16:00",
-      "sessions" : [ [ 105 ], [ 115 ], [ 125 ] ],
-      "startTime" : "15:30"
+      "startTime" : "14:15",
+      "sessions" : [ [14],[11],[16],[30109],[30209]],
+      "endTime" : "15:00"
     }, {
-      "endTime" : "16:40",
-      "sessions" : [ [ 138 ] ],
-      "startTime" : "16:00"
-    } ],
+      "startTime" : "15:15",
+      "sessions" : [ [13],[5],[10],[30110],[30210]],
+      "endTime" : "16:00"
+    }, {
+      "startTime" : "16:15",
+      "sessions" : [ [ 10111 ] ],
+      "endTime" : "16:45"
+    }  ],
     "tracks" : [ {
-      "title" : "主場地"
+      "title" : "Room 101"
     }, {
-      "title" : "教室"
+      "title" : "Room 102"
     }, {
-      "title" : "Codelab 教室"
+      "title" : "Room 103"
+    }, {
+      "title" : "Room 301"
+    }, {
+      "title" : "Room 302"
     } ]
   } ],
   "sessions" : {
-    "101" : {
-      "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "id" : 101,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ 1 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
-    },
-    "102" : {
-      "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "id" : 102,
-      "language" : "English",
-      "speakers" : [ 1 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Hands-on gRPC experience building your own multiplayer game client"
-    },
-    "103" : {
-      "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "id" : 103,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ 2 ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
-    },
-    "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "id" : 104,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ 3 ],
-      "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
-    },
-    "105" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 105,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ 4 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
-    },
-    "111" : {
-      "complexity" : "Intermediate",
-      "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "id" : 111,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers" : [ 9 ],
-      "tags" : [ "Android" ],
-      "title" : "Building modular architecture apps with Dagger 2"
-    },
-    "112" : {
-      "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "id" : 112,
-      "language" : "English",
-      "speakers" : [ 10 ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
-    },
-    "113" : {
-      "complexity" : "Intermediate",
-      "description" : "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "id" : 113,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers" : [ 11 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Microservices in Google App Engine"
-    },
-    "114" : {
-      "complexity" : "Intermediate",
-      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "id" : 114,
-      "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
-    },
-    "115" : {
-      "complexity" : "Beginner",
-      "description" : "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "id" : 115,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers" : [ 13 ],
-      "tags" : [ "Android" ],
-      "title" : "Android tool-chain and run-time improvements in N",
-      "videoId" : "WqULb6bdwwg"
-    },
-    "121" : {
-      "complexity" : "Intermediate",
-      "description" : "Using service workers and other modern progressive web apps capabilities we can update our web applications to be offline-fires. In this session we'll show how to easily convert your applications be usable without the internet connection.",
-      "id" : 121,
-      "language" : "English",
-      "speakers" : [ 18 ],
-      "tags" : [ "Web" ],
-      "title" : "Offline-first progressive web apps"
-    },
-    "122" : {
-      "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "id" : 122,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ 19 ],
-      "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
-    },
-    "123" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "id" : 123,
-      "language" : "English",
-      "speakers" : [ 20 ],
-      "tags" : [ "Web" ],
-      "title" : "TBD"
-    },
-    "124" : {
-      "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
-      "id" : 124,
-      "language" : "English",
-      "speakers" : [ 21 ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
-    },
-    "125" : {
-      "complexity" : "Intermediate",
-      "description" : "TBD",
-      "id" : 125,
-      "language" : "English",
-      "speakers" : [ 22 ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
-    },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "id" : 130,
-      "language" : "English",
-      "speakers" : [ 26 ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
-    },
-    "131" : {
-      "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "id" : 131,
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ 27 ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
-    },
-    "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
-      "id" : 132,
-      "image" : "/images/backgrounds/registration.jpg",
-      "title" : "Registration & morning Coffee"
-    },
-    "133" : {
-      "description" : "Foooooooood!",
-      "id" : 133,
-      "image" : "/images/backgrounds/lunch.jpg",
-      "title" : "Lunch"
-    },
-    "134" : {
-      "description" : "Coffeeeeeee!",
-      "id" : 134,
-      "image" : "/images/backgrounds/coffee-break.jpg",
-      "title" : "Coffee break"
-    },
-    "135" : {
-      "description" : "Coffeeeeeee!",
-      "id" : 135,
-      "image" : "/images/backgrounds/morning.jpg",
-      "title" : "Morning coffee"
-    },
-    "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
-      "id" : 136,
-      "image" : "/images/backgrounds/opening.jpg",
-      "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
-    },
-    "137" : {
-      "description" : "Afterparty is a great time to have some fun and meet new people",
-      "id" : 137,
-      "image" : "/images/backgrounds/party.jpg",
-      "title" : "Afterparty & Networking"
-    },
-    "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
-      "id" : 138,
-      "image" : "/images/backgrounds/closing.jpg",
-      "title" : "Conference closing and contest winners announcements"
-    },
-    "139" : {
+    "10101" : {
       "description" : "",
-      "id" : 139,
-      "language" : "English",
-      "title" : "Keynote"
+      "id" : 10101,
+      "title" : "Registration / 報到"
     },
-    "140" : {
-      "description" : "TBD",
-      "id" : 140,
-      "language" : "English",
-      "title" : "TBD"
+    "10102" : {
+      "description" : "",
+      "id" : 10102,
+      "title" : "Opening / 開場活動"
+    },
+    "10103" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10103,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "10106" : {
+      "description" : "",
+      "id" : 10106,
+      "title" : "Lunch / 午休"
+    },
+    "10107" : {
+      "description" : "",
+      "id" : 10107,
+      "title" : "Preparing / 場地整備"
+    },
+    "10111" : {
+      "description" : "",
+      "id" : 10111,
+      "title" : "Conference closing / 活動閉幕"
+    },
+    "10201" : {
+      "description" : "",
+      "id" : 10201,
+      "title" : "Registration / 報到"
+    },
+    "10202" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10202,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "10203" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10203,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "10206" : {
+      "description" : "",
+      "id" : 10206,
+      "title" : "Lunch / 午休"
+    },
+    "10207" : {
+      "description" : "",
+      "id" : 10207,
+      "title" : "Preparing / 場地整備"
+    },
+    "10211" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10211,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "10301" : {
+      "description" : "",
+      "id" : 10301,
+      "title" : "Registration / 報到"
+    },
+    "10302" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10302,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "10306" : {
+      "description" : "",
+      "id" : 10306,
+      "title" : "Lunch / 午休"
+    },
+    "10307" : {
+      "description" : "",
+      "id" : 10307,
+      "title" : "Preparing / 場地整備"
+    },
+    "10311" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 10311,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30101" : {
+      "description" : "",
+      "id" : 30101,
+      "title" : ""
+    },
+    "30102" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30102,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30103" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30103,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30104" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30104,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30105" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30105,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30106" : {
+      "description" : "",
+      "id" : 30106,
+      "title" : "Lunch / 午休"
+    },
+    "30107" : {
+      "description" : "",
+      "id" : 30107,
+      "title" : "Preparing / 場地整備"
+    },
+    "30108" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30108,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30109" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30109,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30110" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30110,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30111" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30111,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30201" : {
+      "description" : "",
+      "id" : 30201,
+      "title" : ""
+    },
+    "30202" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30202,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30203" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30203,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30204" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30204,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30205" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30205,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30206" : {
+      "description" : "",
+      "id" : 30206,
+      "title" : "Lunch / 午休"
+    },
+    "30207" : {
+      "description" : "",
+      "id" : 30207,
+      "title" : "Preparing / 場地整備"
+    },
+    "30208" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30208,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30209" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30209,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30210" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30210,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "30211" : {
+      "complexity" : "",
+      "description" : "",
+      "id" : 30211,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [  ],
+      "tags" : [ "" ],
+      "title" : ""
+    },
+    "1" : {
+      "description" : "Android linphone compile 及 Opensips",
+      "id" : 1,
+      "language" : "中文",
+      "speakers" : [ 1 ],
+      "tags" : [ "Mobile" ],
+      "title" : "Android SIP"
+    },
+    "2" : {
+      "description" : "Introduction / Hardware / Software / Demo Sample Code",
+      "id" : 2,
+      "language" : "中文",
+      "speakers" : [ 2 ],
+      "tags" : [ "AI","Actions on Google", "IoT" ],
+      "title" : "如何使用android things / 如何使用DialogFlow"
+    },
+    "3" : {
+      "description" : "MVP,  MVVM, AAC 經驗分享",
+      "id" : 3,
+      "language" : "中文",
+      "speakers" : [ 3 ],
+      "tags" : [ "Mobile" ],
+      "title" : "Android Architecture"
+    },
+    "4" : {
+      "description" : "I will talking about my journey to an internship at Google USA, including how I acquired my technical skills, how I got the opportunity, how I prepared for the interviews, the actual interview process and a bit about my overall experience there.",
+      "id" : 4,
+      "language" : "中文",
+      "speakers" : [ 4 ],
+      "tags" : [ "Internship" ],
+      "title" : "My journey to an internship at Google USA"
+    },
+    "5" : {
+      "description" : "1. What's wrong with Calendar?, 2. Introduce JSR310, 3. Unit test with JSR310, 4. integrate with kotlin",
+      "id" : 5,
+      "language" : "中文",
+      "speakers" : [ 5 ],
+      "tags" : [ "Mobile" ],
+      "title" : "JSR310 - Another Calendar Library"
+    },
+    "6" : {
+      "description" : "Jane Shih founded her company WeTogether.co at the end of 2014, a networking platform for technology professionals. Her passion is women in technology. In 2015, understanding how important it is for women to join and grow in the tech industry, she launched Taipei Women in Technology and set up local chapters for a few international NPOs related to Women in Tech and Entrepreneurship. She’s now the Managing Director of Girls in Tech Taiwan, City Director of Ladies that UX Taipei and Women Who Code Taipei with 4000+ active members across the various communities. At this talk, she's share her experience working in the silicon valley and how that impact her leadership style to grow and help women in tech in Taiwan.",
+      "id" : 6,
+      "language" : "中文",
+      "speakers" : [ 6 ],
+      "tags" : [ "Community Building Experience Sharing" ],
+      "title" : "矽谷經驗與女生科技社群經營經驗分享"
+    },
+    "7" : {
+      "description" : "認識什麼是 UX，什麼是 UI，它倆位有什麼不同。\nA: UX 重不重要? \nB: 重要 \nA: 為什麼重要? \nB: 因為它就在我們的生活周遭、身處在我們的日常生活當中。 \nA: 那我就好奇了，為什麼它會在我們的日常生活中? 它又不干我事",
+      "id" : 7,
+      "language" : "中文",
+      "speakers" : [ 7 ],
+      "tags" : [ "UI", "UX" ],
+      "title" : "UX, UI 是兄弟? 要明算帳?"
+    },
+    "8" : {
+      "complexity" : "初級",
+      "description" : "Introduce Google Assistant, Google Assistant Apps, Actions on Google and the Google Assistant Developer Community Program",
+      "id" : 8,
+      "language" : "中文",
+      "speakers" : [ 8 ],
+      "tags" : [ "AI","Actions on Google" ],
+      "title" : "Introduction to Google Assistant & Google Assistant Community Program"
+    },
+    "9" : {
+      "description" : "https://goo.gl/mizaKs 這個稍微改良",
+      "id" : 9,
+      "language" : "中文",
+      "speakers" : [ 9 ],
+      "tags" : [ "Search Learning" ],
+      "title" : "How to google "
+    },
+    "10" : {
+      "description" : "分享從高中開始寫程式，一路寫到軟體工程師的經驗談。內容將包含在絕望沙洲時期生存、打破冒牌者症候群迷思、如何應對社會期許(刻板印象)、出社會後的生涯規劃、跟其他工程師相處並持續地增進自我實力的方法。",
+      "id" : 10,
+      "language" : "中文",
+      "speakers" : [ 10 ],
+      "tags" : [ "女性職涯相關" ],
+      "title" : "工程師的升級之路"
+    },
+    "11" : {
+      "description" : "Build Code, First Patch, Code Review, Get's Landed, Community Activity",
+      "id" : 11,
+      "language" : "中文",
+      "speakers" : [ 11 ],
+      "tags" : [ "Mobile" ],
+      "title" : "Contribute to Firefox on Android"
+    },
+    "12" : {
+      "description" : "在某年某月某日莫名的接到了:「能不能像◯◯◯◯一樣做一個圖片搜尋啊？」，之後開始了新的side project專案，從Azure、Amazon、Google甚至是自架方案，到後面幾乎整個workaround一遍，我將要分享在這其中遇到的大大小小的事情。",
+      "id" : 12,
+      "language" : "中文",
+      "speakers" : [ 12 ],
+      "tags" : [ "Google Cloud" ],
+      "title" : "使用圖片辨識打造搜尋"
+    },
+    "13" : {
+      "complexity" : "",
+      "description" : "To be done",
+      "id" : 13,
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ 13 ],
+      "tags" : [ "Mobile" ],
+      "title" : "Cross platform! Build native APP with Go"
+    },
+    "14" : {
+      "description" : "Gradle 是許多 Java 相關專案或 Android 工程師每日必用的工具，可惜的是沒有太多人學習如何使用它。反而讓輔助開發效率的工具，成為事倍功半的局面。這場演既非是 Gradle 入門的教學，也非 Gradle 進階技巧介紹。而是站在如何開始弄懂 Gradle 的運作的歷程，它是學習者內心的歷險記，得一起經歷過一些追入原始碼，對觀察進行假設與驗證，探索 Gradle 相關實作的過程，並試著簡單連結工作的情境。",
+      "id" : 14,
+      "language" : "中文",
+      "speakers" : [ 14 ],
+      "tags" : [ "Education" ],
+      "title" : "學習如何學習 Gradle"
+    },
+    "15" : {
+      "complexity" : "初級",
+      "description" : "要想了解到用戶習慣，我們都知道可以用Google Analytics, 但一方面我們資料很多，需要懂得從中找出有用的東西，另一方面我們也怕遇上甚麼也不懂的市場部同事，不斷問著取得奇怪的資料。就讓我們花上半個小時，從新了解一下市場的需要，和同事們好好合作。(此節以英語進行，適合初接觸Google Analytics或是需要和其他部們講解GA的你)",
+      "id" : 15,
+      "language" : "英文",
+      "speakers" : [ 15 ],
+      "tags" : [ "Mobile", "Google Analytics" ],
+      "title" : "讓你的菜鳥同事自己使用Google Analytics"
+    },
+    "16" : {
+      "description" : "工程師要怎麼入門玩地圖？, 如何簡易處理空間資料, 地圖應用開發的眉眉角角, 各式GIS工具資源介紹",
+      "id" : 16,
+      "language" : "中文",
+      "speakers" : [ 16 ],
+      "tags" : [ "GIS", "Maps" ],
+      "title" : "第一次玩地圖就上手"
     }
   },
-  "speakers" : [ null, {
+  "speakers" : [ {
     "bio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
     "company" : "日康科技",
     "companyLogo" : "/images/logos/zcon.png",
@@ -305,10 +528,9 @@
     "name" : "Citybear 林昶瑔",
     "photoUrl" : "/images/people/citybear.jpg",
     "shortBio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
-    "tags" : [ "Android", "Linux", "Web", "網路串流" ],
+    "tags" : [ "Android SDK NDK framework","Linux","web base","影像串流" ],
     "title" : "工程師"
   }, {
-    "bio" : "",
     "company" : "遠傳電信",
     "companyLogo" : "/images/logos/fetnet.png",
     "country" : "台灣",
@@ -316,16 +538,15 @@
     "id" : 2,
     "name" : "Kevin 邱哲綸",
     "photoUrl" : "/images/people/kevin_chiu.jpg",
-    "shortBio" : "",
     "tags" : [ "Android", "IoT", "Smart Home" ],
     "title" : "App 資深工程師"
   }, {
     "badges" : [ {
-      "description" : "台灣 Android 開發者讀書會",
+      "description" : "",
       "link" : "https://www.facebook.com/groups/523386591081376/",
-      "name" : "TADSG"
+      "name" : "台灣 Android 開發者讀書會"
     } ],
-    "bio" : "",
+    "bio" : "如果這個世界沒有Android就只能去北車乞討的工程師",
     "company" : "Dcard",
     "companyLogo" : "",
     "country" : "台灣",
@@ -335,7 +556,7 @@
     "photoUrl" : "/images/people/cuber_yuan.png",
     "shortBio" : "如果這個世界沒有 Android 就只能去北車乞討的工程師",
     "tags" : [ "Android" ],
-    "title" : "Android 工程師"
+    "title" : "Android developer"
   }, {
     "bio" : "An undergraduate who specializes in algorithms and data structures. Former Software Engineering Intern at Google USA.",
     "company" : "Women Who Code Taipei",
@@ -354,6 +575,11 @@
     "tags" : [ "C++", "Algorithms", "Data Structures" ],
     "title" : "社群成員"
   }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "https://www.facebook.com/groups/523386591081376/",
+      "name" : "台灣 Android 開發者讀書會"
+    } ],
     "bio" : "常常想程式想到睡不著的工程師，注重 clean code、unit test，目前主要都是開發 Android。",
     "company" : "Misk 米斯克科技",
     "companyLogo" : "",
@@ -362,7 +588,7 @@
     "id" : 5,
     "name" : "洪彥彬",
     "photoUrl" : "/images/people/yanbin_hung.jpg",
-    "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+    "shortBio" : "",
     "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/%E5%BD%A5%E5%BD%AC-%E6%B4%AA-94b350b7/",
@@ -372,17 +598,17 @@
     "title" : "Android 工程師"
   }, {
     "badges" : [ {
-      "description" : "Girls in Tech Taiwan",
+      "description" : "",
       "link" : "https://sites.google.com/site/togetherwithgdevelopers/people/communities",
-      "name" : "GITT"
+      "name" : "Girls in Tech Taiwan"
     }, {
-      "description" : "Women Who Code Taipei",
+      "description" : "",
       "link" : "",
-      "name" : "WWCT"
+      "name" : "Women Who Code Taipei"
     }, {
-      "description" : "Ladies that UX Taipei",
+      "description" : "",
       "link" : "",
-      "name" : "LUT"
+      "name" : "Ladies that UX Taipei"
     } ],
     "bio" : "Jane 自政大外交所畢業後，在金融業服務並隨後在 2005 年到紐約市立大學念商管碩士，主修財務與創業精神。2007 年至矽谷的 eBay 任職，擔任過資料中心的資產管理分析師、科技營運部的財務主管，任職期間最喜歡參與的兩個社團是 eWIT (eBay Women in Tech) 及 GIVING。2013 年搬回台灣，2014 創立 WeTogether.co 致力於連結全球的科技人並希望幫助更多女生進入科技業，成為產業領袖或科技創業家。Jane 目前除了是新創公司的創辦人與執行長，也是 Girls in Tech, Women Who Code 及 Ladies that UX 等國際非營利組織在台灣/台北的分會會長，目前她帶領的社群也剛加入 Together with Google Developers Community。",
     "company" : "Women Who Code Taipei",
@@ -400,7 +626,268 @@
     } ],
     "tags" : [ "社群經營", "國際連結" ],
     "title" : "City Director"
-  } ],
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : ""
+    }],
+    "bio" : "My name is Yi-Hua (Eva) Chu who Bachelor’s degree in Information Management in 2005 at Nanya Institute of Technology in Taiwan. After graduating, I worked as a backend engineer for 2.5 years. In 2010, I graduated from a master degree in a major of Web Design / New Media at Academy of Art University in San Francisco. After back to Taiwan in 2011, I have the honor to play different roles in UX field, such as a UI designer, UI/UX designer, UX designer, Product designer, Product Manager, also vice director of Talk UX 2017 Conference. Right now, I work as a digital nomad to get another experience in my life.",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 7,
+    "name" : "曲小華 (EvA ChU)",
+    "photoUrl" : "/images/people/xalien_chu.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/xalien.chu",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "UX, UI Design","Prototyping", "Usability Testing", "Product Design", "User Interviews", "Research", "Infographic", "Data Visualization" ],
+    "title" : ""
+  },{
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "GDG HK,"
+    },{
+      "description" : "",
+      "link" : "",
+      "name" : "WTM HK"
+    }],
+    "bio" : "Emma Wong is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Women Techmakers(WTM) HK Lead. ",
+    "company" : "Cherrypicks",
+    "companyLogo" : "",
+    "country" : "Hong Kong",
+    "featured" : true,
+    "id" : 8,
+    "name" : "Emma Wong",
+    "photoUrl" : "/images/people/emma_wong.jpg",
+    "shortBio" : "Android developer, GDG HK organizer, WTM HK Lead",
+    "socials" : [ {
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/emma-wong-32477976",
+      "name" : "Linkedin"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "System Analyst"
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : ""
+    }],
+    "bio" : "https://gist.github.com/y2468101216/184605f48d3a76c1feca73ec00c55775",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 9,
+    "name" : "陳昱廷",
+    "photoUrl" : "/images/people/liteng_chen.png",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/y2468101216",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "全端打雜" ],
+    "title" : "自宅工程師"
+  },{
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "PyLadies"
+    }],
+    "bio" : "雲守護的軟體工程師，也是Pyladies台灣的負責人之一，認為”程式是現實世界中的魔法”，從高中開始寫程式，十分外向，活潑友善，對電腦科學有著極大的熱情。在公司負責影像處理與Android開發，喜愛解決問題，嘗試新技術與自我挑戰。在 PyLadies 中負責規劃與協調活動，擔任助教，喜歡與人交流，認識新朋友與幫助他人，希望能夠讓更多的女生們加入 Python 的世界並享受其中，也因為對社群的貢獻，被選為 2017 Girls in Tech Taiwan 40 under 40 Women 的其中一員。",
+    "company" : "雲守護安控股份有限公司/PyLadies",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 10,
+    "name" : "姿君",
+    "photoUrl" : "/images/people/陳姿君.jpg",
+    "shortBio" : "雲守護資深軟體工程師, PyLadies Taiwan 負責人, 2017 Girls in Tech Taiwan 40 under 40 Women, 台大資訊所所學會會長, 電資學院學生代表",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/foxtail.chen",
+      "name" : "Facebook"
+    },{
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/tzu-chun-chen-8b534582/",
+      "name" : "Linkedin"
+    } ],
+    "title" : "資深軟體工程師/PyLadies Host"
+  },{
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "Android Developer Study Group"
+    },{
+      "description" : "",
+      "link" : "",
+      "name" : "Android Taipei"
+    },{
+      "description" : "",
+      "link" : "",
+      "name" : "GDG Taipei"
+    }],
+    "bio" : "I work in Mozilla and maintain our main browser app: FireFox for Android. Including:  CustomTab / PWA / Distribution / Reader Mode / Metrics and general UI.",
+    "company" : "Mozilla",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 11,
+    "name" : "Nevin",
+    "photoUrl" : "/images/people/nevin_chen.png",
+    "shortBio" : "Android developer, Husband,  Father",
+    "socials" : [ {
+      "icon" : "twitter",
+      "link" : "https://twitter.com/chennevin",
+      "name" : "Twitter"
+    },{
+      "link" : "http://nevinchen.com"
+    } ]
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "COSCUP 2016"
+    },{
+      "description" : "",
+      "link" : "",
+      "name" : "SITCON 2016"
+    }],
+    "bio" : "嗨，我是Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "",
+    "featured" : true,
+    "id" : 12,
+    "name" : "Michael.K",
+    "photoUrl" : "/images/people/官承翰.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "",
+      "link" : "",
+      "name" : ""
+    } ],
+    "tags" : [  ],
+    "title" : ""
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "iOS@Taipei"
+    }],
+    "bio" : "Mobile",
+    "company" : "iOS@Taipei",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 13,
+    "name" : "AKI YU",
+    "photoUrl" : "/images/people/aki_yu.jpeg",
+    "shortBio" : "To be done",
+    "socials" : [ {
+      "icon" : "",
+      "link" : "",
+      "name" : ""
+    } ],
+    "tags" : [ "Mobile" ],
+    "title" : ""
+  }, {
+    "badges" : [ ],
+    "bio" : "浪跡天涯小工程師",
+    "company" : "程沛科技",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 14,
+    "name" : "qrtt1",
+    "photoUrl" : "/images/people/qrtt1.jpg",
+    "shortBio" : "It's qrtt1",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/qrtt1",
+      "name" : "Facebook"
+    } ],
+    "tags" : [  ],
+    "title" : "工程師"
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : ""
+    }],
+    "bio" : "Peter 是GDG香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
+    "company" : "CG Marketing",
+    "companyLogo" : "",
+    "country" : "Hong Kong",
+    "featured" : true,
+    "id" : 15,
+    "name" : "Peter Lo",
+    "photoUrl" : "/images/people/peter_lo.jpg",
+    "shortBio" : "行政總裁 - 睿創市場策劃, 講師 - 香港中文大學專業進修學院",
+    "socials" : [ {
+      "icon" : "",
+      "link" : "",
+      "name" : ""
+    } ],
+    "tags" : [ "Google AdWords", "Google Analytics" ],
+    "title" : "CEO"
+  }, {
+    "badges" : [ {
+      "description" : "",
+      "link" : "",
+      "name" : "知了新聞"
+    },{
+      "name" : "OpenStreetMap Taiwan"
+    },{
+      "name" : "R Ladies"
+    }],
+    "bio" : "現職TomTom地圖測試工程師, 2017台大黑客松公民科技課程講者/Mentor, 知了新聞共同創辦人，QGIS工作坊講師, OpenStreetMap推廣者",
+    "company" : "TomTom",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 16,
+    "name" : "林怡/Monday",
+    "photoUrl" : "/images/people/linyi.jpg",
+    "shortBio" : "目前為每天混在地圖與食物堆中的TomTom工程師\n平常腦袋中沒有內建地圖，因此每到一個城市都想把當地地圖帶回家。在空間資料相關產業打滾數年，擅長處理各種空間資料與 GIS 工具夢想是畫遍太陽系各行星上的地圖",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/riseswallow",
+      "name" : "Facebook"
+    } ],
+    "tags" : [ "GIS","Navigation","Spatial data process" ],
+    "title" : "Test Engineer"
+  }, {
+      "badges" : [ {
+        "description" : "",
+        "link" : "",
+        "name" : ""
+      }],
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "country" : "台灣",
+      "featured" : true,
+      "id" : 100,
+      "name" : "",
+      "photoUrl" : "",
+      "shortBio" : "",
+      "socials" : [ {
+        "icon" : "",
+        "link" : "",
+        "name" : ""
+      } ],
+      "tags" : [  ],
+      "title" : ""
+    }],
   "team" : [
     {
       "title": "Google Developer Group Taipei / 台北谷歌開發者社群",
