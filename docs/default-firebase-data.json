@@ -543,9 +543,9 @@
     "title" : "App 資深工程師"
   }, {
     "badges" : [ {
-      "description" : "",
+      "description" : "台灣 Android 開發者讀書會",
       "link" : "https://www.facebook.com/groups/523386591081376/",
-      "name" : "台灣 Android 開發者讀書會"
+      "name" : "TADSG"
     } ],
     "bio" : "如果這個世界沒有Android就只能去北車乞討的工程師",
     "company" : "Dcard",
@@ -577,9 +577,9 @@
     "title" : "社群成員"
   }, {
     "badges" : [ {
-      "description" : "",
+      "description" : "台灣 Android 開發者讀書會",
       "link" : "https://www.facebook.com/groups/523386591081376/",
-      "name" : "台灣 Android 開發者讀書會"
+      "name" : "TADSG"
     } ],
     "bio" : "常常想程式想到睡不著的工程師，注重 clean code、unit test，目前主要都是開發 Android。",
     "company" : "Misk 米斯克科技",
@@ -599,16 +599,16 @@
     "title" : "Android 工程師"
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "https://sites.google.com/site/togetherwithgdevelopers/people/communities",
+      "description" : "Girls in Tech Taiwan",
+      "link" : "https://www.facebook.com/groups/420817431404071/",
       "name" : "Girls in Tech Taiwan"
     }, {
-      "description" : "",
-      "link" : "",
+      "description" : "Women Who Code Taipei",
+      "link" : "https://www.facebook.com/wwcodetaipei/",
       "name" : "Women Who Code Taipei"
     }, {
-      "description" : "",
-      "link" : "",
+      "description" : "Ladies that UX Taipei",
+      "link" : "https://www.facebook.com/LadiesThatUX/",
       "name" : "Ladies that UX Taipei"
     } ],
     "bio" : "Jane 自政大外交所畢業後，在金融業服務並隨後在 2005 年到紐約市立大學念商管碩士，主修財務與創業精神。2007 年至矽谷的 eBay 任職，擔任過資料中心的資產管理分析師、科技營運部的財務主管，任職期間最喜歡參與的兩個社團是 eWIT (eBay Women in Tech) 及 GIVING。2013 年搬回台灣，2014 創立 WeTogether.co 致力於連結全球的科技人並希望幫助更多女生進入科技業，成為產業領袖或科技創業家。Jane 目前除了是新創公司的創辦人與執行長，也是 Girls in Tech, Women Who Code 及 Ladies that UX 等國際非營利組織在台灣/台北的分會會長，目前她帶領的社群也剛加入 Together with Google Developers Community。",
@@ -628,35 +628,26 @@
     "tags" : [ "社群經營", "國際連結" ],
     "title" : "City Director"
   }, {
-    "badges" : [ {
-      "description" : "",
-      "link" : "",
-      "name" : ""
-    }],
     "bio" : "My name is Yi-Hua (Eva) Chu who Bachelor’s degree in Information Management in 2005 at Nanya Institute of Technology in Taiwan. After graduating, I worked as a backend engineer for 2.5 years. In 2010, I graduated from a master degree in a major of Web Design / New Media at Academy of Art University in San Francisco. After back to Taiwan in 2011, I have the honor to play different roles in UX field, such as a UI designer, UI/UX designer, UX designer, Product designer, Product Manager, also vice director of Talk UX 2017 Conference. Right now, I work as a digital nomad to get another experience in my life.",
-    "company" : "",
-    "companyLogo" : "",
     "country" : "台灣",
     "featured" : true,
     "id" : 7,
     "name" : "曲小華 (EvA ChU)",
     "photoUrl" : "/images/people/xalien_chu.jpg",
-    "shortBio" : "",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/xalien.chu",
       "name" : "Facebook"
     } ],
-    "tags" : [ "UX, UI Design","Prototyping", "Usability Testing", "Product Design", "User Interviews", "Research", "Infographic", "Data Visualization" ],
-    "title" : ""
+    "tags" : [ "UX, UI Design","Prototyping", "Usability Testing", "Product Design", "User Interviews", "Research", "Infographic", "Data Visualization" ]
   },{
     "badges" : [ {
-      "description" : "",
-      "link" : "",
-      "name" : "GDG HK,"
+      "description" : "GDG Hong Kong",
+      "link" : "http://www.gdghk.org/",
+      "name" : "GDG HK"
     },{
-      "description" : "",
-      "link" : "",
+      "description" : "WTM HK",
+      "link" : "http://www.gdghk.org/category/wtm/",
       "name" : "WTM HK"
     }],
     "bio" : "Emma Wong is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Women Techmakers(WTM) HK Lead. ",
@@ -676,20 +667,12 @@
     "tags" : [ "Android" ],
     "title" : "System Analyst"
   }, {
-    "badges" : [ {
-      "description" : "",
-      "link" : "",
-      "name" : ""
-    }],
     "bio" : "https://gist.github.com/y2468101216/184605f48d3a76c1feca73ec00c55775",
-    "company" : "",
-    "companyLogo" : "",
     "country" : "台灣",
     "featured" : true,
     "id" : 9,
     "name" : "陳昱廷",
     "photoUrl" : "/images/people/liteng_chen.png",
-    "shortBio" : "",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/y2468101216",
@@ -699,13 +682,13 @@
     "title" : "自宅工程師"
   },{
     "badges" : [ {
-      "description" : "",
-      "link" : "",
+      "description" : "PyLadies Taiwan",
+      "link" : "https://www.facebook.com/groups/pyladies.taiwan/",
       "name" : "PyLadies"
     }],
     "bio" : "雲守護的軟體工程師，也是Pyladies台灣的負責人之一，認為”程式是現實世界中的魔法”，從高中開始寫程式，十分外向，活潑友善，對電腦科學有著極大的熱情。在公司負責影像處理與Android開發，喜愛解決問題，嘗試新技術與自我挑戰。在 PyLadies 中負責規劃與協調活動，擔任助教，喜歡與人交流，認識新朋友與幫助他人，希望能夠讓更多的女生們加入 Python 的世界並享受其中，也因為對社群的貢獻，被選為 2017 Girls in Tech Taiwan 40 under 40 Women 的其中一員。",
     "company" : "雲守護安控股份有限公司/PyLadies",
-    "companyLogo" : "",
+    "companyLogo" : "/images/logos/beseye.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 10,
@@ -724,21 +707,17 @@
     "title" : "資深軟體工程師/PyLadies Host"
   },{
     "badges" : [ {
-      "description" : "",
-      "link" : "",
+      "link" : "https://www.facebook.com/groups/523386591081376",
       "name" : "Android Developer Study Group"
     },{
-      "description" : "",
-      "link" : "",
+      "link" : "https://www.facebook.com/groups/AndroidTaipei/",
       "name" : "Android Taipei"
     },{
-      "description" : "",
-      "link" : "",
+      "link" : "https://www.facebook.com/GDG.Taipei/",
       "name" : "GDG Taipei"
     }],
     "bio" : "I work in Mozilla and maintain our main browser app: FireFox for Android. Including:  CustomTab / PWA / Distribution / Reader Mode / Metrics and general UI.",
     "company" : "Mozilla",
-    "companyLogo" : "",
     "country" : "台灣",
     "featured" : true,
     "id" : 11,
@@ -754,39 +733,22 @@
     } ]
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "",
       "name" : "COSCUP 2016"
     },{
-      "description" : "",
-      "link" : "",
       "name" : "SITCON 2016"
     }],
     "bio" : "嗨，我是Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
-    "company" : "",
-    "companyLogo" : "",
-    "country" : "",
     "featured" : true,
     "id" : 12,
     "name" : "Michael.K",
-    "photoUrl" : "/images/people/官承翰.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "",
-      "link" : "",
-      "name" : ""
-    } ],
-    "tags" : [  ],
-    "title" : ""
+    "photoUrl" : "/images/people/官承翰.jpg"
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "",
+      "link" : "https://www.facebook.com/groups/ios.taipei/",
       "name" : "iOS@Taipei"
     }],
     "bio" : "Mobile",
     "company" : "iOS@Taipei",
-    "companyLogo" : "",
     "country" : "台灣",
     "featured" : true,
     "id" : 13,
@@ -794,17 +756,13 @@
     "photoUrl" : "/images/people/aki_yu.jpeg",
     "shortBio" : "To be done",
     "socials" : [ {
-      "icon" : "",
-      "link" : "",
-      "name" : ""
+      "name" : "To be done"
     } ],
-    "tags" : [ "Mobile" ],
-    "title" : ""
+    "tags" : [ "Mobile" ]
   }, {
-    "badges" : [ ],
     "bio" : "浪跡天涯小工程師",
     "company" : "程沛科技",
-    "companyLogo" : "",
+    "companyLogo" : "/images/logos/ExtreamaxLogoGray - Ching-Yi Chan.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 14,
@@ -816,17 +774,16 @@
       "link" : "https://www.facebook.com/qrtt1",
       "name" : "Facebook"
     } ],
-    "tags" : [  ],
     "title" : "工程師"
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "",
-      "name" : "GDG Hong Kong"
+      "description" : "GDG Hong Kong",
+      "link" : "http://www.gdghk.org/",
+      "name" : "GDG HK"
     }],
     "bio" : "Peter 是GDG香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
     "company" : "CG Marketing",
-    "companyLogo" : "",
+    "companyLogo" : "/images/logos/logo-cg-2 - Peter Lo.png",
     "country" : "Hong Kong",
     "featured" : true,
     "id" : 15,
@@ -834,25 +791,29 @@
     "photoUrl" : "/images/people/peter_lo.jpg",
     "shortBio" : "行政總裁 - 睿創市場策劃, 講師 - 香港中文大學專業進修學院",
     "socials" : [ {
-      "icon" : "",
-      "link" : "",
-      "name" : ""
+      "icon" : "linkedin",
+      "link" : "https://www.linkedin.com/in/petercslo",
+      "name" : "Linkedin"
     } ],
     "tags" : [ "Google AdWords", "Google Analytics" ],
     "title" : "CEO"
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "",
+      "description" : "知了新聞 Cicadata",
+      "link" : "https://www.facebook.com/Cicadatatw/",
       "name" : "知了新聞"
     },{
+      "description" : "OpenStreetMap Taiwan",
+      "link" : "https://www.facebook.com/groups/OpenStreetMap.TW/about/",
       "name" : "OpenStreetMap Taiwan"
     },{
-      "name" : "R Ladies"
+      "description" : "R-Ladies Taipei",
+      "link" : "https://www.facebook.com/groups/RLadiesTaipei/",
+      "name" : "R-Ladies Taipei"
     }],
     "bio" : "現職TomTom地圖測試工程師, 2017台大黑客松公民科技課程講者/Mentor, 知了新聞共同創辦人，QGIS工作坊講師, OpenStreetMap推廣者",
     "company" : "TomTom",
-    "companyLogo" : "",
+    "companyLogo" : "/images/logos/TomTom_RGB_logo - 林怡.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 16,
