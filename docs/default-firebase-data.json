@@ -693,7 +693,7 @@
     "featured" : true,
     "id" : 10,
     "name" : "姿君",
-    "photoUrl" : "/images/people/陳姿君.jpg",
+    "photoUrl" : "/images/people/chen.jpg",
     "shortBio" : "雲守護資深軟體工程師, PyLadies Taiwan 負責人, 2017 Girls in Tech Taiwan 40 under 40 Women, 台大資訊所所學會會長, 電資學院學生代表",
     "socials" : [ {
       "icon" : "facebook",
@@ -741,7 +741,7 @@
     "featured" : true,
     "id" : 12,
     "name" : "Michael.K",
-    "photoUrl" : "/images/people/官承翰.jpg"
+    "photoUrl" : "/images/people/kuan.jpg"
   }, {
     "badges" : [ {
       "link" : "https://www.facebook.com/groups/ios.taipei/",
@@ -762,7 +762,7 @@
   }, {
     "bio" : "浪跡天涯小工程師",
     "company" : "程沛科技",
-    "companyLogo" : "/images/logos/ExtreamaxLogoGray - Ching-Yi Chan.png",
+    "companyLogo" : "/images/logos/extreamax.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 14,
@@ -783,7 +783,7 @@
     }],
     "bio" : "Peter 是GDG香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
     "company" : "CG Marketing",
-    "companyLogo" : "/images/logos/logo-cg-2 - Peter Lo.png",
+    "companyLogo" : "/images/logos/CGMarketing.png",
     "country" : "Hong Kong",
     "featured" : true,
     "id" : 15,
@@ -813,13 +813,13 @@
     }],
     "bio" : "現職TomTom地圖測試工程師, 2017台大黑客松公民科技課程講者/Mentor, 知了新聞共同創辦人，QGIS工作坊講師, OpenStreetMap推廣者",
     "company" : "TomTom",
-    "companyLogo" : "/images/logos/TomTom_RGB_logo - 林怡.png",
+    "companyLogo" : "/images/logos/TomTom_logo.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 16,
     "name" : "林怡/Monday",
     "photoUrl" : "/images/people/linyi.jpg",
-    "shortBio" : "目前為每天混在地圖與食物堆中的TomTom工程師\n平常腦袋中沒有內建地圖，因此每到一個城市都想把當地地圖帶回家。在空間資料相關產業打滾數年，擅長處理各種空間資料與 GIS 工具夢想是畫遍太陽系各行星上的地圖",
+    "shortBio" : "目前為每天混在地圖與食物堆中的 TomTom 工程師\n平常腦袋中沒有內建地圖，因此每到一個城市都想把當地地圖帶回家。在空間資料相關產業打滾數年，擅長處理各種空間資料與 GIS 工具夢想是畫遍太陽系各行星上的地圖",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/riseswallow",
