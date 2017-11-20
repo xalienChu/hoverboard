@@ -837,7 +837,7 @@
       "company" : "",
       "companyLogo" : "",
       "country" : "台灣",
-      "featured" : true,
+      "featured" : false,
       "id" : 100,
       "name" : "",
       "photoUrl" : "",
