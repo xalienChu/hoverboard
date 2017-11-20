@@ -287,16 +287,6 @@
       "tags" : [ "" ],
       "title" : ""
     },
-    "10306" : {
-      "description" : "",
-      "id" : 10306,
-      "title" : "Lunch / 午休"
-    },
-    "10307" : {
-      "description" : "",
-      "id" : 10307,
-      "title" : "Preparing / 場地整備"
-    },
     "10311" : {
       "complexity" : "",
       "description" : "",
@@ -346,16 +336,6 @@
       "presentation" : "",
       "tags" : [ "" ],
       "title" : ""
-    },
-    "30106" : {
-      "description" : "",
-      "id" : 30106,
-      "title" : "Lunch / 午休"
-    },
-    "30107" : {
-      "description" : "",
-      "id" : 30107,
-      "title" : "Preparing / 場地整備"
     },
     "30108" : {
       "complexity" : "",
@@ -433,16 +413,6 @@
       "presentation" : "",
       "tags" : [ "" ],
       "title" : ""
-    },
-    "30206" : {
-      "description" : "",
-      "id" : 30206,
-      "title" : "Lunch / 午休"
-    },
-    "30207" : {
-      "description" : "",
-      "id" : 30207,
-      "title" : "Preparing / 場地整備"
     },
     "30208" : {
       "complexity" : "",
