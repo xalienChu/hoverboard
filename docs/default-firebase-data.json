@@ -461,7 +461,7 @@
     "name" : "Citybear 林昶瑔",
     "photoUrl" : "/images/people/citybear.jpg",
     "shortBio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
-    "tags" : [ "Android SDK NDK framework", "Linux", "web base", "影像串流" ],
+    "tags" : [ "Android", "Linux", "Web", "影像串流" ],
     "title" : "工程師"
   }, {
     "company" : "遠傳電信",
@@ -479,9 +479,9 @@
       "link" : "https://www.facebook.com/groups/523386591081376/",
       "name" : "TADSG"
     } ],
-    "bio" : "如果這個世界沒有Android就只能去北車乞討的工程師",
+    "bio" : "如果這個世界沒有 Android 就只能去北車乞討的工程師",
     "company" : "Dcard",
-    "companyLogo" : "",
+    "companyLogo" : "https://www.dcard.tw/images/favicon_114.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 3,
@@ -489,9 +489,9 @@
     "photoUrl" : "/images/people/cuber_yuan.png",
     "shortBio" : "如果這個世界沒有 Android 就只能去北車乞討的工程師",
     "tags" : [ "Android" ],
-    "title" : "Android developer"
+    "title" : "Android Developer"
   }, {
-    "bio" : "An undergraduate who specializes in algorithms and data structures. Former Software Engineering Intern at Google USA.",
+    "bio" : "An undergraduate who specializes in algorithms and data structures. Former Software Engineering Intern at Google USA. 是一個傻傻的女大生，專長是演算法與資料結構，但其他領域也有些涉獵，她過去曾經在多間企業實習工作，包括美國 Google 、台灣 Synopsys ... 等等公司； Jasmine 過去參與程式競賽長達 11年的時間，之中多次獲取國際、全國及地區性的獎項； Jasmine畢業後打算積極投入台灣社群，為台灣盡一份心力。",
     "company" : "Women Who Code Taipei",
     "companyLogo" : "/images/logos/WWCodeTaipei.jpg",
     "country" : "台灣",
@@ -499,7 +499,7 @@
     "id" : 4,
     "name" : "Jasmine Chen",
     "photoUrl" : "/images/people/jasmine_chen.png",
-    "shortBio" : "An undergraduate who specializes in algorithms and data structures. Former Software Engineering Intern at Google USA.",
+    "shortBio" : "一個傻傻的女大生，專長是演算法與資料結構，今年暑假幸運取得美國Google 實習的機會",
     "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/lnishantw/",
@@ -515,13 +515,13 @@
     } ],
     "bio" : "常常想程式想到睡不著的工程師，注重 clean code、unit test，目前主要都是開發 Android。",
     "company" : "Misk 米斯克科技",
-    "companyLogo" : "",
+    "companyLogo" : "https://mitjobs.s3.amazonaws.com/uploads/organization/632/logo/thumb_180_-_iPhone_6_Plus.png",
     "country" : "台灣",
     "featured" : true,
     "id" : 5,
     "name" : "洪彥彬",
     "photoUrl" : "/images/people/yanbin_hung.jpg",
-    "shortBio" : "",
+    "shortBio" : "常常想程式想到睡不著的工程師，注重 clean code、unit test，目前主要都是開發 Android",
     "socials" : [ {
       "icon" : "linkedin",
       "link" : "https://www.linkedin.com/in/%E5%BD%A5%E5%BD%AC-%E6%B4%AA-94b350b7/",
@@ -566,25 +566,26 @@
     "id" : 7,
     "name" : "曲小華 (EvA ChU)",
     "photoUrl" : "/images/people/xalien_chu.jpg",
+    "shortBio" : "I have the honor to play different roles in UX field, such as a UI designer, UI/UX designer, UX designer, Product designer, Product Manager, also vice director of Talk UX 2017 Conference. Right now, I work as a digital nomad to get another experience in my life.",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/xalien.chu",
       "name" : "Facebook"
     } ],
-    "tags" : [ "UX, UI Design", "Prototyping", "Usability Testing", "Product Design", "User Interviews", "Research", "Infographic", "Data Visualization" ]
+    "tags" : [ "UX", "UI", "Prototyping", "Usability Testing", "Product Design", "User Interviews", "Research", "Infographic", "Data Visualization" ]
   }, {
     "badges" : [ {
       "description" : "GDG Hong Kong",
       "link" : "http://www.gdghk.org/",
       "name" : "GDG HK"
     }, {
-      "description" : "WTM HK",
+      "description" : "Women TechMakers Hong Kong",
       "link" : "http://www.gdghk.org/category/wtm/",
       "name" : "WTM HK"
     } ],
     "bio" : "Emma Wong is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Women Techmakers(WTM) HK Lead. ",
     "company" : "Cherrypicks",
-    "companyLogo" : "",
+    "companyLogo" : "https://entrepreneurship.bschool.cuhk.edu.hk/sites/default/files/u45/cherrypicks_logo_chi_t-01_0.jpg",
     "country" : "Hong Kong",
     "featured" : true,
     "id" : 8,
@@ -599,18 +600,23 @@
     "tags" : [ "Android" ],
     "title" : "System Analyst"
   }, {
-    "bio" : "https://gist.github.com/y2468101216/184605f48d3a76c1feca73ec00c55775",
+    "bio" : "主要專注在 backend 部份，前端略懂，deploy 有一套自己開發的既定流程。",
     "country" : "台灣",
     "featured" : true,
     "id" : 9,
     "name" : "陳昱廷",
     "photoUrl" : "/images/people/liteng_chen.png",
+    "shortBio" : "主要專注在 backend 部份，前端略懂，deploy 有一套自己開發的既定流程。",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/y2468101216",
       "name" : "Facebook"
+    }, {
+      "icon" : "website",
+      "link" : "https://gist.github.com/y2468101216/184605f48d3a76c1feca73ec00c55775\\",
+      "name" : "個人介紹"
     } ],
-    "tags" : [ "全端打雜" ],
+    "tags" : [ "全端打雜", "PHP", "laravel", "JavaScript", "Jenkins", "React.js" ],
     "title" : "自宅工程師"
   }, {
     "badges" : [ {
@@ -618,7 +624,7 @@
       "link" : "https://www.facebook.com/groups/pyladies.taiwan/",
       "name" : "PyLadies"
     } ],
-    "bio" : "雲守護的軟體工程師，也是Pyladies台灣的負責人之一，認為”程式是現實世界中的魔法”，從高中開始寫程式，十分外向，活潑友善，對電腦科學有著極大的熱情。在公司負責影像處理與Android開發，喜愛解決問題，嘗試新技術與自我挑戰。在 PyLadies 中負責規劃與協調活動，擔任助教，喜歡與人交流，認識新朋友與幫助他人，希望能夠讓更多的女生們加入 Python 的世界並享受其中，也因為對社群的貢獻，被選為 2017 Girls in Tech Taiwan 40 under 40 Women 的其中一員。",
+    "bio" : "雲守護的軟體工程師，也是 PyLadies 台灣的負責人之一，認為”程式是現實世界中的魔法”，從高中開始寫程式，十分外向，活潑友善，對電腦科學有著極大的熱情。在公司負責影像處理與Android開發，喜愛解決問題，嘗試新技術與自我挑戰。在 PyLadies 中負責規劃與協調活動，擔任助教，喜歡與人交流，認識新朋友與幫助他人，希望能夠讓更多的女生們加入 Python 的世界並享受其中，也因為對社群的貢獻，被選為 2017 Girls in Tech Taiwan 40 under 40 Women 的其中一員。",
     "company" : "雲守護安控股份有限公司/PyLadies",
     "companyLogo" : "/images/logos/beseye.png",
     "country" : "台灣",
@@ -636,11 +642,13 @@
       "link" : "https://www.linkedin.com/in/tzu-chun-chen-8b534582/",
       "name" : "Linkedin"
     } ],
+    "tags" : [ "Python" ],
     "title" : "資深軟體工程師/PyLadies Host"
   }, {
     "badges" : [ {
+      "description" : "台灣 Android 開發者讀書會",
       "link" : "https://www.facebook.com/groups/523386591081376",
-      "name" : "Android Developer Study Group"
+      "name" : "TADSG"
     }, {
       "link" : "https://www.facebook.com/groups/AndroidTaipei/",
       "name" : "Android Taipei"
@@ -650,10 +658,11 @@
     } ],
     "bio" : "I work in Mozilla and maintain our main browser app: FireFox for Android. Including:  CustomTab / PWA / Distribution / Reader Mode / Metrics and general UI.",
     "company" : "Mozilla",
+    "companyLogo" : "https://www.mozilla.org/media/img/pebbles/moz-wordmark-dark-reverse.2cbc28bb9895.svg",
     "country" : "台灣",
     "featured" : true,
     "id" : 11,
-    "name" : "Nevin",
+    "name" : "Nevin Chen",
     "photoUrl" : "/images/people/nevin_chen.png",
     "shortBio" : "Android developer, Husband,  Father",
     "socials" : [ {
@@ -661,37 +670,52 @@
       "link" : "https://twitter.com/chennevin",
       "name" : "Twitter"
     }, {
-      "link" : "http://nevinchen.com"
-    } ]
+      "icon" : "website",
+      "link" : "http://nevinchen.com",
+      "name" : "網站"
+    } ],
+    "tags" : [ "Android", "Kotlin", "Architecture" ]
   }, {
     "badges" : [ {
       "name" : "COSCUP 2016"
     }, {
       "name" : "SITCON 2016"
     } ],
-    "bio" : "嗨，我是Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
+    "bio" : "嗨，我是 Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
     "featured" : true,
     "id" : 12,
     "name" : "Michael.K",
-    "photoUrl" : "/images/people/kuan.jpg"
+    "photoUrl" : "/images/people/kuan.jpg",
+    "shortBio" : "嗨，我是 Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
+    "tags" : [ "PHP", "Node.js", "Python", "Lua", "Architecture" ]
   }, {
     "badges" : [ {
       "link" : "https://www.facebook.com/groups/ios.taipei/",
       "name" : "iOS@Taipei"
     } ],
-    "bio" : "Mobile",
+    "bio" : "iOS@Taipei 社群創辦人，曾在 2015/16年擔任臺大黑客松評審、2016新北青創駭客松評審，亦曾擔任 GDG DevFest Taipei 2016 講者",
     "company" : "iOS@Taipei",
     "country" : "台灣",
     "featured" : true,
     "id" : 13,
     "name" : "AKI YU",
     "photoUrl" : "/images/people/aki_yu.jpeg",
-    "shortBio" : "To be done",
+    "shortBio" : "iOS@Taipei 社群創辦人，曾在 2015/16年擔任臺大黑客松評審、2016新北青創駭客松評審，亦曾擔任 GDG DevFest Taipei 2016 講者",
     "socials" : [ {
       "name" : "To be done"
     } ],
-    "tags" : [ "Mobile" ]
+    "tags" : [ "Android", "iOS" ],
+    "title" : "iOS@Taipei 社群創辦人"
   }, {
+    "badges" : [ {
+      "description" : "台灣 Java 使用者社群",
+      "link" : "http://www.twjug.org/",
+      "name" : "TWJUG"
+    }, {
+      "description" : "台灣 Android 開發者讀書會",
+      "link" : "https://www.facebook.com/groups/523386591081376",
+      "name" : "TADSG"
+    } ],
     "bio" : "浪跡天涯小工程師",
     "company" : "程沛科技",
     "companyLogo" : "/images/logos/extreamax.png",
@@ -706,6 +730,7 @@
       "link" : "https://www.facebook.com/qrtt1",
       "name" : "Facebook"
     } ],
+    "tags" : [ "Android", "Java", "Groovy", "Gradle" ],
     "title" : "工程師"
   }, {
     "badges" : [ {
@@ -713,7 +738,7 @@
       "link" : "http://www.gdghk.org/",
       "name" : "GDG HK"
     } ],
-    "bio" : "Peter 是GDG香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
+    "bio" : "Peter 是 GDG 香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
     "company" : "CG Marketing",
     "companyLogo" : "/images/logos/CGMarketing.png",
     "country" : "Hong Kong",
@@ -743,7 +768,7 @@
       "link" : "https://www.facebook.com/groups/RLadiesTaipei/",
       "name" : "R-Ladies Taipei"
     } ],
-    "bio" : "現職TomTom地圖測試工程師, 2017台大黑客松公民科技課程講者/Mentor, 知了新聞共同創辦人，QGIS工作坊講師, OpenStreetMap推廣者",
+    "bio" : "現職 TomTom 地圖測試工程師, 2017 台大黑客松公民科技課程講者/Mentor, 知了新聞共同創辦人，QGIS工作坊講師, OpenStreetMap推廣者",
     "company" : "TomTom",
     "companyLogo" : "/images/logos/TomTom_logo.png",
     "country" : "台灣",
@@ -1124,6 +1149,28 @@
       "starts" : "2017 年 11 月 18 日"
     } ],
     "url" : "https://gdg-taipei.kktix.cc/events/devfest-17"
+  },
+  "userSessions" : {
+    "D6ku5Z6HuLah3vZ1wiuLGhIF9Hm1" : {
+      "7" : true
+    },
+    "FBdnJ7bi2hYlC2hrrSByW50mJUi2" : {
+      "2" : true,
+      "3" : true,
+      "12" : true,
+      "15" : true,
+      "16" : true,
+      "10101" : true,
+      "10102" : true,
+      "10106" : true,
+      "10107" : true
+    },
+    "vj7I159yfENqcQIXslbPTODoNUf1" : {
+      "2" : true,
+      "5" : true,
+      "8" : true,
+      "14" : true
+    }
   },
   "videos" : [ {
     "speakers" : "Jakub Škvára",
