@@ -32,15 +32,15 @@
       "startTime" : "09:00"
     }, {
       "endTime" : "10:00",
-      "sessions" : [ [ 10103 ], [ 10203 ], [ 6 ], [ 30103 ], [ 30203 ] ],
+      "sessions" : [ [ 17 ], [ 5 ], [ 6 ], [ 19 ], [ 30203 ] ],
       "startTime" : "09:15"
     }, {
       "endTime" : "11:00",
-      "sessions" : [ [ 7 ], [ 1 ], [ 15 ], [ 30104 ], [ 30204 ] ],
+      "sessions" : [ [ 7 ], [ 1 ], [ 15 ], [ 19 ] ],
       "startTime" : "10:15"
     }, {
       "endTime" : "12:00",
-      "sessions" : [ [ 4 ], [ 2 ], [ 12 ], [ 30105 ], [ 30205 ] ],
+      "sessions" : [ [ 4 ], [ 2 ], [ 12 ], [ 19 ] ],
       "startTime" : "11:15"
     }, {
       "endTime" : "13:00",
@@ -52,15 +52,15 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 3 ], [ 8 ], [ 9 ], [ 30108 ], [ 30208 ] ],
+      "sessions" : [ [ 3 ], [ 8 ], [ 11 ]],
       "startTime" : "13:15"
     }, {
       "endTime" : "15:00",
-      "sessions" : [ [ 14 ], [ 11 ], [ 16 ], [ 30109 ], [ 30209 ] ],
+      "sessions" : [ [ 14 ], [ 9 ], [ 16 ], [ 18 ], [ 20 ] ],
       "startTime" : "14:15"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 13 ], [ 5 ], [ 10 ], [ 30110 ], [ 30210 ] ],
+      "sessions" : [ [ 13 ], [ 5 ], [ 10 ], [ 18 ], [ 20 ] ],
       "startTime" : "15:15"
     }, {
       "endTime" : "16:45",
@@ -81,11 +81,12 @@
   } ],
   "sessions" : {
     "1" : {
-      "description" : "Android linphone compile 及 Opensips",
+      "complexity" : "初等",
+      "description" : "打造自已的 Android 語音視訊軟體",
       "id" : 1,
       "language" : "中文",
       "speakers" : [ 1 ],
-      "tags" : [ "Mobile" ],
+      "tags" : [ "行動裝置","VOIP服務" ],
       "title" : "Android SIP"
     },
     "2" : {
@@ -94,26 +95,30 @@
       "language" : "中文",
       "speakers" : [ 2 ],
       "tags" : [ "AI", "Actions on Google", "IoT" ],
-      "title" : "如何使用android things / 如何使用DialogFlow"
+      "title" : "如何使用 android things / 如何使用 DialogFlow"
     },
     "3" : {
+      "complexity" : "高等",
       "description" : "MVP,  MVVM, AAC 經驗分享",
       "id" : 3,
       "language" : "中文",
       "speakers" : [ 3 ],
-      "tags" : [ "Mobile" ],
+      "tags" : [ "Android","Kotlin","AndroidArchitecture","Components","Room","Retrofit","rxKotlin","MVP","MVVM" ],
+      "presentation":"https://docs.google.com/presentation/d/e/2PACX-1vQlWQ3fNxJ7DpW6YT8Na0HKQICmrRjN0H-YD5lPfV30CtyDeYN7Jm5AzPwwfHIcvbzrDCtmb__idfcq/pub?start=false&loop=false&delayms=60000&slide=id.g35f391192_00",
       "title" : "Android Architecture"
     },
     "4" : {
-      "description" : "I will talking about my journey to an internship at Google USA, including how I acquired my technical skills, how I got the opportunity, how I prepared for the interviews, the actual interview process and a bit about my overall experience there.",
+      "complexity" : "初等",
+      "description" : "一個傻傻的台灣女大生去美國 Google 實習的心路歷程，包含：自己在資訊領域的學習心得、如何取得面試機會、如何準備面試、面試流程的簡單介紹、取得簽證並赴美，最後在",
       "id" : 4,
       "language" : "中文",
       "speakers" : [ 4 ],
-      "tags" : [ "Internship" ],
+      "tags" : [ "Internship","Google","UnitedStates" ],
       "title" : "My journey to an internship at Google USA"
     },
     "5" : {
-      "description" : "1. What's wrong with Calendar?, 2. Introduce JSR310, 3. Unit test with JSR310, 4. integrate with kotlin",
+      "complexity" : "中等",
+      "description" : "先介紹一下 Calendar 與 Date 不方便的地方，接下來講為什麼需要新的 Library，他好用在哪裡。邊講解用法時也會讓大家去思考怎樣是一個好的設計，為什麼要這樣設計。",
       "id" : 5,
       "language" : "中文",
       "speakers" : [ 5 ],
@@ -121,6 +126,7 @@
       "title" : "JSR310 - Another Calendar Library"
     },
     "6" : {
+      "complexity" : "初等",
       "description" : "Jane Shih founded her company WeTogether.co at the end of 2014, a networking platform for technology professionals. Her passion is women in technology. In 2015, understanding how important it is for women to join and grow in the tech industry, she launched Taipei Women in Technology and set up local chapters for a few international NPOs related to Women in Tech and Entrepreneurship. She’s now the Managing Director of Girls in Tech Taiwan, City Director of Ladies that UX Taipei and Women Who Code Taipei with 4000+ active members across the various communities. At this talk, she's share her experience working in the silicon valley and how that impact her leadership style to grow and help women in tech in Taiwan.",
       "id" : 6,
       "language" : "中文",
@@ -129,6 +135,7 @@
       "title" : "矽谷經驗與女生科技社群經營經驗分享"
     },
     "7" : {
+      "complexity" : "初等",
       "description" : "認識什麼是 UX，什麼是 UI，它倆位有什麼不同。\nA: UX 重不重要? \nB: 重要 \nA: 為什麼重要? \nB: 因為它就在我們的生活周遭、身處在我們的日常生活當中。 \nA: 那我就好奇了，為什麼它會在我們的日常生活中? 它又不干我事",
       "id" : 7,
       "language" : "中文",
@@ -137,7 +144,6 @@
       "title" : "UX, UI 是兄弟? 要明算帳?"
     },
     "8" : {
-      "complexity" : "初級",
       "description" : "Introduce Google Assistant, Google Assistant Apps, Actions on Google and the Google Assistant Developer Community Program",
       "id" : 8,
       "language" : "中文",
@@ -146,6 +152,7 @@
       "title" : "Introduction to Google Assistant & Google Assistant Community Program"
     },
     "9" : {
+      "complexity" : "初等",
       "description" : "https://goo.gl/mizaKs 這個稍微改良",
       "id" : 9,
       "language" : "中文",
@@ -154,6 +161,7 @@
       "title" : "How to google "
     },
     "10" : {
+      "complexity" : "初等",
       "description" : "分享從高中開始寫程式，一路寫到軟體工程師的經驗談。內容將包含在絕望沙洲時期生存、打破冒牌者症候群迷思、如何應對社會期許(刻板印象)、出社會後的生涯規劃、跟其他工程師相處並持續地增進自我實力的方法。",
       "id" : 10,
       "language" : "中文",
@@ -162,6 +170,7 @@
       "title" : "工程師的升級之路"
     },
     "11" : {
+      "complexity" : "初等",
       "description" : "Build Code, First Patch, Code Review, Get's Landed, Community Activity",
       "id" : 11,
       "language" : "中文",
@@ -170,6 +179,7 @@
       "title" : "Contribute to Firefox on Android"
     },
     "12" : {
+      "complexity" : "中等",
       "description" : "在某年某月某日莫名的接到了:「能不能像◯◯◯◯一樣做一個圖片搜尋啊？」，之後開始了新的side project專案，從Azure、Amazon、Google甚至是自架方案，到後面幾乎整個workaround一遍，我將要分享在這其中遇到的大大小小的事情。",
       "id" : 12,
       "language" : "中文",
@@ -178,7 +188,7 @@
       "title" : "使用圖片辨識打造搜尋"
     },
     "13" : {
-      "complexity" : "",
+      "complexity" : "中等",
       "description" : "To be done",
       "id" : 13,
       "language" : "中文",
@@ -188,6 +198,7 @@
       "title" : "Cross platform! Build native APP with Go"
     },
     "14" : {
+      "complexity" : "初等",
       "description" : "Gradle 是許多 Java 相關專案或 Android 工程師每日必用的工具，可惜的是沒有太多人學習如何使用它。反而讓輔助開發效率的工具，成為事倍功半的局面。這場演既非是 Gradle 入門的教學，也非 Gradle 進階技巧介紹。而是站在如何開始弄懂 Gradle 的運作的歷程，它是學習者內心的歷險記，得一起經歷過一些追入原始碼，對觀察進行假設與驗證，探索 Gradle 相關實作的過程，並試著簡單連結工作的情境。",
       "id" : 14,
       "language" : "中文",
@@ -196,7 +207,7 @@
       "title" : "學習如何學習 Gradle"
     },
     "15" : {
-      "complexity" : "初級",
+      "complexity" : "初等",
       "description" : "要想了解到用戶習慣，我們都知道可以用Google Analytics, 但一方面我們資料很多，需要懂得從中找出有用的東西，另一方面我們也怕遇上甚麼也不懂的市場部同事，不斷問著取得奇怪的資料。就讓我們花上半個小時，從新了解一下市場的需要，和同事們好好合作。(此節以英語進行，適合初接觸Google Analytics或是需要和其他部們講解GA的你)",
       "id" : 15,
       "language" : "英文",
@@ -205,12 +216,46 @@
       "title" : "讓你的菜鳥同事自己使用Google Analytics"
     },
     "16" : {
+      "complexity" : "初等",
       "description" : "工程師要怎麼入門玩地圖？, 如何簡易處理空間資料, 地圖應用開發的眉眉角角, 各式GIS工具資源介紹",
       "id" : 16,
       "language" : "中文",
       "speakers" : [ 16 ],
       "tags" : [ "GIS", "Maps" ],
       "title" : "第一次玩地圖就上手"
+    },
+    "17":{
+      "description" : "利用 Firebase 的 Realtime Database 以及 Cloud Function，打造一個完全 Serverless 的線上即時問答遊戲。",
+      "id" : 17,
+      "language" : "中文",
+      "speakers" : [ 17 ],
+      "tags" : [ "Google Cloud", "Firebase" ],
+      "title" : "使用 Firebase 打造線上即時問答遊戲"
+    },
+    "18":{
+      "description" : "在簡單說明 Google 為 Android 提出的 Architecture Components 後，大家一起動手來新手區闖盪吧～",
+      "id" : 18,
+      "language" : "中文",
+      "speakers" : [ 18 ],
+      "tags" : [ "Android" ],
+      "title" : "Android Architecture Components Code Lab"
+    },
+    "19":{
+      "description" : "album+OS 偷桃的技術 (09:30 開始）",
+      "id" : 19,
+      "language" : "中文",
+      "speakers" : [ 19 ],
+      "tags" : [ "Android" ],
+      "title" : "album+OS 偷桃的技術 (09:30 開始）"
+    },
+    "20":{
+      "complexity" : "中等",
+      "description" : "Kotlin Code Lab",
+      "id" : 20,
+      "language" : "中文",
+      "speakers" : [ 11 ],
+      "tags" : [ "kotlin" ],
+      "title" : "Kotlin Code Lab"
     },
     "10101" : {
       "description" : "",
@@ -788,34 +833,12 @@
     "tags" : [ "GIS", "Navigation", "Spatial data process" ],
     "title" : "Test Engineer"
   }, {
-    "badges" : [ {
-      "description" : "台灣 Android 開發者讀書會",
-      "link" : "https://www.facebook.com/groups/523386591081376",
-      "name" : "TADSG"
-    } ],
-    "bio" : "",
-    "company" : "",
-    "companyLogo" : "",
-    "country" : "台灣",
-    "featured" : true,
-    "id" : 17,
-    "name" : "Skuld Chen",
-    "photoUrl" : "/images/people/skuld_chen.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "",
-      "link" : "",
-      "name" : ""
-    } ],
-    "tags" : [ "Security" ],
-    "title" : "工程師"
-  }, {
     "bio" : "莊坪達 (Edward Chuang) 是 Google Cloud 團隊的客戶工程與技術負責人，主要負責協助客戶能夠利用雲端系統的彈性與高可靠度建立服務並讓客戶能增加服務的附加價值。在加入 Google 之前，他曾擔任帶領 SRE 團隊負責混合雲以及自有機房的系統與網路架構的規劃建制與維護。除此之外，他也有超過十年以上的軟體開發經驗，主要為後端系統開發。",
     "company" : "Google Inc.",
     "companyLogo" : "/images/logos/google.svg",
     "country" : "台灣",
     "featured" : true,
-    "id" : 18,
+    "id" : 17,
     "name" : "Edward Chuang",
     "photoUrl" : "/images/people/edward_chuang.jpg",
     "shortBio" : "莊坪達 (Edward Chuang) 是 Google Cloud 團隊的客戶工程與技術負責人，主要負責協助客戶能夠利用雲端系統的彈性與高可靠度建立服務並讓客戶能增加服務的附加價值。在加入 Google 之前，他曾擔任帶領 SRE 團隊負責混合雲以及自有機房的系統與網路架構的規劃建制與維護。除此之外，他也有超過十年以上的軟體開發經驗，主要為後端系統開發。",
@@ -836,7 +859,7 @@
     "companyLogo" : "/images/logos/gdg-taipei.svg",
     "country" : "台灣",
     "featured" : true,
-    "id" : 19,
+    "id" : 18,
     "name" : "阿達",
     "photoUrl" : "/images/people/ahdaa_yeh.jpg",
     "shortBio" : "近年來長時間投入 Android 的專案開發、掃雷 莫希爾手札作者，期望以 NPC 的概念，提供各位開發勇者們在開發的過程中，能找到合適的學習之處，或是解決方法。",
@@ -851,6 +874,28 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "GDG Taipei Co-organizer"
+  }, {
+    "badges" : [ {
+      "description" : "台灣 Android 開發者讀書會",
+      "link" : "https://www.facebook.com/groups/523386591081376",
+      "name" : "TADSG"
+    } ],
+    "bio" : "",
+    "company" : "",
+    "companyLogo" : "",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 19,
+    "name" : "Skuld Chen",
+    "photoUrl" : "/images/people/skuld_chen.jpg",
+    "shortBio" : "",
+    "socials" : [ {
+      "icon" : "",
+      "link" : "",
+      "name" : ""
+    } ],
+    "tags" : [ "Security" ],
+    "title" : "工程師"
   }, {
     "badges" : [ {
       "link" : "https://www.google.com",
