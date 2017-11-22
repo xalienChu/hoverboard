@@ -677,14 +677,17 @@
     "tags" : [ "Android", "Kotlin", "Architecture" ]
   }, {
     "badges" : [ {
+      "description" : "2011 年開源人年會",
+      "link" : "https://2011.coscup.org",
       "name" : "COSCUP 2016"
     }, {
+      "link" : "https://sitcon.org",
       "name" : "SITCON 2016"
     } ],
     "bio" : "嗨，我是 Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
     "featured" : true,
     "id" : 12,
-    "name" : "Michael.K",
+    "name" : "Michael 官承翰",
     "photoUrl" : "/images/people/kuan.jpg",
     "shortBio" : "嗨，我是 Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
     "tags" : [ "PHP", "Node.js", "Python", "Lua", "Architecture" ]
@@ -786,25 +789,88 @@
     "title" : "Test Engineer"
   }, {
     "badges" : [ {
-      "description" : "",
-      "link" : "",
-      "name" : ""
+      "description" : "台灣 Android 開發者讀書會",
+      "link" : "https://www.facebook.com/groups/523386591081376",
+      "name" : "TADSG"
     } ],
     "bio" : "",
     "company" : "",
     "companyLogo" : "",
     "country" : "台灣",
-    "featured" : false,
-    "id" : 100,
-    "name" : "",
-    "photoUrl" : "",
+    "featured" : true,
+    "id" : 17,
+    "name" : "Skuld Chen",
+    "photoUrl" : "/images/people/skuld_chen.jpg",
     "shortBio" : "",
     "socials" : [ {
       "icon" : "",
       "link" : "",
       "name" : ""
     } ],
-    "title" : ""
+    "tags" : [ "Security" ],
+    "title" : "工程師"
+  }, {
+    "bio" : "莊坪達 (Edward Chuang) 是 Google Cloud 團隊的客戶工程與技術負責人，主要負責協助客戶能夠利用雲端系統的彈性與高可靠度建立服務並讓客戶能增加服務的附加價值。在加入 Google 之前，他曾擔任帶領 SRE 團隊負責混合雲以及自有機房的系統與網路架構的規劃建制與維護。除此之外，他也有超過十年以上的軟體開發經驗，主要為後端系統開發。",
+    "company" : "Google Inc.",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 18,
+    "name" : "Edward Chuang",
+    "photoUrl" : "/images/people/edward_chuang.jpg",
+    "shortBio" : "莊坪達 (Edward Chuang) 是 Google Cloud 團隊的客戶工程與技術負責人，主要負責協助客戶能夠利用雲端系統的彈性與高可靠度建立服務並讓客戶能增加服務的附加價值。在加入 Google 之前，他曾擔任帶領 SRE 團隊負責混合雲以及自有機房的系統與網路架構的規劃建制與維護。除此之外，他也有超過十年以上的軟體開發經驗，主要為後端系統開發。",
+    "tags" : [ "Google Cloud", "Firebase" ],
+    "title" : "Customer Engineer, Google Cloud"
+  }, {
+    "badges" : [ {
+      "description" : "台北谷歌開發者社群",
+      "link" : "https://facebook.com/GDG.Taipei/",
+      "name" : "GDG Taipei"
+    }, {
+      "description" : "台灣 Android 開發者讀書會",
+      "link" : "https://www.facebook.com/groups/523386591081376",
+      "name" : "TADSG"
+    } ],
+    "bio" : "近年來長時間投入 Android 的專案開發、掃雷 莫希爾手札作者，期望以 NPC 的概念，提供各位開發勇者們在開發的過程中，能找到合適的學習之處，或是解決方法。 只是近期因專案忙錄，手札幾乎沒有在更新就是（拖走～",
+    "company" : "GDG Taipei",
+    "companyLogo" : "/images/logos/gdg-taipei.svg",
+    "country" : "台灣",
+    "featured" : true,
+    "id" : 19,
+    "name" : "阿達",
+    "photoUrl" : "/images/people/ahdaa_yeh.jpg",
+    "shortBio" : "近年來長時間投入 Android 的專案開發、掃雷 莫希爾手札作者，期望以 NPC 的概念，提供各位開發勇者們在開發的過程中，能找到合適的學習之處，或是解決方法。",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/mosil.biz.page",
+      "name" : "Facebook"
+    }, {
+      "icon" : "gplus",
+      "link" : "https://plus.google.com/+MosilBiz",
+      "name" : "Google Plus"
+    } ],
+    "tags" : [ "Android" ],
+    "title" : "GDG Taipei Co-organizer"
+  }, {
+    "badges" : [ {
+      "link" : "https://www.google.com",
+      "name" : "Google"
+    }],
+    "bio" : "Bok Thye Yeow leads the Google Developer Programs for Agencies and ProDevs for Asia at Google. He has more than a decade of experience developing full stack software across various industries including telco, banking, digital and creative advertising, retail, etc. He strongly believe we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the 'next big thing' to come!",
+    "company" : "Google",
+    "companyLogo" : "/images/logos/google.svg",
+    "country" : "Singapore",
+    "featured" : true,
+    "id" : 20,
+    "name" : "Bok Thye Yeow",
+    "photoUrl" : "/images/people/bokthyeyeow.jpg",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://www.facebook.com/bokthyeyeow",
+      "name" : "Facebook"
+    }],
+    "tags" : [ "Android" ],
+    "title" : "Developer Relations Ecosystem Program Manager, Google"
   } ],
   "team" : [ {
     "description" : "GDG 是源自於 Google 的開發者社群，透過熱心的 Google 技術開發者在各地以各種形式聚會的方式，邀請大家分享在 Google 相關的領域進行技術交流，讓大家可以在輕鬆的環境下，學習瞭解 Google 的相關技術。讓開發者在學習的路途上，不再寂寞！我們是在台北市的 Google 技術社群，希望協助對 Google 技術熱衷的技術開發者彼此間更多地交流，並促進彼此成長！",
