@@ -52,7 +52,7 @@
       "startTime" : "13:00"
     }, {
       "endTime" : "14:00",
-      "sessions" : [ [ 3 ], [ 8 ], [ 11 ]],
+      "sessions" : [ [ 3 ], [ 8 ], [ 11 ] ],
       "startTime" : "13:15"
     }, {
       "endTime" : "15:00",
@@ -86,7 +86,7 @@
       "id" : 1,
       "language" : "中文",
       "speakers" : [ 1 ],
-      "tags" : [ "行動裝置","VOIP服務" ],
+      "tags" : [ "行動裝置", "VOIP服務" ],
       "title" : "Android SIP"
     },
     "2" : {
@@ -95,16 +95,16 @@
       "language" : "中文",
       "speakers" : [ 2 ],
       "tags" : [ "AI", "Actions on Google", "IoT" ],
-      "title" : "如何使用 android things / 如何使用 DialogFlow"
+      "title" : "如何使用 Android Things 與 DialogFlow 打造自己的語音對話盒"
     },
     "3" : {
       "complexity" : "高等",
       "description" : "MVP,  MVVM, AAC 經驗分享",
       "id" : 3,
       "language" : "中文",
+      "presentation" : "https://docs.google.com/presentation/d/e/2PACX-1vQlWQ3fNxJ7DpW6YT8Na0HKQICmrRjN0H-YD5lPfV30CtyDeYN7Jm5AzPwwfHIcvbzrDCtmb__idfcq/pub?start=false&loop=false&delayms=60000&slide=id.g35f391192_00",
       "speakers" : [ 3 ],
-      "tags" : [ "Android","Kotlin","AndroidArchitecture","Components","Room","Retrofit","rxKotlin","MVP","MVVM" ],
-      "presentation":"https://docs.google.com/presentation/d/e/2PACX-1vQlWQ3fNxJ7DpW6YT8Na0HKQICmrRjN0H-YD5lPfV30CtyDeYN7Jm5AzPwwfHIcvbzrDCtmb__idfcq/pub?start=false&loop=false&delayms=60000&slide=id.g35f391192_00",
+      "tags" : [ "Android", "Kotlin", "AndroidArchitecture", "Components", "Room", "Retrofit", "rxKotlin", "MVP", "MVVM" ],
       "title" : "Android Architecture"
     },
     "4" : {
@@ -113,7 +113,7 @@
       "id" : 4,
       "language" : "中文",
       "speakers" : [ 4 ],
-      "tags" : [ "Internship","Google","UnitedStates" ],
+      "tags" : [ "Internship", "Google", "UnitedStates" ],
       "title" : "My journey to an internship at Google USA"
     },
     "5" : {
@@ -224,7 +224,7 @@
       "tags" : [ "GIS", "Maps" ],
       "title" : "第一次玩地圖就上手"
     },
-    "17":{
+    "17" : {
       "description" : "利用 Firebase 的 Realtime Database 以及 Cloud Function，打造一個完全 Serverless 的線上即時問答遊戲。",
       "id" : 17,
       "language" : "中文",
@@ -232,7 +232,7 @@
       "tags" : [ "Google Cloud", "Firebase" ],
       "title" : "使用 Firebase 打造線上即時問答遊戲"
     },
-    "18":{
+    "18" : {
       "description" : "在簡單說明 Google 為 Android 提出的 Architecture Components 後，大家一起動手來新手區闖盪吧～",
       "id" : 18,
       "language" : "中文",
@@ -240,7 +240,7 @@
       "tags" : [ "Android" ],
       "title" : "Android Architecture Components Code Lab"
     },
-    "19":{
+    "19" : {
       "description" : "album+OS 偷桃的技術 (09:30 開始）",
       "id" : 19,
       "language" : "中文",
@@ -248,7 +248,7 @@
       "tags" : [ "Android" ],
       "title" : "album+OS 偷桃的技術 (09:30 開始）"
     },
-    "20":{
+    "20" : {
       "complexity" : "中等",
       "description" : "Kotlin Code Lab",
       "id" : 20,
@@ -509,6 +509,7 @@
     "tags" : [ "Android", "Linux", "Web", "影像串流" ],
     "title" : "工程師"
   }, {
+    "bio" : "Kevin 目前任職於遠傳電信行動應用開發小組，之前為手機廠工程師，歡迎對軟硬體整合有興趣的朋友與他一起討論。",
     "company" : "遠傳電信",
     "companyLogo" : "/images/logos/fetnet.png",
     "country" : "台灣",
@@ -516,6 +517,12 @@
     "id" : 2,
     "name" : "Kevin 邱哲綸",
     "photoUrl" : "/images/people/kevin_chiu.jpg",
+    "shortBio" : "軟硬兼施的行動應用工程師",
+    "socials" : [ {
+      "icon" : "facebook",
+      "link" : "https://facebook.com/kevin.chiu.9655",
+      "name" : "Facebook"
+    } ],
     "tags" : [ "Android", "IoT", "Smart Home" ],
     "title" : "App 資深工程師"
   }, {
@@ -900,7 +907,7 @@
     "badges" : [ {
       "link" : "https://www.google.com",
       "name" : "Google"
-    }],
+    } ],
     "bio" : "Bok Thye Yeow leads the Google Developer Programs for Agencies and ProDevs for Asia at Google. He has more than a decade of experience developing full stack software across various industries including telco, banking, digital and creative advertising, retail, etc. He strongly believe we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the 'next big thing' to come!",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
@@ -913,7 +920,7 @@
       "icon" : "facebook",
       "link" : "https://www.facebook.com/bokthyeyeow",
       "name" : "Facebook"
-    }],
+    } ],
     "tags" : [ "Android" ],
     "title" : "Developer Relations Ecosystem Program Manager, Google"
   } ],
