@@ -501,7 +501,7 @@
       "title" : ""
     }
   },
-  "speakers" : [ {
+  "speakers" : [ null, {
     "bio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
     "company" : "日康科技",
     "companyLogo" : "/images/logos/zcon.png",
@@ -891,7 +891,7 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "GDG Taipei Co-organizer"
-  }, {
+  }, null, {
     "badges" : [ {
       "link" : "https://www.google.com",
       "name" : "Google"
