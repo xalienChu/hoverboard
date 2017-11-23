@@ -4,7 +4,7 @@
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
       "url" : "https://www.google.com/intl/zh-tw/about/",
-      "width": 240
+      "width" : 240
     } ],
     "title" : "贊助夥伴"
   }, {
@@ -501,7 +501,7 @@
       "title" : ""
     }
   },
-  "speakers" : [ null, {
+  "speakers" : [ {
     "bio" : "喜歡研究問題，覺得任何東西只要了解，就能充份應用與掌握",
     "company" : "日康科技",
     "companyLogo" : "/images/logos/zcon.png",
@@ -846,6 +846,10 @@
     "tags" : [ "GIS", "Navigation", "Spatial data process" ],
     "title" : "Test Engineer"
   }, {
+    "badges" : [ {
+      "link" : "https://www.google.com",
+      "name" : "Google"
+    } ],
     "bio" : "莊坪達 (Edward Chuang) 是 Google Cloud 團隊的客戶工程與技術負責人，主要負責協助客戶能夠利用雲端系統的彈性與高可靠度建立服務並讓客戶能增加服務的附加價值。在加入 Google 之前，他曾擔任帶領 SRE 團隊負責混合雲以及自有機房的系統與網路架構的規劃建制與維護。除此之外，他也有超過十年以上的軟體開發經驗，主要為後端系統開發。",
     "company" : "Google Inc.",
     "companyLogo" : "/images/logos/google.svg",
@@ -875,7 +879,7 @@
     "id" : 18,
     "name" : "阿達",
     "photoUrl" : "/images/people/ahdaa_yeh.jpg",
-    "shortBio" : "近年來長時間投入 Android 的專案開發、掃雷 莫希爾手札作者，期望以 NPC 的概念，提供各位開發勇者們在開發的過程中，能找到合適的學習之處，或是解決方法。",
+    "shortBio" : "近年來長時間投入 Android 的專案開發、掃雷，是技術部落格 莫希爾手札 作者，期望以 NPC 的概念，提供各位開發勇者們在開發的過程中，能找到合適的學習之處，或是解決方法。",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/mosil.biz.page",
@@ -887,7 +891,7 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "GDG Taipei Co-organizer"
-  }, null, {
+  }, {
     "badges" : [ {
       "link" : "https://www.google.com",
       "name" : "Google"
@@ -1010,11 +1014,14 @@
         "name" : "Facebook"
       } ],
       "title" : "Co-organizer"
+    }, {
+      "name" : "Cristine Chen",
+      "title" : "Co-organizer"
     } ],
     "photoUrl" : "/images/logos/gdg-taipei.svg",
     "title" : "Google Developer Group Taipei / 台北谷歌開發者社群"
   }, {
-    "description" : "WTM 女性資訊從業人員社群是由 Google 所創立的女性開發者社群，希望經由社群的力量帶領女性朋友們走入科技，藉由邀請成功的女性加入，跟大家分享技術、經驗與見聞，讓大家一起成長！",
+    "description" : "WTM 女性資訊技術從業人員社群是由 Google 所創立的女性開發者社群，希望經由社群的力量帶領女性朋友們走入科技，藉由邀請成功的女性加入，跟大家分享技術、經驗與見聞，讓大家一起成長！",
     "link" : "https://www.womentechmakers.com/",
     "members" : [ {
       "name" : "Mia Yu",
@@ -1028,10 +1035,96 @@
         "link" : "https://www.facebook.com/mia.shopgal",
         "name" : "Facebook"
       } ],
-      "title" : "Women Techmakers Lead"
+      "title" : "Women TechMakers Lead"
+    }, {
+      "name" : "Cristine Chen",
+      "title" : "Women TechMakers Lead"
     } ],
     "photoUrl" : "/images/logos/WTM_logo.png",
-    "title" : "Women Techmakers / 女性技術從業人員社群"
+    "title" : "Women TechMakers Taipei / 台北女性資訊技術從業人員社群"
+  }, {
+    "description" : "台灣 Android 開發者讀書會是聚集了眾多 Android 開發相關資訊的開發者社群，透過共同讀書、分享讓大家可以快速學習，輕鬆進入 Android 開發的殿堂。歡迎有有趣題目的開發者、有想要學習 Android 開發的朋友、想尋覓人才的朋友一起參加！",
+    "link" : "https://www.facebook.com/groups/523386591081376/",
+    "members" : [ {
+      "name" : "Takuma Lee",
+      "photoUrl" : "/images/people/takuma_lee.jpg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/115839679759708165200",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/vmgsahm1",
+        "name" : "Facebook"
+      }, {
+        "icon" : "website",
+        "link" : "http://takuma-nekomayoi-blog.logdown.com/",
+        "name" : "Blog"
+      } ],
+      "title" : "Organizer"
+    }, {
+      "name" : "Skuld Chen",
+      "photoUrl" : "/images/people/skuld_chen.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/profile.php?id=100000342244227",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://tw.linkedin.com/in/skuld-chen-46936379",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Co-organizer"
+    }, {
+      "name" : "Ymow Wu / 吳俊逸",
+      "photoUrl" : "/images/people/ymou_wu.png",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/u/0/+YmowWu",
+        "name" : "Google+"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/ymow.wu",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ymow",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://ymow.net/",
+        "name" : "Blog"
+      } ],
+      "title" : "Co-organizer"
+    }, {
+      "name" : "Weihung Liu / 劉威宏",
+      "photoUrl" : "/images/people/weihung_liu.jpeg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/Weihung.TW",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/weihung-liu-4910b845",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Co-organizer"
+    }, {
+      "name" : "EnPing Hsieh / 謝恩平",
+      "photoUrl" : "/images/people/enping_hsieh.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/enping.hsieh",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://tw.linkedin.com/in/en-ping-hsieh-7519a087",
+        "name" : "LinkedIn"
+      } ],
+      "title" : "Co-organizer"
+    } ],
+    "photoUrl" : "/images/logos/TADSG_logo.png",
+    "title" : "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會"
   }, {
     "description" : "GCPUG 透過網際網路串聯喜好 Google Cloud Platform 的使用者，分享與交流使用 GCP的點滴鑑驗。我們在 GCPUG 邀請前輩們分享使用經驗，同時也邀請各路高手互相交流，也歡迎初學者來聽聽我們是怎麼使用 Google 雲端平台的！",
     "link" : "http://www.gcpug.tw",
@@ -1098,132 +1191,6 @@
     } ],
     "photoUrl" : "/images/logos/GCPUG-TW.png",
     "title" : "Google Cloud Platform User Group Taiwan / 台灣谷歌雲端平台使用者社群"
-  }, {
-    "description" : "台灣 Android 開發者讀書會是聚集了眾多 Android 開發相關資訊的開發者社群，透過共同讀書、分享讓大家可以快速學習，輕鬆進入 Android 開發的殿堂。歡迎有有趣題目的開發者、有想要學習 Android 開發的朋友、想尋覓人才的朋友一起參加！",
-    "link" : "https://www.facebook.com/groups/523386591081376/",
-    "members" : [ {
-      "name" : "Takuma Lee",
-      "photoUrl" : "/images/people/takuma_lee.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/115839679759708165200",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vmgsahm1",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "http://takuma-nekomayoi-blog.logdown.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Organizer"
-    }, {
-      "name" : "Skuld Chen",
-      "photoUrl" : "/images/people/skuld_chen.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/profile.php?id=100000342244227",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://tw.linkedin.com/in/skuld-chen-46936379",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "Ymow Wu / 吳俊逸",
-      "photoUrl" : "/images/people/ymou_wu.png",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+YmowWu",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ymow.wu",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ymow",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://ymow.net/",
-        "name" : "Blog"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "HsinHung / 林信宏",
-      "photoUrl" : "/images/people/hsinhung_lin.png",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/108663180295687550055",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/gn00540683",
-        "name" : "Facebook"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "YI-Teng Wang / 王易騰",
-      "photoUrl" : "/images/people/teng_wang.jpeg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/106916437160362325642",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/yumi.wang.568",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "http://teng-wang.blogspot.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "Charlie Tsai / 蔡昇哲",
-      "photoUrl" : "/images/people/charlie_tsai.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/cha122977",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/charlie-tsai-21ba2269",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "Weihung Liu / 劉威宏",
-      "photoUrl" : "/images/people/weihung_liu.jpeg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/Weihung.TW",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/weihung-liu-4910b845",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Co-organizer"
-    }, {
-      "name" : "EnPing Hsieh / 謝恩平",
-      "photoUrl" : "/images/people/enping_hsieh.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/enping.hsieh",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://tw.linkedin.com/in/en-ping-hsieh-7519a087",
-        "name" : "LinkedIn"
-      } ],
-      "title" : "Co-organizer"
-    } ],
-    "photoUrl" : "/images/logos/TADSG_logo.png",
-    "title" : "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會"
   } ],
   "tickets" : {
     "elements" : [ {
