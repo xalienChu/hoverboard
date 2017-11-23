@@ -1,23 +1,24 @@
 {
   "partners" : [ {
     "logos" : [ {
+      "logoUrl" : "../images/logos/google.svg",
+      "name" : "Google",
+      "url" : "https://www.google.com/intl/zh-tw/about/",
+      "width": 240
+    } ],
+    "title" : "贊助夥伴"
+  }, {
+    "logos" : [ {
       "logoUrl" : "../images/logos/gdg-lviv.svg",
       "name" : "利維夫谷歌開發者社群",
       "url" : "http://lviv.gdg.org.ua/",
       "width" : 170
-    } ],
-    "title" : "網站模板設計"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com/intl/zh-tw/about/"
     }, {
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
     } ],
-    "title" : "贊助夥伴"
+    "title" : "網站模板設計"
   } ],
   "schedule" : [ {
     "date" : "2017-11-25",
