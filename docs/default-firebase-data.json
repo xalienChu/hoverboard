@@ -60,7 +60,7 @@
       "startTime" : "14:15"
     }, {
       "endTime" : "16:00",
-      "sessions" : [ [ 13 ], [ 5 ], [ 10 ], [ 18 ], [ 20 ] ],
+      "sessions" : [ [ 13 ], [ 10210 ], [ 10 ], [ 18 ], [ 20 ] ],
       "startTime" : "15:15"
     }, {
       "endTime" : "16:45",
@@ -314,6 +314,9 @@
       "presentation" : "",
       "tags" : [ "" ],
       "title" : ""
+    },
+    "10210" : {
+      "id" : 10210
     },
     "10211" : {
       "complexity" : "",
@@ -883,29 +886,7 @@
     } ],
     "tags" : [ "Android" ],
     "title" : "GDG Taipei Co-organizer"
-  }, {
-    "badges" : [ {
-      "description" : "台灣 Android 開發者讀書會",
-      "link" : "https://www.facebook.com/groups/523386591081376",
-      "name" : "TADSG"
-    } ],
-    "bio" : "",
-    "company" : "",
-    "companyLogo" : "",
-    "country" : "台灣",
-    "featured" : true,
-    "id" : 19,
-    "name" : "Skuld Chen",
-    "photoUrl" : "/images/people/skuld_chen.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "",
-      "link" : "",
-      "name" : ""
-    } ],
-    "tags" : [ "Security" ],
-    "title" : "工程師"
-  }, {
+  }, null, {
     "badges" : [ {
       "link" : "https://www.google.com",
       "name" : "Google"
@@ -924,7 +905,7 @@
       "link" : "https://www.facebook.com/bokthyeyeow",
       "name" : "Facebook"
     } ],
-    "tags" : [ "Android" ],
+    "tags" : [ "Web" ],
     "title" : "Developer Relations Ecosystem Regional Lead Taiwan"
   } ],
   "team" : [ {
