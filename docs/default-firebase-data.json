@@ -32,15 +32,15 @@
       "startTime" : "09:00"
     }, {
       "endTime" : "10:00",
-      "sessions" : [ [ 17 ], [ 5 ], [ 6 ], [ 19 ] ],
+      "sessions" : [ [ 17 ], [ 5 ], [ 6 ] ],
       "startTime" : "09:15"
     }, {
       "endTime" : "11:00",
-      "sessions" : [ [ 7 ], [ 1 ], [ 15 ], [ 19 ] ],
+      "sessions" : [ [ 7 ], [ 1 ], [ 15 ] ],
       "startTime" : "10:15"
     }, {
       "endTime" : "12:00",
-      "sessions" : [ [ 4 ], [ 2 ], [ 12 ], [ 19 ] ],
+      "sessions" : [ [ 4 ], [ 2 ], [ 12 ] ],
       "startTime" : "11:15"
     }, {
       "endTime" : "13:00",
@@ -86,7 +86,7 @@
       "id" : 1,
       "language" : "中文",
       "speakers" : [ 1 ],
-      "tags" : [ "行動裝置", "VOIP服務" ],
+      "tags" : [ "Android", "VoIP" ],
       "title" : "Android SIP"
     },
     "2" : {
@@ -113,7 +113,7 @@
       "id" : 4,
       "language" : "中文",
       "speakers" : [ 4 ],
-      "tags" : [ "Internship", "Google", "UnitedStates" ],
+      "tags" : [ "WTM", "女性職涯發展" ],
       "title" : "My journey to an internship at Google USA"
     },
     "5" : {
@@ -122,7 +122,7 @@
       "id" : 5,
       "language" : "中文",
       "speakers" : [ 5 ],
-      "tags" : [ "Mobile" ],
+      "tags" : [ "Libraries", "Android" ],
       "title" : "JSR310 - Another Calendar Library"
     },
     "6" : {
@@ -131,7 +131,7 @@
       "id" : 6,
       "language" : "中文",
       "speakers" : [ 6 ],
-      "tags" : [ "Community Building Experience Sharing" ],
+      "tags" : [ "WTM", "女性職涯發展", "Community" ],
       "title" : "矽谷經驗與女生科技社群經營經驗分享"
     },
     "7" : {
@@ -157,7 +157,7 @@
       "id" : 9,
       "language" : "中文",
       "speakers" : [ 9 ],
-      "tags" : [ "Search Learning" ],
+      "tags" : [ "Web", "Search Learning" ],
       "title" : "How to google "
     },
     "10" : {
@@ -166,7 +166,7 @@
       "id" : 10,
       "language" : "中文",
       "speakers" : [ 10 ],
-      "tags" : [ "女性職涯相關" ],
+      "tags" : [ "WTM", "女性職涯發展" ],
       "title" : "工程師的升級之路"
     },
     "11" : {
@@ -175,26 +175,26 @@
       "id" : 11,
       "language" : "中文",
       "speakers" : [ 11 ],
-      "tags" : [ "Mobile" ],
+      "tags" : [ "Android" ],
       "title" : "Contribute to Firefox on Android"
     },
     "12" : {
       "complexity" : "中等",
-      "description" : "在某年某月某日莫名的接到了:「能不能像◯◯◯◯一樣做一個圖片搜尋啊？」，之後開始了新的side project專案，從Azure、Amazon、Google甚至是自架方案，到後面幾乎整個workaround一遍，我將要分享在這其中遇到的大大小小的事情。",
+      "description" : "在某年某月某日莫名的接到了:「能不能像◯◯◯◯一樣做一個圖片搜尋啊？」，之後開始了新的 side project 專案，從 Azure、Amazon、Google 甚至是自架方案，到後面幾乎整個 workaround 做一遍，我將要分享在這其中遇到的大大小小的事情。",
       "id" : 12,
       "language" : "中文",
       "speakers" : [ 12 ],
-      "tags" : [ "Google Cloud" ],
+      "tags" : [ "Cloud" ],
       "title" : "使用圖片辨識打造搜尋"
     },
     "13" : {
       "complexity" : "中等",
-      "description" : "To be done",
+      "description" : "以 Go 語言打造跨平台原生應用程式",
       "id" : 13,
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ 13 ],
-      "tags" : [ "Mobile" ],
+      "tags" : [ "Go" ],
       "title" : "Cross platform! Build native APP with Go"
     },
     "14" : {
@@ -203,25 +203,25 @@
       "id" : 14,
       "language" : "中文",
       "speakers" : [ 14 ],
-      "tags" : [ "Education" ],
+      "tags" : [ "Mobile", "Education" ],
       "title" : "學習如何學習 Gradle"
     },
     "15" : {
       "complexity" : "初等",
-      "description" : "要想了解到用戶習慣，我們都知道可以用Google Analytics, 但一方面我們資料很多，需要懂得從中找出有用的東西，另一方面我們也怕遇上甚麼也不懂的市場部同事，不斷問著取得奇怪的資料。就讓我們花上半個小時，從新了解一下市場的需要，和同事們好好合作。(此節以英語進行，適合初接觸Google Analytics或是需要和其他部們講解GA的你)",
+      "description" : "要想了解到用戶習慣，我們都知道可以用 Google Analytics, 但一方面我們資料很多，需要懂得從中找出有用的東西，另一方面我們也怕遇上甚麼也不懂的市場部同事，不斷問著取得奇怪的資料。就讓我們花上半個小時，重新了解一下市場的需要，和同事們好好合作。(此節以英語進行，適合初接觸 Google Analytics 或是需要和公司其他部們講解 GA 的你)",
       "id" : 15,
       "language" : "英文",
       "speakers" : [ 15 ],
-      "tags" : [ "Mobile", "Google Analytics" ],
-      "title" : "讓你的菜鳥同事自己使用Google Analytics"
+      "tags" : [ "Google Analytics", "Mobile" ],
+      "title" : "讓你的菜鳥同事自己使用 Google Analytics"
     },
     "16" : {
       "complexity" : "初等",
-      "description" : "工程師要怎麼入門玩地圖？, 如何簡易處理空間資料, 地圖應用開發的眉眉角角, 各式GIS工具資源介紹",
+      "description" : "工程師要怎麼入門玩地圖？, 如何簡易處理空間資料, 地圖應用開發的眉眉角角, 各式 GIS 工具資源介紹",
       "id" : 16,
       "language" : "中文",
       "speakers" : [ 16 ],
-      "tags" : [ "GIS", "Maps" ],
+      "tags" : [ "Community", "GIS", "Maps" ],
       "title" : "第一次玩地圖就上手"
     },
     "17" : {
@@ -229,7 +229,7 @@
       "id" : 17,
       "language" : "中文",
       "speakers" : [ 17 ],
-      "tags" : [ "Google Cloud", "Firebase" ],
+      "tags" : [ "Firebase", "Cloud" ],
       "title" : "使用 Firebase 打造線上即時問答遊戲"
     },
     "18" : {
@@ -254,7 +254,7 @@
       "id" : 20,
       "language" : "中文",
       "speakers" : [ 11 ],
-      "tags" : [ "kotlin" ],
+      "tags" : [ "Kotlin" ],
       "title" : "Kotlin Code Lab"
     },
     "10101" : {
@@ -264,9 +264,10 @@
       "title" : "Registration / 報到"
     },
     "10102" : {
-      "description" : "",
+      "description" : "With 2017 drawing to an end and 2018 arriving  upon us soon, let's review what Google been up to and what awaits us in 2018!",
       "id" : 10102,
       "image" : "/images/backgrounds/opening.jpg",
+      "speakers" : [ 20 ],
       "title" : "Opening / 開場活動"
     },
     "10103" : {
@@ -638,7 +639,7 @@
     "bio" : "Emma Wong is an experienced Android developer, have delivered over 20 mobile/web application projects, include awarded mobile apps with >1 Million users. She is the GDG HK organizer, and Women Techmakers(WTM) HK Lead. ",
     "company" : "Cherrypicks",
     "companyLogo" : "https://entrepreneurship.bschool.cuhk.edu.hk/sites/default/files/u45/cherrypicks_logo_chi_t-01_0.jpg",
-    "country" : "Hong Kong",
+    "country" : "香港",
     "featured" : true,
     "id" : 8,
     "name" : "Emma Wong",
@@ -737,6 +738,7 @@
       "name" : "SITCON 2016"
     } ],
     "bio" : "嗨，我是 Michael 從大三開始過著類似正職般的燒肝生活，到現在也默默的四年多了，目前專注於網頁開發、系統架構... 偶爾會玩玩一些side project，生活算是過的相當隨性。",
+    "country" : "台灣",
     "featured" : true,
     "id" : 12,
     "name" : "Michael 官承翰",
@@ -796,7 +798,7 @@
     "bio" : "Peter 是 GDG 香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
     "company" : "CG Marketing",
     "companyLogo" : "/images/logos/CGMarketing.png",
-    "country" : "Hong Kong",
+    "country" : "香港",
     "featured" : true,
     "id" : 15,
     "name" : "Peter Lo",
@@ -807,7 +809,7 @@
       "link" : "https://www.linkedin.com/in/petercslo",
       "name" : "Linkedin"
     } ],
-    "tags" : [ "Google AdWords", "Google Analytics" ],
+    "tags" : [ "AdWords", "Google Analytics" ],
     "title" : "CEO"
   }, {
     "badges" : [ {
@@ -911,18 +913,19 @@
     "bio" : "Bok Thye Yeow leads the Google Developer Programs for Agencies and ProDevs for Asia at Google. He has more than a decade of experience developing full stack software across various industries including telco, banking, digital and creative advertising, retail, etc. He strongly believe we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the 'next big thing' to come!",
     "company" : "Google",
     "companyLogo" : "/images/logos/google.svg",
-    "country" : "Singapore",
+    "country" : "新加坡",
     "featured" : true,
     "id" : 20,
     "name" : "Bok Thye Yeow",
     "photoUrl" : "/images/people/bokthyeyeow.jpg",
+    "shortBio" : "Bok Thye Yeow leads the Google Developer Programs for Agencies and ProDevs for Asia at Google. He has more than a decade of experience developing full stack software across various industries including telco, banking, digital and creative advertising, retail, etc. He strongly believe we are only starting to scratch the surface of what's possible with technology in this era and is looking forward to the 'next big thing' to come!",
     "socials" : [ {
       "icon" : "facebook",
       "link" : "https://www.facebook.com/bokthyeyeow",
       "name" : "Facebook"
     } ],
     "tags" : [ "Android" ],
-    "title" : "Developer Relations Ecosystem Program Manager, Google"
+    "title" : "Developer Relations Ecosystem Regional Lead Taiwan"
   } ],
   "team" : [ {
     "description" : "GDG 是源自於 Google 的開發者社群，透過熱心的 Google 技術開發者在各地以各種形式聚會的方式，邀請大家分享在 Google 相關的領域進行技術交流，讓大家可以在輕鬆的環境下，學習瞭解 Google 的相關技術。讓開發者在學習的路途上，不再寂寞！我們是在台北市的 Google 技術社群，希望協助對 Google 技術熱衷的技術開發者彼此間更多地交流，並促進彼此成長！",
