@@ -116,16 +116,16 @@
       "caption": "參加者"
     },
     {
-      "counter": 1,
-      "caption": "天"
-    },
-    {
-      "counter": 15,
-      "caption": "議程"
-    },
-    {
       "counter": 3,
-      "caption": "議程軌"
+      "caption": "平行議程"
+    },
+    {
+      "counter": 17,
+      "caption": "演講項目"
+    },
+    {
+      "counter": 2,
+      "caption": "程式碼手把手教學課程"
     }
   ],
   "callToAction": {
