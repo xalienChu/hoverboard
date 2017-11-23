@@ -762,9 +762,6 @@
     "name" : "AKI YU",
     "photoUrl" : "/images/people/aki_yu.jpeg",
     "shortBio" : "iOS@Taipei 社群創辦人，曾在 2015/16年擔任臺大黑客松評審、2016新北青創駭客松評審，亦曾擔任 GDG DevFest Taipei 2016 講者",
-    "socials" : [ {
-      "name" : "To be done"
-    } ],
     "tags" : [ "Android", "iOS" ],
     "title" : "iOS@Taipei 社群創辦人"
   }, {
