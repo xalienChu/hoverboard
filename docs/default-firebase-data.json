@@ -175,7 +175,7 @@
       "description" : "請先照步驟完成下載 source code 與 build： 1. Source Code： https://goo.gl/gu35zB 。 2. 設定 Code Review Tool： https://goo.gl/5fkG9T 。 3. Git 使用者可參閱： https://goo.gl/6GxF8E 。 4. 講題目的: 了解 Open Source 運作模式, 並且示範如何開始參與 Open Source Project。 5. 預備軟體 : Android Studio / Git / Android 設備或模擬器。 6. 預備知識 : 需有基本 Android 開發經驗與 git / hg 操作能力。 7. 前次分享的投影片： https://goo.gl/DKoXd1",
       "id" : 11,
       "language" : "中文",
-      "presentation" : "https://goo.gl/DKoXd1", 
+      "presentation" : "https://goo.gl/DKoXd1",
       "speakers" : [ 11 ],
       "tags" : [ "Android" ],
       "title" : "Contribute to Firefox on Android"
@@ -235,7 +235,7 @@
       "title" : "使用 Firebase 打造線上即時問答遊戲"
     },
     "18" : {
-      "description" : "在簡單說明 Google 為 Android 提出的 Architecture Components 後，大家一起動手來新手區闖盪吧～ * 課前準備： 1.Architecture Components Code labe Source code https://goo.gl/WcVT2T 。 2. 需要預先安裝 Android Studio 3.0 以上版本",
+      "description" : "在簡單說明 Google 為 Android 提出的 Architecture Components 後，大家一起動手來新手區闖盪吧～ * 課前準備： 1. Source code： https://goo.gl/WcVT2T 。 2. 需要預先安裝 Android Studio 3.0 以上版本",
       "id" : 18,
       "language" : "中文",
       "speakers" : [ 18 ],
@@ -1112,6 +1112,14 @@
         "name" : "LinkedIn"
       } ],
       "title" : "Co-organizer"
+    }, {
+      "name" : "黃詩涵",
+      "photoUrl" : "/images/people/panda_huang.jpg",
+      "title" : "助理"
+    }, {
+      "name" : "Ann Lin",
+      "photoUrl" : "/images/people/ann_lin.jpg",
+      "title" : "Member"
     } ],
     "photoUrl" : "/images/logos/TADSG_logo.png",
     "title" : "Taiwan Android Developer Study Group / 台灣 Android 開發者讀書會"
@@ -1211,6 +1219,18 @@
     "url" : "https://gdg-taipei.kktix.cc/events/devfest-17"
   },
   "userSessions" : {
+    "1Nct4lB4sOVAyKwlIJRuY2a6Bsz2" : {
+      "3" : true,
+      "7" : true,
+      "15" : true,
+      "17" : true,
+      "null" : true
+    },
+    "5Gu8arwu7Nf9NNFgJIH9Ng8YFrI2" : {
+      "8" : true,
+      "9" : true,
+      "16" : true
+    },
     "7cIz72mQF0bDBr1DZBrCv06J5Q03" : {
       "4" : true,
       "6" : true,
@@ -1218,19 +1238,34 @@
       "9" : true,
       "15" : true
     },
+    "BfOichNTU3QUXP1A8D161vZC85u1" : {
+      "2" : true,
+      "8" : true,
+      "15" : true,
+      "17" : true,
+      "18" : true,
+      "20" : true
+    },
     "D6ku5Z6HuLah3vZ1wiuLGhIF9Hm1" : {
       "7" : true
     },
     "FBdnJ7bi2hYlC2hrrSByW50mJUi2" : {
       "2" : true,
       "3" : true,
-      "12" : true,
+      "13" : true,
       "15" : true,
       "16" : true,
+      "17" : true,
       "10101" : true,
       "10102" : true,
       "10106" : true,
-      "10107" : true
+      "10111" : true
+    },
+    "Ll3ipRqldXOdgCudpZMoNOceJWo1" : {
+      "7" : true
+    },
+    "MX8zSoRU5HSdpeokcyIiz4aGb4i1" : {
+      "17" : true
     },
     "NOrg59mwHaSyVSlHizzgEihoClQ2" : {
       "2" : true,
@@ -1239,8 +1274,28 @@
       "14" : true,
       "17" : true
     },
+    "c3uINpH4kATC1vnioPYDimPXkDD3" : {
+      "15" : true,
+      "18" : true,
+      "20" : true
+    },
+    "e4YM8uW2auV4ByBoJeyJvqzMrTw2" : {
+      "7" : true,
+      "12" : true,
+      "13" : true,
+      "16" : true,
+      "17" : true
+    },
+    "s7iyvCw4D6gUnQYotmunuCVWT3H2" : {
+      "3" : true,
+      "10" : true,
+      "14" : true,
+      "15" : true,
+      "17" : true
+    },
     "vj7I159yfENqcQIXslbPTODoNUf1" : {
       "2" : true,
+      "3" : true,
       "5" : true,
       "8" : true,
       "14" : true
