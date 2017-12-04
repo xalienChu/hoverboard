@@ -20,6 +20,23 @@
     } ],
     "title" : "網站模板設計"
   } ],
+  "ratings" : {
+    "UkCZMWq4JHNAXxFa2ax1qHmn5gw2" : {
+      "sessions" : {
+        "10101" : 5
+      }
+    },
+    "pEkwwi8ChtcZ6N5e4o2c9Rz0qk03" : {
+      "sessions" : {
+        "12" : 3
+      }
+    },
+    "s7iyvCw4D6gUnQYotmunuCVWT3H2" : {
+      "sessions" : {
+        "14" : 5
+      }
+    }
+  },
   "schedule" : [ {
     "date" : "2017-11-25",
     "dateReadable" : "11月25日",
@@ -113,6 +130,7 @@
       "description" : "一個傻傻的台灣女大生去美國 Google 實習的心路歷程，包含：自己在資訊領域的學習心得、如何取得面試機會、如何準備面試、面試流程的簡單介紹、取得簽證並赴美，最後在 Google 實習的一些經驗分享。",
       "id" : 4,
       "language" : "中文",
+      "presentation" : "https://drive.google.com/file/d/1U9-cGL5sTiiCJERP-HRg5tqh7Dqrongr/view",
       "speakers" : [ 4 ],
       "tags" : [ "WTM", "女性職涯發展" ],
       "title" : "My journey to an internship at Google USA"
@@ -122,6 +140,7 @@
       "description" : "先介紹一下 Calendar 與 Date 不方便的地方，接下來講為什麼需要新的 Library，他好用在哪裡。邊講解用法時也會讓大家去思考怎樣是一個好的設計，為什麼要這樣設計。",
       "id" : 5,
       "language" : "中文",
+      "presentation" : "https://www.slideshare.net/ssuser8674c1/threeten",
       "speakers" : [ 5 ],
       "tags" : [ "Libraries", "Android" ],
       "title" : "JSR310 - Another Calendar Library"
@@ -131,6 +150,7 @@
       "description" : "At this talk, she'll share her experience working in the Silicon Valley and how that impacted her leadership style to grow and help women in tech in Taiwan.",
       "id" : 6,
       "language" : "中文",
+      "presentation" : "https://drive.google.com/file/d/1z0u66lc_bVyBBal-q7OZijEE46v9FVe8/view",
       "speakers" : [ 6 ],
       "tags" : [ "WTM", "女性職涯發展", "Community" ],
       "title" : "矽谷經驗與女生科技社群經營經驗分享"
@@ -140,6 +160,7 @@
       "description" : "認識什麼是 UX，什麼是 UI，它們兩個有什麼不同？ A: UX 重不重要? B: 重要 A: 為什麼重要? B: 因為它就在我們的生活周遭、身處在我們的日常生活當中。 A: 那我就好奇了，為什麼它會在我們的日常生活中? 它又不干我事",
       "id" : 7,
       "language" : "中文",
+      "presentation" : "https://docs.google.com/presentation/d/1t6nmShwXUdKcXetmtVAaPT7HNolluMZ8UXlvVgsR33s/edit#slide=id.p",
       "speakers" : [ 7 ],
       "tags" : [ "UI", "UX" ],
       "title" : "UX, UI 是兄弟? 要明算帳?"
@@ -166,6 +187,7 @@
       "description" : "分享從高中開始寫程式，一路寫到軟體工程師的經驗談。內容將包含在絕望沙洲時期生存、打破冒牌者症候群迷思、如何應對社會期許(刻板印象)、出社會後的生涯規劃、跟其他工程師相處並持續地增進自我實力的方法。",
       "id" : 10,
       "language" : "中文",
+      "presentation" : "https://docs.google.com/presentation/d/1vHlaFcy46hwSVRn6OI91WWnoAhyAIJeRr25-qCGGdkg/edit#slide=id.g35f391192_00",
       "speakers" : [ 10 ],
       "tags" : [ "WTM", "女性職涯發展" ],
       "title" : "工程師的升級之路"
@@ -194,7 +216,7 @@
       "description" : "以 Go 語言打造跨平台原生應用程式",
       "id" : 13,
       "language" : "中文",
-      "presentation" : "",
+      "presentation" : "https://www.dropbox.com/s/z08mh9h502mz66a/devfest2017_gomatcha_walkthrough.key?dl=0",
       "speakers" : [ 13 ],
       "tags" : [ "Go" ],
       "title" : "Cross platform! Build native APP with Go"
@@ -204,6 +226,7 @@
       "description" : "Gradle 是許多 Java 相關專案或 Android 工程師每日必用的工具，可惜的是沒有太多人學習如何使用它。反而讓輔助開發效率的工具，成為事倍功半的局面。這場演既非是 Gradle 入門的教學，也非 Gradle 進階技巧介紹。而是站在如何開始弄懂 Gradle 的運作的歷程，它是學習者內心的歷險記，得一起經歷過一些追入原始碼，對觀察進行假設與驗證，探索 Gradle 相關實作的過程，並試著簡單連結工作的情境。",
       "id" : 14,
       "language" : "中文",
+      "presentation" : "https://github.com/qrtt1/Notes/blob/master/20171125_devfest/LearningHowToLearnGradleV2.pdf",
       "speakers" : [ 14 ],
       "tags" : [ "Mobile", "Education" ],
       "title" : "學習如何學習 Gradle"
@@ -222,6 +245,7 @@
       "description" : "工程師要怎麼入門玩地圖？, 如何簡易處理空間資料, 地圖應用開發的眉眉角角, 各式 GIS 工具資源介紹",
       "id" : 16,
       "language" : "中文",
+      "presentation" : "https://www.slideshare.net/ssuser7018db1/2017-gdg-devfest-taipei-how-to-play-with-maps-82727084/ssuser7018db1/2017-gdg-devfest-taipei-how-to-play-with-maps-82727084",
       "speakers" : [ 16 ],
       "tags" : [ "Community", "GIS", "Maps" ],
       "title" : "第一次玩地圖就上手"
@@ -238,6 +262,7 @@
       "description" : "在簡單說明 Google 為 Android 提出的 Architecture Components 後，大家一起動手來新手區闖盪吧～ * 課前準備： 1. Source code： https://goo.gl/WcVT2T 。 2. 需要預先安裝 Android Studio 3.0 以上版本",
       "id" : 18,
       "language" : "中文",
+      "presentation" : "https://docs.google.com/presentation/d/e/2PACX-1vQCk7ricYxO_d3fSuETW5x2IL06DZnRiHPkpux19YQq3SYD2E2fFT31r92eSBm73XuJEaOJMJgbGEnb/pub?start=false&loop=false&delayms=6000000#slide=id.gc6f73a04f_0_0",
       "speakers" : [ 18 ],
       "tags" : [ "Android" ],
       "title" : "Android Architecture Components Code Lab"
@@ -1226,10 +1251,19 @@
       "17" : true,
       "null" : true
     },
+    "1SeSgS8JSTPHtrxMQDOLAB701VQ2" : {
+      "9" : true
+    },
     "5Gu8arwu7Nf9NNFgJIH9Ng8YFrI2" : {
       "8" : true,
       "9" : true,
       "16" : true
+    },
+    "7ARsJtmh9kf75wkCLPCT72QFia82" : {
+      "3" : true,
+      "12" : true,
+      "17" : true,
+      "18" : true
     },
     "7cIz72mQF0bDBr1DZBrCv06J5Q03" : {
       "4" : true,
@@ -1238,13 +1272,15 @@
       "9" : true,
       "15" : true
     },
+    "AhfEmua5y4gvwUSk33yzrigwnOY2" : {
+      "7" : true
+    },
     "BfOichNTU3QUXP1A8D161vZC85u1" : {
       "2" : true,
       "8" : true,
       "15" : true,
       "17" : true,
-      "18" : true,
-      "20" : true
+      "18" : true
     },
     "D6ku5Z6HuLah3vZ1wiuLGhIF9Hm1" : {
       "7" : true
@@ -1261,22 +1297,96 @@
       "10106" : true,
       "10111" : true
     },
+    "FjQEVs5VohPfPWudNFOnfMLcOSi1" : {
+      "1" : true,
+      "2" : true,
+      "3" : true,
+      "9" : true,
+      "10" : true,
+      "13" : true,
+      "14" : true,
+      "17" : true,
+      "10102" : true,
+      "10106" : true,
+      "10107" : true,
+      "10111" : true
+    },
+    "GScQ6jw5jQhjjOsv4wm7qGNVDBw1" : {
+      "4" : true,
+      "7" : true,
+      "15" : true,
+      "10101" : true,
+      "10106" : true
+    },
+    "J88obGea0FS2jNTAWqagitjk8ur2" : [ null, null, true, true ],
     "Ll3ipRqldXOdgCudpZMoNOceJWo1" : {
       "7" : true
     },
     "MX8zSoRU5HSdpeokcyIiz4aGb4i1" : {
       "17" : true
     },
+    "MgR53D3DOPNGctHvKJsrtEEGtI43" : {
+      "3" : true
+    },
     "NOrg59mwHaSyVSlHizzgEihoClQ2" : {
-      "2" : true,
       "3" : true,
       "7" : true,
+      "11" : true,
+      "12" : true,
       "14" : true,
-      "17" : true
+      "17" : true,
+      "20" : true
+    },
+    "Ooxrf2PBoZXQQ7GboWekeOc2Dqz2" : {
+      "1" : true,
+      "2" : true,
+      "5" : true,
+      "8" : true,
+      "13" : true,
+      "15" : true,
+      "17" : true,
+      "null" : true
+    },
+    "QaRbqRstHOgzv0wQIfVSYNPEMqW2" : {
+      "3" : true,
+      "4" : true,
+      "11" : true,
+      "15" : true,
+      "20" : true
+    },
+    "SKrlYKd6t5U1BDg4vOpf1DsvCoX2" : {
+      "1" : true,
+      "6" : true,
+      "11" : true,
+      "13" : true,
+      "14" : true
+    },
+    "SVyzf2fFAdPGSGeTO1s5hGjVY573" : {
+      "20" : true
+    },
+    "Y35nXWlU1pfuqJgws3HoWAQVjkv2" : {
+      "1" : true,
+      "12" : true,
+      "null" : true
+    },
+    "ZfZntgbi97bPglieH2dpUYnoc0x2" : {
+      "1" : true,
+      "8" : true,
+      "17" : true,
+      "20" : true,
+      "null" : true
     },
     "c3uINpH4kATC1vnioPYDimPXkDD3" : {
       "15" : true,
       "18" : true,
+      "20" : true
+    },
+    "cZCAP3Ks3yeuuhcWY0U99rL5LWE2" : {
+      "1" : true,
+      "8" : true,
+      "12" : true,
+      "16" : true,
+      "17" : true,
       "20" : true
     },
     "e4YM8uW2auV4ByBoJeyJvqzMrTw2" : {
@@ -1286,12 +1396,62 @@
       "16" : true,
       "17" : true
     },
+    "oPXntTFUf7XeSN6254ECkGVl1hF2" : {
+      "2" : true,
+      "12" : true,
+      "14" : true,
+      "10106" : true
+    },
+    "pEkwwi8ChtcZ6N5e4o2c9Rz0qk03" : {
+      "1" : true,
+      "2" : true,
+      "17" : true,
+      "null" : true
+    },
+    "pgx67RRdFvXLjsvKXqk9VLlVGEJ3" : {
+      "4" : true,
+      "7" : true,
+      "9" : true,
+      "13" : true,
+      "14" : true,
+      "17" : true,
+      "10106" : true,
+      "10111" : true
+    },
+    "psMuXbrr2Ad98MQT20h8vmXnI8v2" : {
+      "8" : true,
+      "10" : true,
+      "13" : true,
+      "14" : true
+    },
+    "ptoKo25v5DdHErmXfRSltYxoeZB3" : {
+      "2" : true,
+      "3" : true,
+      "8" : true,
+      "12" : true
+    },
+    "rscW8j5poqY2tBAXCGOuiW4sig32" : {
+      "3" : true,
+      "14" : true,
+      "18" : true,
+      "20" : true
+    },
     "s7iyvCw4D6gUnQYotmunuCVWT3H2" : {
       "3" : true,
+      "8" : true,
       "10" : true,
+      "11" : true,
       "14" : true,
       "15" : true,
-      "17" : true
+      "17" : true,
+      "10102" : true
+    },
+    "sAXMNRtdLgOwdDea0eteDyvOTNP2" : [ null, null, true, true, null, true, null, true ],
+    "tzc3uUtyzHbCrJ4Cd3HEObQu9eg1" : [ null, true, true, true, true, null, true, true, true, null, null, true, true, null, true, true, null, true ],
+    "uOKDmO93qdPcyjUIZ4Q9gPrT3xf1" : {
+      "8" : true,
+      "12" : true,
+      "10101" : true
     },
     "vj7I159yfENqcQIXslbPTODoNUf1" : {
       "2" : true,
