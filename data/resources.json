@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "2018 年 11 月 17 日",
-  "partnershipProposition": "",
+  "partnershipProposition": "贊助",
   "share": "分享",
   "followOur": "跟隨我們",
   "followUs": "跟隨我們的訊息",
@@ -77,12 +77,12 @@
       "links": [
         {
           "name": "贊助提案",
-          "url": "",
+          "url": "https://goo.gl/forms/gkDeBZE1gDWiO4iP2",
           "newTab": true
         },
         {
           "name": "講者募集",
-          "url": "",
+          "url": "https://goo.gl/forms/ZRicFMVQNZGGVlYY2",
           "newTab": true
         },
         {
