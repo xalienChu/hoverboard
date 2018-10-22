@@ -10,3 +10,6 @@ functions/lib/
 .firebaserc
 /appengine/dist/
 serviceAccount.json
+firebase-debug.log
+.DS_Store
+.firebase/
