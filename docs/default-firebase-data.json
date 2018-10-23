@@ -936,220 +936,142 @@
       "order" : 11,
       "title" : "CEO"
     },
-    "jean-baptiste_clion" : {
+    "wolke_lin" : {
       "badges" : [ {
-        "description" : "Google Developers Group Basel",
-        "link" : "https://developers.google.com/groups/chapter/104796338340371914914/",
-        "name" : "gdg"
+        "description" : "Line Api Expert",
+        "link" : "https://www.line-community.me/contributors/detail?apiId=0037F00000ZnJvXQAV",
+        "name" : "lae"
       } ],
-      "bio" : "Jean-Baptiste Clion (AKA JB) is a senior cloud engineer working with Google Technologies since 2007.  He is the founder and co-organiser of GDG Basel, Switzerland. Jean-Baptiste worked in various industries such as Defence & Aeronautics, Finance & Consulting. In his last position, JB was Google Practice Lead at Capgemini Switzerland, he is now co-founding a startup dedicated to Progressive Web Apps solutions relying on cloud technologies.",
-      "company" : "Apeser",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Basel, Switzerland",
+      "bio" : "Line Api Expert 2018",
+      "company" : "Voice App Studio",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Jean-Baptiste Clion",
-      "photo" : "/images/people/jean-baptiste_clion.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jean-baptiste_clion.jpg",
-      "shortBio" : "Founder and co-organiser of GDG Basel. Worked in Defence & Aeronautics, Finance & Consulting industries.",
+      "name" : "Wolke Lin",
+      "photo" : "/images/speakers/jianghon.jpg",
+      "photoUrl" : "../images/speakers/jianghon.jpg",
+      "shortBio" : "node.js frontend backend database 台灣在地第一彈！直擊 LINE 開發者小聚 LINE DEVELOPER MEETUP TAIWAN https://www.inside.com.tw/2018/05/03/line-developer-meetup-taiwan-no-1",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/jbclion",
+        "link" : "https://www.facebook.com/wolke.live",
         "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://ch.linkedin.com/in/jean-baptiste-clion-3196415",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/JBaptisteClion",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JeanBaptisteClionBasel/posts",
-        "name" : "Google+"
       } ],
       "order" : 12,
-      "title" : "Founder"
+      "title" : "Developer"
     },
-    "jozef_vodicka" : {
-      "bio" : "Right now he is a passionate Googler helping developers and companies in South CEE to be more successful and profitable.\n\nHe co-founded and lead several StartUPs such as Venzeo.com, TrashOut.ngo, Matura.sk and Stuzkova.EU.\n\nHe is TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia. He gets things done.",
-      "company" : "Google",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Prague, Czech Republic",
+    "david_chang" : {
+      "bio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。投入  Kubernetes  開發與技術推廣，常出現於 SDN x Cloud Native Meetup 與 Golang Taipei。Golang Taipei 的 co-organizer。",
+      "company" : "秘銀科技",
+      "companyLogo" : "/images/speakers/companies/mithril.png",
+      "companyLogoUrl" : "../images/speakers/companies/mithril.png",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Jozef Vodicka",
+      "name" : "David Chang",
       "order" : 4,
-      "photo" : "/images/people/jozef_vodicka.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jozef_vodicka.jpg",
-      "shortBio" : "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
+      "photo" : "/images/speakers/jeja.jpg",
+      "photoUrl" : "../images/speakers/jeja.jpg",
+      "shortBio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。",
       "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/jozefvodicka",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/jozefvodicka",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JozefVodicka",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/jozef.vodicka",
-        "name" : "Facebook"
+        "icon" : "github",
+        "link" : "https://github.com/chechiachang",
+        "name" : "Github"
       } ],
       "order" : 13,
-      "title" : "Developer Relations Program Manager"
+      "title" : "DevOps"
     },
-    "konrad_dzwinel" : {
-      "badges" : [ {
-        "description" : "Web Technologies Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/konrad-dzwinel.html",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Krakow",
-        "link" : " https://developers.google.com/groups/directory/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Konrad is a front-end developer at Brainly, Google Developer Expert for Web Technologies and co-organizer of Google Developers Group in Krakow. Over the years he worked for various startups, consultancies and software houses building websites, hybrid apps and internal tools. After work, he develops Chrome extensions, experiments with various front-end technologies, gives presentations and runs workshops.",
-      "company" : "Brainly",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Krakow, Poland",
+    "kairen" : {
+      "bio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。投入  Kubernetes  開發與技術推廣，常出現於 SDN x Cloud Native Meetup 與 Golang Taipei。Golang Taipei 的 co-organizer。",
+      "company" : "inwinSTACK",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Konrad Dzwinel",
-      "photo" : "/images/people/konrad_dzwinel.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/konrad_dzwinel.jpg",
-      "shortBio" : "Fighting for 60FPS on Web. GDE on Web Technologies. Co-organizer of GDG Krakow.",
+      "name" : "白凱仁",
+      "photo" : "/images/speakers/kairen_bai.jpg",
+      "photoUrl" : "../images/speakers/kairen_bai.jpg",
+      "shortBio" : "一個喜歡開源技術的蒼藍星，對於 Kubernetes、OpenStack 等開源專案的相關應用、開發與部屬有一些小小心得。",
       "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/kdzwinel",
-        "name" : "GitHub"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/kdzwinel",
-        "name" : "Twitter"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/k2r2bai",
+        "name" : "Facebook"
       } ],
       "order" : 14,
-      "title" : "Front-End Engineer"
+      "title" : "軟體工程師"
     },
-    "mateusz_herych" : {
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/img/user/108555637824110226040.png",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Krakow",
-        "link" : "https://developers.google.com/groups/directory/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Mateusz lives in Krakow, holds a membership in the Google Developer Expert program for Android. Works as an Android Tech Lead at IG. Co-organizer of GDG Krakow community meetups. Fresh dad of twins. For the third time at DevFest Ukraine.",
-      "company" : "IG",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Krakow, Poland",
+    "david_chang_gcpug" : {
+      "bio" : "Born in Taiwan, grew up in America. I have a keen interest in solving problems and viewing things in new perspectives. Hope to improve lives one project at a time.",
+      "company" : "Traskilo",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Mateusz Herych",
-      "photo" : "/images/people/mateusz_herych.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/mateusz_herych.jpg",
-      "shortBio" : "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+MateuszHerych",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/mherych",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/herych",
-        "name" : "LinkedIn"
-      } ],
+      "name" : "David Chang",
+      "photo" : "/images/speakers/christine_rocky.jpg",
+      "photoUrl" : "../images/speakers/christine_rocky.jpg",
+      "shortBio" : "IT Consultant, Full Stack Developer, CTO",
+      "socials" : [],
       "order" : 15,
-      "title" : "Android Tech Lead"
+      "title" : "CTO / Co-founder"
     },
-    "mete_atamel" : {
-      "bio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
-      "company" : "Google",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Mete is a Developer Advocate at Google Advocate at Google Advocate at Google at London, United Kingdom",
+    "lyon" : {
+      "bio" : "目前在friDay影音當任Android 工程師，使用Java語言開發。",
+      "company" : "遠傳電信",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Mete Atamel",
-      "photo" : "/images/people/mete_atamel.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/mete_atamel.jpg",
-      "shortBio" : "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+      "name" : "里盎",
+      "photo" : "/images/speakers/jinfu.jpg",
+      "photoUrl" : "../images/speakers/jinfu.jpg",
+      "shortBio" : "",
       "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/meteatamel/",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/meteatamel/",
-        "name" : "Twitter"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/meteatamel/",
-        "name" : "GitHub"
+        "icon" : "line",
+        "link" : "lejiteyu",
+        "name" : "Line"
       } ],
       "order" : 16,
-      "title" : "Developer Advocate"
+      "title" : "工程師"
     },
-    "michael_pustovit" : {
-      "bio" : "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ years in Android development. Michael moderates KyivAndroidDevClub. Besides programming, he is a capoeira player.",
-      "company" : "Stanfy",
+    "kevin_chiu" : {
+      "bio" : "Kevin 目前任職於遠傳電信行動應用開發小組，之前為手機廠工程師，歡迎對軟硬體整合有興趣的朋友與他一起討論。",
+      "company" : "遠傳電信",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv, Ukraine",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Michael Pustovit",
-      "photo" : "/images/people/michael_pustovit.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/michael_pustovit.jpg",
-      "shortBio" : "Michael is a software engineer at Stanfy. He is KPI FICT Computer Science graduate and has 4+ yea...",
+      "name" : "Kevin Chiu",
+      "photo" : "/images/speakers/chlu_chiu.jpg",
+      "photoUrl" : "../images/speakers/chlu_chiu.jpg",
+      "shortBio" : "",
       "socials" : [ {
-        "icon" : "github",
-        "link" : "https://github.com/lampapos",
-        "name" : "GitHub"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/pustovit",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pustovit",
-        "name" : "Twitter"
+        "icon" : "email",
+        "link" : "chluchiufet@gmail.com",
+        "name" : "Email"
       } ],
       "order" : 17,
-      "title" : "Senior Android Developer"
+      "title" : "資深工程師"
     },
-    "paul_lammertsma" : {
-      "bio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-building company. He applies his knowledge of Java, Android and Linux in Pixplicity to develop high-quality apps and provide technical solutions for customers such as Mercedes-Benz, Nestlé, De Telegraaf, AGIS and De Consumentenbond.",
-      "company" : "Pixplicity",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Amsterdam, The Netherlands",
+    "jintin" : {
+      "bio" : "Android / iOS 開發者，熱衷於手機 APP 開發的相關技術，工作之餘喜歡寫一些 open source 小工具幫助自己也幫助他人。",
+      "company" : "旋轉拍賣",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Jintin",
       "featured" : true,
-      "name" : "Paul Lammertsma",
-      "photo" : "/images/people/paul_lammertsma.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/paul_lammertsma.jpg",
-      "shortBio" : "Paul is CTO and co-founder of Pixplicity, Holland's leading Android-specific consulting and app-b...",
+      "name" : "Jintin",
+      "photo" : "/images/speakers/jintin.jpeg",
+      "photoUrl" : "../images/speakers/jintin.jpeg",
+      "shortBio" : "Android / iOS 開發者，熱衷於手機 APP 開發的相關技術，工作之餘喜歡寫一些 open source 小工具幫助自己也幫助他人。",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/+PaulLammertsma",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/officesunshine",
-        "name" : "Twitter"
+        "icon" : "github",
+        "link" : "https://github.com/Jintin",
+        "name" : "Github"
       } ],
       "order" : 18,
-      "title" : "CTO"
+      "title" : "資深工程師"
     },
-    "resul_caner__yildirim" : {
+    "hwchiu" : {
       "badges" : [ {
         "description" : "UI/UX Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html",
@@ -1159,39 +1081,23 @@
         "link" : "https://developers.google.com/groups/chapter/100514812580249787371/",
         "name" : "gdg"
       } ],
-      "bio" : "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing of mobile applications. Passionate about good UX, IoT and Android. He works at InnovationBox, a design agency in Istanbul making and creating apps that users love. Caner has been an organiser of GDG Istanbul since 2013, organising, participating, and speaking at events.",
-      "company" : "InnovationBox",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Istanbul, Turkey",
+      "bio" : "一位被 Programming 耽誤的 DevOps Engineer，從 C/C++ 開發家用路由器到後來轉用 Golang 開發程式，最後一頭栽進 Kubernetes 內的世界。目前於 ThunderToken 就任 DevOps 工程師，同時也是 SDNDS-TW 以及 CNTUG 兩個台灣社群的共同創辦人。本身對於 Networking 的概念非常有興趣，喜歡去學習與研究各式各樣的網路概念，特別是從 2008 年開始談起的 SDN(Software Defined Networking). 此外也喜歡透過閱讀原始碼的方式來學習這些網路概念是如何在系統上實現的，特別是 Linux Kernel 相關的實現方式。閒暇之餘也會寫部落格，將所學所知分享出去並且參加社群與大家交流討論來學習。",
+      "company" : "ThunderToken",
+      "companyLogo" : "/images/speakers/companies/thundertoken.png",
+      "companyLogoUrl" : "../images/speakers/companies/thundertoken.png",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Resul Caner  Yildirim",
-      "photo" : "/images/people/resul_caner_yildirim.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/resul caner_yildirim.jpg",
-      "shortBio" : "Caner is a GDE on UX/UI who is also a technology geek. Mainly focused on the design and marketing...",
+      "name" : "邱宏瑋(hwchiu)",
+      "photo" : "/images/speakers/hwchiu.png",
+      "photoUrl" : "../images/speakers/hwchiu.png",
+      "shortBio" : "",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/protechman",
+        "link" : "https://twitter.com/hw_chiu",
         "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+rcaneryildirim",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://facebook.com/r.caner.yildirim",
-        "name" : "Facebook"
-      }, {
-        "icon" : "website",
-        "link" : "https://dribbble.com/protechman",
-        "name" : "Website"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://linkedin.com/in/protechman",
-        "name" : "LinkedIn"
       } ],
       "order" : 19,
-      "title" : "User Experience Expert"
+      "title" : "DevOps Engineer"
     },
     "roman_herasymenko" : {
       "badges" : [ {
