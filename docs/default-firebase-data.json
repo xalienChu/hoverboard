@@ -705,79 +705,84 @@
       "order" : 1,
       "title" : "Android"
     },
-    "anton__minashkin" : {
-      "bio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
+    "aki_yu" : {
+      "bio" : "iOS@Taipei Mobile 技術傳教士",
       "company" : "EPAM",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Lviv, Ukraine",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Anton  Minashkin",
-      "photo" : "/images/people/anton_minashkin.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/anton_minashkin.jpg",
-      "shortBio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side develo...",
+      "name" : "AKI YU",
+      "photo" : "/images/speakers/aki.png",
+      "photoUrl" : "../images/speakers/aki.png",
+      "shortBio" : "From Mobile to Mobile",
       "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/anton.minashkin.1",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/AntonMinashkin",
-        "name" : "Twitter"
-      }, {
         "icon" : "linkedin",
         "link" : "https://ua.linkedin.com/in/anton-minashkin-606a1b4b",
         "name" : "LinkedIn"
       } ],
       "order" : 2,
-      "title" : "Lead Software Developer"
+      "title" : "技術傳教士"
     },
-    "carmen_popovicu" : {
-      "bio" : "Carmen is a front-end engineer and a #1 fan of dev communities. She loves Angular but has since recently developed feelings for Polymer too. She strongly believes that adding at least one ASCII smiley in your emails will make the world a better place and hopes to one day make a difference for the web with the code she writes. If she had super powers, she would smiley all the things.",
-      "company" : "Widespread",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Cluj-Napoca, Romania",
-      "featured" : false,
-      "name" : "Carmen Popovicu",
-      "photo" : "/images/people/carmen_popovicu.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/carmen_popovicu.jpg",
-      "shortBio" : "Angular JS committer. Founder of Dutch Angular JS Community, co-organizer of NG-NL.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/u/0/118143942632321563925/",
-        "name" : "Google+"
+    "cage" : {
+      "badges" : [ {
+        "description" : "GCPUG Taipei",
+        "link" : "",
+        "name" : "gcpug"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/CarmenPopoviciu",
-        "name" : "Twitter"
+        "description" : "Cloud Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/kai-chung",
+        "name" : "gde"
+      } ],
+      "bio" : "Google Developer Cloud Expert, GCPUG Taipei organizer",
+      "company" : "QNAP Systems, Inc.",
+      "companyLogo" : "/images/speakers/companies/qnap.png",
+      "companyLogoUrl" : "/images/speakers/companies/qnap.png",
+      "country" : "Taiwan",
+      "featured" : false,
+      "name" : "Cage Chung",
+      "photo" : "/images/logos/cage.jpg",
+      "photoUrl" : "../images/logos/cage.jpg",
+      "shortBio" : "https://www.linkedin.com/in/kaichuchung/",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kaichuchung/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/cage.chung",
+        "name" : "Facebook"
       } ],
       "order" : 3,
-      "title" : "Front-end Engineer"
+      "title" : "Senior Engineer"
     },
-    "constantine_mars" : {
+    "simon_su" : {
       "badges" : [ {
-        "description" : "Google Developers Group Dnipro",
-        "link" : "https://developers.google.com/groups/chapter/116033068768596939209/",
-        "name" : "gdg"
+        "description" : "GCPUG Taipei",
+        "link" : "",
+        "name" : "gcpug"
+      }, {
+        "description" : "Cloud Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/peihsin-su",
+        "name" : "gde"
       } ],
-      "bio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on DevFest, multiple IT NonStop events and GDG meetups. Constantine is interested mainly in Android Wear platform, RxJava, best practices in applications Architecture, and sometimes cross-platform mobile development with Xamarin.",
+      "bio" : "Simon Su，熱衷於雲端、系統、大資料相關之建置與研究，曾帶領台灣公有雲開發團隊建立第一朵台灣的公有雲，並且為Google Cloud認證之亞洲地區講師，具備 20+ 場的Google雲端課程授課經驗，也榮獲Google Developer Expert(GDE)的頭銜，為全球200多位GDE之一。另外，Simon為台灣Google Cloud社群創辦人，在業界有著豐富的數據工程教學與演講經驗，著有：Google Cloud雲端平台實作手冊一書。",
       "company" : "DataArt",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Dnipro, Ukraine",
+      "companyLogo" : "/images/speakers/companies/simonC.jpg",
+      "companyLogoUrl" : "../images/speakers/companies/simonC.jpg",
+      "country" : "Aylanetworks",
       "featured" : false,
-      "name" : "Constantine Mars",
-      "photo" : "/images/people/constantine_mars.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/constantine_mars.jpg",
-      "shortBio" : "Constantine is Senior Android Developer at DataArt and GDG Dnipro Organizer. He was speaker on De...",
+      "name" : "Simon Su",
+      "photo" : "simon_su.jpeg",
+      "photoUrl" : "..simon_su.jpeg",
+      "shortBio" : "Simon Su，熱衷於雲端、系統、大資料相關之建置與研究，曾帶領台灣公有雲開發團隊建立第一朵台灣的公有雲，並且為Google Cloud認證之亞洲地區講師，具備 20+ 場的Google雲端課程授課經驗，也榮獲Google Developer Expert(GDE)的頭銜，為全球200多位GDE之一。另外，Simon為台灣Google Cloud社群創辦人，在業界有著豐富的數據工程教學與演講經驗，著有：Google Cloud雲端平台實作手冊一書。",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ConstantineMars",
-        "name" : "Google+"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/peihsinsu",
+        "name" : "Facebook"
       } ],
       "order" : 4,
-      "title" : "Senior Android Developer"
+      "title" : "DevOps PE"
     },
     "david_mayboroda" : {
       "bio" : "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
