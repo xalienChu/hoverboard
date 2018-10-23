@@ -74,9 +74,9 @@
       "url" : "../images/logos/gdg-taipei.svg"
     }, {
       "order" : 1,
-      "logoUrl" : "../images/logos/GCPUG.ai",
+      "logoUrl" : "../images/logos/GCPUG-13.png",
       "name" : "GCPUG Taipei",
-      "url" : "../images/logos/GCPUG.ai"
+      "url" : "../images/logos/GCPUG-13.png"
     }, {
       "order" : 2,
       "logoUrl" : "../images/logos/TADSG_logo.png",
@@ -88,7 +88,7 @@
       "name" : "Golang Taiwan",
       "url" : "../images/logos/golangtw.jpg"
     }, {
-      "order" : 0,
+      "order" : 4,
       "logoUrl" : "../images/logos/OSM-tw_withText.svg",
       "name" : "OSM Taiwan",
       "url" : "../images/logos/OSM-tw_withText.svg"
@@ -114,7 +114,7 @@
       "order" : 0,
       "logoUrl" : "../images/logos/sponsors/happyrun.png",
       "name" : "Happy Run 樂駿",
-      "url" : "https://www.google.com.tw/intl/zh/about/"
+      "url" : "https://www.twhappyrun.com/"
     } ],
     "order" : 2,
     "title" : "白金贊助"
@@ -123,7 +123,12 @@
       "order" : 0,
       "logoUrl" : "../images/logos/sponsors/meetjobs_standard.png",
       "name" : "一起工作科技有限公司 (Meet.Jobs)",
-      "url" : "https://www.google.com.tw/intl/zh/about/"
+      "url" : ""
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/sponsors/meetjobs_standard.png",
+      "name" : "天瓏書局",
+      "url" : ""
     } ],
     "order" : 3,
     "title" : "黃金贊助"
@@ -737,12 +742,12 @@
       "bio" : "Google Developer Cloud Expert, GCPUG Taipei organizer",
       "company" : "QNAP Systems, Inc.",
       "companyLogo" : "/images/speakers/companies/qnap.png",
-      "companyLogoUrl" : "/images/speakers/companies/qnap.png",
+      "companyLogoUrl" : "../images/speakers/companies/qnap.png",
       "country" : "Taiwan",
       "featured" : false,
       "name" : "Cage Chung",
-      "photo" : "/images/logos/cage.jpg",
-      "photoUrl" : "../images/logos/cage.jpg",
+      "photo" : "/images/speakers/cage.jpg",
+      "photoUrl" : "../images/speakers/cage.jpg",
       "shortBio" : "https://www.linkedin.com/in/kaichuchung/",
       "socials" : [ {
         "icon" : "linkedin",
@@ -773,8 +778,8 @@
       "country" : "Aylanetworks",
       "featured" : false,
       "name" : "Simon Su",
-      "photo" : "simon_su.jpeg",
-      "photoUrl" : "..simon_su.jpeg",
+      "photo" : "/images/speakers/simon_su.jpeg",
+      "photoUrl" : "../images/speakers/simon_su.jpeg",
       "shortBio" : "Simon Su，熱衷於雲端、系統、大資料相關之建置與研究，曾帶領台灣公有雲開發團隊建立第一朵台灣的公有雲，並且為Google Cloud認證之亞洲地區講師，具備 20+ 場的Google雲端課程授課經驗，也榮獲Google Developer Expert(GDE)的頭銜，為全球200多位GDE之一。另外，Simon為台灣Google Cloud社群創辦人，在業界有著豐富的數據工程教學與演講經驗，著有：Google Cloud雲端平台實作手冊一書。",
       "socials" : [ {
         "icon" : "facebook",
@@ -784,66 +789,45 @@
       "order" : 4,
       "title" : "DevOps PE"
     },
-    "david_mayboroda" : {
-      "bio" : "Ex-Yandex emploee, currently Android Engineer at SoftServe.",
-      "company" : "SoftServe",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv, Ukraine",
+    "yong_lee" : {
+      "bio" : "I belong to GDG Cloud Organizer in S.Korea. I am working in Netmarble and creating many ML products with JI YEON. We are here to share our experiences and know-hows. For those of you who are considering adopt ML in your company, I hope this session would be helpful to you.",
+      "company" : "NARC (Netmarble AI Revolution Center)",
+      "companyLogo" : "/images/speakers/companies/netmarble_logo.jpg",
+      "companyLogoUrl" : "../images/speakers/companies/netmarble_logo.jpg",
+      "country" : "South Korea",
       "featured" : false,
-      "name" : "David Mayboroda",
-      "photo" : "/images/people/david_mayboroda.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/david_mayboroda.jpg",
-      "shortBio" : "Ex Yandex emproyee. Android enthusiast.",
+      "name" : "YONG LEE",
+      "photo" : "/images/speakers/yong_lee.png",
+      "photoUrl" : "../images/speakers/yong_lee.png",
+      "shortBio" : "",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/profile.php?id=100008474898785",
+        "link" : "https://www.facebook.com/groups/googlecloudkorea",
         "name" : "Facebook"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/dmayboroda",
-        "name" : "GitHub"
       } ],
       "order" : 5,
-      "title" : "Android Engineer"
+      "title" : "GDG Cloud Organizer & Team Leader"
     },
-    "david_vávra" : {
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/david-v-vra.html",
-        "name" : "gde"
-      } ],
-      "bio" : "David is a Google Developer Expert for Android. He is a CEO now, but he still finds time for diving deep into Android architecture. He currently focuses on Firebase for Android. He loves open-source and gadgets like Android Wear or Android TV. He is the core organiser of GDG Prague events.",
-      "company" : "Step Up Labs",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Prague, Czech Republic",
-      "featured" : true,
-      "name" : "David Vávra",
-      "photo" : "/images/people/david_vavra.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/david_vavra.jpg",
-      "shortBio" : "Founder and CEO of Step Up Labs. Android GDE.",
+    "jenniefer_oh" : {
+      "bio" : "I belong to GDG Cloud Organizer in S.Korea. I am working in Netmarble and creating many ML products with JI YEON. We are here to share our experiences and know-hows. For those of you who are considering adopt ML in your company, I hope this session would be helpful to you.",
+      "company" : "NARC (Netmarble AI Revolution Center)",
+      "companyLogo" : "/images/speakers/companies/netmarble_logo.jpg",
+      "companyLogoUrl" : "../images/speakers/companies/netmarble_logo.jpg",
+      "country" : "South Korea",
+      "featured" : false,
+      "name" : "JENNIFER OH",
+      "photo" : "/images/speakers/jennifer.png",
+      "photoUrl" : "../images/speakers/jennifer.png",
+      "shortBio" : "",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DavidVávra",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/vavradav",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/dvavra",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/davidvavra",
-        "name" : "GitHub"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/groups/googlecloudkorea",
+        "name" : "Facebook"
       } ],
       "order" : 6,
-      "title" : "Founder/CEO/Android Lead"
+      "title" : "GDG Cloud Organizer & Team Leader"
     },
-    "dmytro_danylyk" : {
+    "will_huang" : {
       "badges" : [ {
         "description" : "Android Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
@@ -853,59 +837,51 @@
         "link" : "https://developers.google.com/groups/chapter/102444623953913144164/",
         "name" : "gdg"
       } ],
-      "bio" : "Dmytro is a developer, writer, speaker. He live in Lviv - a quaint and beautiful city. He is passionate about android and flat design. Currently Dmytro works for a startup Timee where he develop Android application and he love what he do.",
-      "company" : "Timee",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Lviv, Ukraine",
+      "bio" : "現任多奇數位創意有限公司技術總監。2018 年榮獲 Angular/Web GDE (Google Developer Expert) 開發專家。連續 11 度當選微軟最有價值專家 (Visual Studio and Development Technologies​)。熟悉 Web 開發技術、網站效能調校、許多 .NET/C# 開發技術、SQL Server 資料庫開發、網站內容管理系統、Docker 與 Kubernetes。曾擔任 Visual Studio 2010 上市發表會講師、MSDN 講座講師、TechDays Taiwan 2010~2015 講師、TechEd China 2011, 2013 講師，出版著作有 ASP.NET MVC 2 開發實戰、Windows Phone 開發實戰、ASP.NET MVC 4 開發實戰等書籍。2013​ 年曾獲選第 6 屆iT邦幫忙鐵人賽年度大獎與開發技術組年度鐵人​。部落格: https://blog.miniasp.com/ 粉絲團: https://www.facebook.com/will.fans",
+      "company" : "多奇數位創意有限公司",
+      "companyLogo" : "/images/speakers/companies/duotify.png",
+      "companyLogoUrl" : "../images/speakers/companies/duotify.png",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/dmytro_danylyk.jpg",
-      "shortBio" : "First Android GDE in Ukraine. Frequent speaker on tech conferences.",
+      "name" : "Will 保哥",
+      "photo" : "/images/speakers/will_huang.jpg",
+      "photoUrl" : "../images/speakers/will_huang.jpg",
+      "shortBio" : "現任「多奇數位創意有限公司」技術總監。2018 年榮獲 Angular/Web GDE (Google Developer Expert) 開發專家。連續 11 度當選微軟最有價值專家(MVP)。熟悉 .NET、ASP.NET MVC 與 Angular 相關開發技術。部落格: https://blog.miniasp.com/ 粉絲團: https://www.facebook.com/will.fans",
       "socials" : [ {
         "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com",
+        "link" : "https://blog.miniasp.com/",
         "name" : "Website"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/will.fans/",
+        "name" : "Facebook"
       } ],
       "order" : 7,
-      "title" : "Senior Android Developer"
+      "title" : "技術總監"
     },
-    "gerard_sans" : {
+    "nevin" : {
       "badges" : [ {
         "description" : "Angular Google Developer Expert",
         "link" : "https://developers.google.com/experts/people/gerard-sans.html",
         "name" : "gde"
       } ],
-      "bio" : "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
-      "company" : "AngularZone",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "London, United Kingdom",
+      "bio" : "Android Dev @Mozilla, Husband, Son, Father",
+      "company" : "Mozilla",
+      "companyLogo" : "",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mozilla_logo.svg/280px-Mozilla_logo.svg",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Gerard Sans",
-      "photo" : "/images/people/gerard_sans.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/gerard_sans.jpg",
-      "shortBio" : "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
+      "name" : "Nevin",
+      "photo" : "/images/speakers/nevin.png",
+      "photoUrl" : "../images/speakers/nevin.png",
+      "shortBio" : "Architecture, Kotlin, Open Web",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/gerardsans",
+        "link" : "https://twitter.com/chennevin",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "https://medium.com/@gerard.sans",
-        "name" : "Website"
       } ],
       "order" : 8,
-      "title" : "Technical Evangelist"
+      "title" : "Android Dev"
     },
     "ihor_dvoretskyi" : {
       "badges" : [ {
