@@ -69,75 +69,68 @@
   "partners" : [ {
     "logos" : [ {
       "order" : 0,
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164"
+      "logoUrl" : "../images/logos/gdg-taipei.svg",
+      "name" : "GDG Taipei",
+      "url" : "../images/logos/gdg-taipei.svg"
+    }, {
+      "order" : 1,
+      "logoUrl" : "../images/logos/GCPUG.ai",
+      "name" : "GCPUG Taipei",
+      "url" : "../images/logos/GCPUG.ai"
+    }, {
+      "order" : 2,
+      "logoUrl" : "../images/logos/TADSG_logo.png",
+      "name" : "TADSG 台灣 Android 開發者讀書會",
+      "url" : "../images/logos/TADSG_logo.png"
+    }, {
+      "order" : 3,
+      "logoUrl" : "../images/logos/golangtw.jpg",
+      "name" : "Golang Taiwan",
+      "url" : "../images/logos/golangtw.jpg"
+    }, {
+      "order" : 0,
+      "logoUrl" : "../images/logos/OSM-tw_withText.svg",
+      "name" : "OSM Taiwan",
+      "url" : "../images/logos/OSM-tw_withText.svg"
     } ],
     "order" : 0,
-    "title" : "Template Creator"
+    "title" : "合作夥伴"
   }, {
     "logos" : [ {
       "order" : 0,
       "logoUrl" : "../images/logos/google.svg",
       "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
+      "url" : "https://www.google.com.tw/intl/zh/about/"
     }, {
       "order" : 1,
       "logoUrl" : "../images/logos/gdg-x.svg",
       "name" : "GDG[x]",
       "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 2,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 3,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 4,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 5,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 6,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 7,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 8,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "order" : 9,
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "order" : 10,
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
     } ],
     "order" : 1,
-    "title" : "General Partner"
+    "title" : "Google"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/sponsors/happyrun.png",
+      "name" : "Happy Run 樂駿",
+      "url" : "https://www.google.com.tw/intl/zh/about/"
+    } ],
+    "order" : 2,
+    "title" : "白金贊助"
+  }, {
+    "logos" : [ {
+      "order" : 0,
+      "logoUrl" : "../images/logos/sponsors/meetjobs_standard.png",
+      "name" : "一起工作科技有限公司 (Meet.Jobs)",
+      "url" : "https://www.google.com.tw/intl/zh/about/"
+    } ],
+    "order" : 3,
+    "title" : "黃金贊助"
   } ],
   "schedule" : {
-    "2016-09-09" : {
-      "dateReadable" : "September 9",
+    "2018-11-17" : {
+      "dateReadable" : "November 17",
       "timeslots" : [ {
         "endTime" : "10:00",
         "sessions" : [ {
@@ -678,55 +671,39 @@
     }
   },
   "speakers" : {
-    "adrian_kajda" : {
-      "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company" : "Sygic",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "Akane Lee" : {
+      "bio" : "如果設計師能和工程師順利合作，那麼老公也就能準時下班了吧。因此努力推廣 UI/UX 設計方面的知識、技術，並分享自己在專案開發上踩過的各種坑與心得。",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Adrian Kajda",
-      "photo" : "/images/people/adrian_kajda.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "plus.google.com/+AdrianKajda",
-        "name" : "Google+"
-      } ],
+      "name" : "Akane Lee",
+      "photo" : "/images/speakers/AkaneLee.jpg",
+      "photoUrl" : "../images/speakers/AkaneLee.jpg",
+      "shortBio" : "嫁給 RD 的 UI Designer",
+      "socials" : [],
       "order" : 0,
-      "title" : "Product Manager/Developer"
+      "title" : "UI / UX"
     },
-    "aleksander_piotrowski" : {
-      "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-      "company" : "Applause",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Warsaw, Poland",
+    "YanBin" : {
+      "bio" : "有潔癖的 Android 工程師，喜歡分享，不定時出現在社群的各個活動。",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Aleksander Piotrowski",
-      "photo" : "/images/people/aleksander_piotrowski.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-      "shortBio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+      "name" : "彥彬",
+      "photo" : "/images/speakers/洪彥彬.png",
+      "photoUrl" : "../images/speakers/洪彥彬.png",
+      "shortBio" : "擅長:Android, Unit test, OOP, kotlin 前Colorgy Android 工程師",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplus",
-        "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "http://facebook.com/pelotasplus",
-        "name" : "Facebook"
-      }, {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/pelotasplus",
+        "link" : "https://www.linkedin.com/in/%E5%BD%A5%E5%BD%AC-%E6%B4%AA-94b350b7/",
         "name" : "LinkedIn"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://www.instagram.com/pelotasplus/",
-        "name" : "Google+"
       } ],
       "order" : 1,
-      "title" : "Code Monkey"
+      "title" : "Android"
     },
     "anton__minashkin" : {
       "bio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
