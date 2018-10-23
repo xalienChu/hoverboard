@@ -1072,15 +1072,6 @@
       "title" : "資深工程師"
     },
     "hwchiu" : {
-      "badges" : [ {
-        "description" : "UI/UX Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/resul-caner-y-ld-r-m.html",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Istanbul",
-        "link" : "https://developers.google.com/groups/chapter/100514812580249787371/",
-        "name" : "gdg"
-      } ],
       "bio" : "一位被 Programming 耽誤的 DevOps Engineer，從 C/C++ 開發家用路由器到後來轉用 Golang 開發程式，最後一頭栽進 Kubernetes 內的世界。目前於 ThunderToken 就任 DevOps 工程師，同時也是 SDNDS-TW 以及 CNTUG 兩個台灣社群的共同創辦人。本身對於 Networking 的概念非常有興趣，喜歡去學習與研究各式各樣的網路概念，特別是從 2008 年開始談起的 SDN(Software Defined Networking). 此外也喜歡透過閱讀原始碼的方式來學習這些網路概念是如何在系統上實現的，特別是 Linux Kernel 相關的實現方式。閒暇之餘也會寫部落格，將所學所知分享出去並且參加社群與大家交流討論來學習。",
       "company" : "ThunderToken",
       "companyLogo" : "/images/speakers/companies/thundertoken.png",
@@ -1099,48 +1090,31 @@
       "order" : 19,
       "title" : "DevOps Engineer"
     },
-    "roman_herasymenko" : {
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/roman-herasymenko.html",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Dnipro",
-        "link" : "https://developers.google.com/groups/chapter/116033068768596939209/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting in software development for cutting edge technologies and devices like Google Glass and Android Wear.",
-      "company" : "Yamert",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Dnipro, Ukraine",
+    "peter_lo" : {
+      "bio" : "",
+      "company" : "",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Hong Kong",
       "featured" : false,
-      "name" : "Roman Herasymenko",
-      "photo" : "/images/people/roman_herasymenko.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/roman_herasymenko.jpg",
-      "shortBio" : "Roman is Founder and CEO at Yamert and a co-organizer of GDG Dnipropetrovsk. Roman is interesting...",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+RomanGerasimenko/",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "http://ua.linkedin.com/pub/roman-gerasimenko/",
-        "name" : "LinkedIn"
-      } ],
+      "name" : "Peter Lo",
+      "photo" : "/images/speakers/PeterLo.jpg",
+      "photoUrl" : "../images/speakers/PeterLo.jpg",
+      "shortBio" : "",
+      "socials" : [],
       "order" : 20,
-      "title" : "CEO"
+      "title" : ""
     },
-    "rustem_arzymbetov" : {
-      "bio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+    "charlie_tsai" : {
+      "bio" : "",
       "company" : "Google",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Mountain View, United States",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "",
       "featured" : true,
-      "name" : "Rustem Arzymbetov",
-      "photo" : "/images/people/rustem_arzymbetov.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/rustem_arzymbetov.jpg",
+      "name" : "Charlie Tsai",
+      "photo" : "",
+      "photoUrl" : "",
       "shortBio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
       "socials" : [ {
         "icon" : "gplus",
@@ -1150,7 +1124,7 @@
       "order" : 21,
       "title" : "Software Engineer"
     },
-    "sascha_wolter" : {
+    "takuo_suzuki" : {
       "bio" : "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG – Connected Home, he likes discovering the world together with his kids in an odd way.",
       "company" : "Duetsche Telekom AG - Group Innovation+",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
