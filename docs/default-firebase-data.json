@@ -829,13 +829,9 @@
     },
     "will_huang" : {
       "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/dmytro-danylyk",
+        "description" : "Web Technologies, Angular",
+        "link" : "https://developers.google.com/experts/people/will-huang",
         "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Lviv",
-        "link" : "https://developers.google.com/groups/chapter/102444623953913144164/",
-        "name" : "gdg"
       } ],
       "bio" : "現任多奇數位創意有限公司技術總監。2018 年榮獲 Angular/Web GDE (Google Developer Expert) 開發專家。連續 11 度當選微軟最有價值專家 (Visual Studio and Development Technologies​)。熟悉 Web 開發技術、網站效能調校、許多 .NET/C# 開發技術、SQL Server 資料庫開發、網站內容管理系統、Docker 與 Kubernetes。曾擔任 Visual Studio 2010 上市發表會講師、MSDN 講座講師、TechDays Taiwan 2010~2015 講師、TechEd China 2011, 2013 講師，出版著作有 ASP.NET MVC 2 開發實戰、Windows Phone 開發實戰、ASP.NET MVC 4 開發實戰等書籍。2013​ 年曾獲選第 6 屆iT邦幫忙鐵人賽年度大獎與開發技術組年度鐵人​。部落格: https://blog.miniasp.com/ 粉絲團: https://www.facebook.com/will.fans",
       "company" : "多奇數位創意有限公司",
@@ -860,11 +856,6 @@
       "title" : "技術總監"
     },
     "nevin" : {
-      "badges" : [ {
-        "description" : "Angular Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/gerard-sans.html",
-        "name" : "gde"
-      } ],
       "bio" : "Android Dev @Mozilla, Husband, Son, Father",
       "company" : "Mozilla",
       "companyLogo" : "",
@@ -883,105 +874,67 @@
       "order" : 8,
       "title" : "Android Dev"
     },
-    "ihor_dvoretskyi" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Lviv",
-        "link" : "https://developers.google.com/groups/chapter/102444623953913144164/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Ihor is an Operations Engineer at Mirantis with a huge experience working in IT companies, where he was responsible for projects tightly bound to Cloud computing and Linux systems. He is deeply interested in the OpenStack cloud platform, other Cloud technologies, especially the Open Source projects.<br><br>Also, Ihor acts as the OpenStack Foundation member, Kubernetes upstream contributor, and OpenStack special interest group lead in Kubernetes Community, working intensely on the questions and abilities, related to the OpenStack and Kubernetes collaboration and integration.",
-      "company" : "Mirantis",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Lviv, Ukraine",
+    "summit_suen" : {
+      "bio" : "1. End-to-end data pipeline/product building experience 2. Problem solver and hacker 3. With a strong background in mathematics and statistics, Summit currently works as a senior data scientist developing data products such as DMP. He is also an open source enthusiast actively connecting and helping local communities, awarded the Data Platform Microsoft Most Valuable Professionals since 2017.",
+      "company" : "Taiwan R User Group",
+      "companyLogo" : "/images/speakers/companies/Taiwan-R-logo.png",
+      "companyLogoUrl" : "../images/speakers/companies/Taiwan-R-logo.png",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ihor_dvoretskyi.jpg",
-      "shortBio" : "OpenStack Foundation member, Kubernetes upstream contributor and OpenStack special interest group lead in Kubernetes Community.",
+      "name" : "Summit Suen",
+      "photo" : "/images/speakers/summit_suen.jpg",
+      "photoUrl" : "../images/speakers/summit_suen.jpg",
+      "shortBio" : "https://www.linkedin.com/in/suensummit/",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/103000293055760527954",
-        "name" : "Google+"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://ua.linkedin.com/in/idvoretskyi",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/summit.suen",
+        "name" : "Facebook"
       } ],
       "order" : 9,
-      "title" : "Deployment Engineer"
+      "title" : "Data Scientist"
     },
-    "jakub_škvára" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Prague",
-        "link" : "https://developers.google.com/groups/chapter/111919016509847766513/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools. Jakub is also a member of GDG Prague and GDG ČVUT in the Czech republic.",
-      "company" : "Shipito",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Prague, Czech Republic",
+    "ivan" : {
+      "bio" : "現任東森得易購(http://www.etmall.com.tw/)科技中心的前端部門經理和Scrum Master。專精在前端架構設計, 雲的應用程序設計(AWS/GA/Firebase)，用戶界面設計(UI/UX with Axure RP)，編程技巧(NodeJS/reactJS/PHP/python/C#)，和一些DevOps工具使用(Github/circleCI/codeDeploy)，自動測試(mocha/BDD specflow)和項目管理(PMP/CSM)。* 前端團隊主管(目前團隊6人)* 大小網(desktop/mobile)團隊前端開發(使用reactJS)* 負責主持daily scrum&retrospective會議* 舉辦Scrum分享與教練， 協助改善Scrum流程* 帶領新人迅速on job training & code review, 促使團隊自我成長* Hackday發表即時推播功能(web push notification system)獲最佳人氣獎 & Q4考績優等 https://goo.gl/p6z5nN* 主持技術分享會Tech Talk* 協助PO發現產品的問題與決定User  story* 學習與引導使用新技術(每兩週分享新技術)  https://goo.gl/AZbqex* 導入測試框架(Jasmine+chutzpah / Jest)* 2018 modern web講師https://modernweb.tw/詳細可參閱我在台南大學分享的個人經歷: https://goo.gl/UcEdyM",
+      "company" : "東森得易購股份有限公司",
+      "companyLogo" : "/images/speakers/companies/ehs.png",
+      "companyLogoUrl" : "../images/speakers/companies/ehs.png",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Jakub Škvára",
-      "photo" : "/images/people/jakub_skvara.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jakub_skvara.jpg",
-      "shortBio" : "Jakub is a front-end engineer at Shipito interested in modern web frameworks, libraries and tools...",
+      "name" : "Ivan Chiou 邱文淇",
+      "photo" : "/images/speakers/ivan.jpg",
+      "photoUrl" : "../images/speakers/ivan.jpg",
+      "shortBio" : "現任東森得易購科技中心的前端部門經理。曾經在各大公司先後擔任過介面工程師、系統工程師、專案經理、產品經理、Scrum Master等歷練。目前專注於帶領團隊與前端技術的開發、創新、與導入。對於多媒體融合、跨領域職能協同合作有相當豐富的經驗，自許為團隊的心靈導師，為年輕的工程師注入希望並指引方向。今年獲選為modern web 2018年講師之一，期望在技術領域上為台灣貢獻與分享所學。https://modernweb.tw/",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/@skvaros",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JakubSkvara/",
-        "name" : "Google+"
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/ivan-chiou-727b0721/",
+        "name" : "Facebook"
       } ],
       "order" : 10,
-      "title" : "Frontend engineer"
+      "title" : "經理"
     },
-    "jana_moudra" : {
+    "david_chen" : {
       "badges" : [ {
-        "description" : "Dart Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/jana-moudr.html",
+        "description" : "Google Cloud Platform Google Developer Expert",
+        "link" : "https://developers.google.com/experts/people/david-cheng",
         "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Prague",
-        "link" : "https://developers.google.com/groups/chapter/111919016509847766513/",
-        "name" : "gdg"
       } ],
-      "bio" : "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. \n\nJana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
-      "company" : "Juicymo",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Prague, Czech Republic",
+      "bio" : "集雅科技的CEO，GCPUG共同創辦人，2014, 2015 PyCon APAC 組長，喜歡寫code, 吃拉麵, 滑雪．平常主要進行 Google Platform 上面的 Python 程式開發．",
+      "company" : "GliaCloud",
+      "companyLogo" : "/images/speakers/companies/logo_light.png",
+      "companyLogoUrl" : "../images/speakers/companies/logo_light.png",
+      "country" : "Taiwan",
       "featured" : false,
-      "name" : "Jana Moudra",
-      "photo" : "/images/people/jana_moudra.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/jana_moudra.jpg",
-      "shortBio" : "GDG Prague organizer. Android and Dart enthusiast. Co-founder of a company called Juicymo.",
+      "name" : "David Chen",
+      "photo" : "/images/speakers/hackpad_david_chen.jpg",
+      "photoUrl" : "../images/speakers/hackpad_david_chen.jpg",
+      "shortBio" : "雲端架構與ML",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+JanaMoudrá/posts",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/Janamou",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://cz.linkedin.com/in/janamoudra",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "github",
-        "link" : "https://github.com/Janamou",
-        "name" : "GitHub"
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/lucemia",
+        "name" : "Facebook"
       } ],
       "order" : 11,
-      "title" : "Co-Founder"
+      "title" : "CEO"
     },
     "jean-baptiste_clion" : {
       "badges" : [ {
@@ -1336,102 +1289,6 @@
       } ],
       "order" : 23,
       "title" : "Data Scientist"
-    },
-    "sergiy_mokienko" : {
-      "badges" : [ {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Sergiy is an android developer that has experience from building apps from scratch to developing android based sdks and libraries for other applications. He has more than 10 applications successfully published on Google Play. Former GDG chapter lead in Nikolaev. Currently he is leading a team that builds broker software for 60+ different brokers.",
-      "company" : "Leverate",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv,  Ukraine",
-      "featured" : false,
-      "name" : "Sergiy Mokienko",
-      "photo" : "/images/people/sergiy_mokienko.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/sergiy_mokienko.jpg",
-      "shortBio" : "Sergiy is an android developer that has experience from building apps from scratch to developing...",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/sergiy-mokienko-76891359",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/Korwin22",
-        "name" : "Facebook"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/107094180736796042888",
-        "name" : "Google+"
-      } ],
-      "order" : 24,
-      "title" : "Android Team Lead"
-    },
-    "valentyn_shybanov" : {
-      "badges" : [ {
-        "description" : "Cloud Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/valentyn-shybanov.html",
-        "name" : "gde"
-      }, {
-        "description" : "Google Developers Group Kyiv",
-        "link" : "https://developers.google.com/groups/chapter/110301321530950732281/",
-        "name" : "gdg"
-      } ],
-      "bio" : "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-      "company" : "Wolters Kluwer",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Kyiv, Ukraine",
-      "featured" : false,
-      "name" : "Valentyn Shybanov",
-      "photo" : "/images/people/valentyn_shybanov.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/valentyn_shybanov.jpg",
-      "shortBio" : "Google Developer Expert on Cloud. Co-organizer of GDG Kyiv-Center.",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+ValentynShybanov",
-        "name" : "Google+"
-      }, {
-        "icon" : "website",
-        "link" : "http://olostan.name/",
-        "name" : "Website"
-      } ],
-      "order" : 25,
-      "title" : "Software Engineer/Country Manager"
-    },
-    "yonatan_levin" : {
-      "badges" : [ {
-        "description" : "Android Google Developer Expert",
-        "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-        "name" : "gde"
-      } ],
-      "bio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
-      "company" : "Gett",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Tel Aviv, Israel",
-      "featured" : true,
-      "name" : "Yonatan Levin",
-      "photo" : "/images/people/yonatan_levin.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/yonatan_levin.jpg",
-      "shortBio" : "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/levin.yonatan",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/parahall",
-        "name" : "Twitter"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+YonatanLevin",
-        "name" : "Google+"
-      } ],
-      "order" : 26,
-      "title" : "Android Evangelist & Developer"
     }
   },
   "team" : [ {
