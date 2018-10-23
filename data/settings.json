@@ -9,8 +9,8 @@
   "endDate": "2018-11-17T19:00:00+08:00",
   "webapp": {
     "shortName": "DevFest",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#465ea8",
+    "backgroundColor": "#465ea8"
   },
   "dateFormat": {
     "locale": "zh-TW"
@@ -48,7 +48,7 @@
     "home": {
       "description": "加入 GDG，改變世界！",
       "background": {
-        "color": "#673ab7",
+        "color": "#465ea8",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"

@@ -4,7 +4,7 @@
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "2018 年 11 月 17 日",
-  "partnershipProposition": "贊助",
+  "partnershipProposition": "",
   "share": "分享",
   "followOur": "跟隨我們",
   "followUs": "跟隨我們的訊息",
@@ -136,7 +136,7 @@
     "save": "今日折扣為 ${discount}%"
   },
   "partnersBlock": {
-    "title": "贊助商",
+    "title": "合作夥伴",
     "button": "成為贊助商",
     "form": {
       "title": "成為贊助商！",
