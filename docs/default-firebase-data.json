@@ -1036,8 +1036,8 @@
     "kevin_chiu" : {
       "bio" : "Kevin 目前任職於遠傳電信行動應用開發小組，之前為手機廠工程師，歡迎對軟硬體整合有興趣的朋友與他一起討論。",
       "company" : "遠傳電信",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
       "country" : "Taiwan",
       "featured" : false,
       "name" : "Kevin Chiu",
