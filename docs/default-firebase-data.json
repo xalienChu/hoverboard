@@ -1244,85 +1244,13 @@
       } ],
       "order" : 3,
       "title" : "Party and happiness"
-    }, {
-      "name" : "Teng",
-      "photo" : "/images/team/teng_wang.jpeg",
-      "photoUrl" : "../images/team/teng_wang.jpeg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 4,
-      "title" : "Sponsors"
-    }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "order" : 5,
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "order" : 6,
-      "title" : "Speakers"
-    }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "order" : 7,
-      "title" : "Social and media"
     } ],
     "title" : "核心團隊"
   }, {
     "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
+      "name" : "Teng",
+      "photo" : "/images/team/teng_wang.jpeg",
+      "photoUrl" : "../images/team/teng_wang.jpeg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/idvoretskyi",
@@ -1335,9 +1263,28 @@
       "order" : 0,
       "title" : "Cloud stream"
     }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
+      "name" : "劉威宏",
+      "photo" : "/images/team/weihung_liu.jpeg",
+      "photoUrl" : "../images/team/weihung_liu.jpeg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+DmytroDanylyk",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dmytrodanylyk",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.dmytrodanylyk.com/#/about",
+        "name" : "Website"
+      } ],
+      "order" : 1,
+      "title" : "Android Stream"
+    }, {
+      "name" : "徐小繹",
+      "photo" : "/images/team/weihung_liu.jpeg",
+      "photoUrl" : "../images/team/weihung_liu.jpeg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+DmytroDanylyk",
@@ -1354,7 +1301,7 @@
       "order" : 1,
       "title" : "Android Stream"
     } ],
-    "title" : "Program Committee"
+    "title" : "公關組"
   } ],
   "tickets" : [ {
     "available" : true,
