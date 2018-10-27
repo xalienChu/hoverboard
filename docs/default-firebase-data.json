@@ -676,6 +676,30 @@
     }
   },
   "speakers" : {
+    "takuo_suzuki" : {
+      "badges": [
+        {
+          "name": "google",
+          "description": "Developer Relation, Reginal Lead",
+          "link": "https://developers.google.com"
+        }
+      ],
+      "featured": true,
+      "name": "Takuo Suzuki / 鈴木拓生",
+      "company": "Google Japan",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "Tokyo, Japan",
+      "photoUrl": "https://pbs.twimg.com/profile_images/378800000672537135/2f5a340d5df2fb9b3baed2b1e22ea660_400x400.jpeg",
+      "shortBio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理...",
+      "bio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理，他除了在 Google 的 Material Design 實感設計方面有深入經驗之外，在使用者經驗及相關領域中亦有多年經驗。",
+      "tags": [
+        "UX",
+        "Startups",
+        "Data Visualization"
+      ],
+      "order" : 0,
+      "title" : "Developer Relation, Reginal Lead"
+    },
     "Akane Lee" : {
       "bio" : "如果設計師能和工程師順利合作，那麼老公也就能準時下班了吧。因此努力推廣 UI/UX 設計方面的知識、技術，並分享自己在專案開發上踩過的各種坑與心得。",
       "company" : "",
@@ -1123,33 +1147,6 @@
       } ],
       "order" : 21,
       "title" : "Software Engineer"
-    },
-    "takuo_suzuki" : {
-      "bio" : "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理，他除了在 Google 的 Material Design 實感設計方面有深入經驗之外，在使用者經驗及相關領域中亦有多年經驗。",
-      "company" : "Duetsche Telekom AG - Group Innovation+",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Munich and Dusseldorf, Germany",
-      "featured" : true,
-      "name" : "Takuo Suzuki / 鈴木拓生",
-      "photo" : "/images/people/sascha_wolter.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/sascha_wolter.jpg",
-      "shortBio" : "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-      "socials" : [ {
-        "icon" : "website",
-        "link" : "http://www.wolter.biz",
-        "name" : "Website"
-      }, {
-        "icon" : "twitter",
-        "link" : "http://twitter.com/saschawolter",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "http://www.linkedin.com/pub/sascha-wolter/5/a38/493",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 22,
-      "title" : "Senior Developer Evangelist Connected Home"
     },
     "sergii_khomenko" : {
       "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
