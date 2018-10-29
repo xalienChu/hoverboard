@@ -126,7 +126,7 @@
       "url" : ""
     }, {
       "order" : 1,
-      "logoUrl" : "../images/logos/sponsors/meetjobs_standard.png",
+      "logoUrl" : "https://blog.gcp.expert/material/2018/08/%E5%A4%A9%E7%93%8F.png",
       "name" : "天瓏書局",
       "url" : ""
     } ],
@@ -676,6 +676,30 @@
     }
   },
   "speakers" : {
+    "takuo_suzuki" : {
+      "badges": [
+        {
+          "name": "google",
+          "description": "Developer Relation, Reginal Lead",
+          "link": "https://developers.google.com"
+        }
+      ],
+      "featured": true,
+      "name": "Takuo Suzuki / 鈴木拓生",
+      "company": "Google Japan",
+      "companyLogo": "/images/logos/google.svg",
+      "country": "Tokyo, Japan",
+      "photoUrl": "https://pbs.twimg.com/profile_images/378800000672537135/2f5a340d5df2fb9b3baed2b1e22ea660_400x400.jpeg",
+      "shortBio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理...",
+      "bio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理，他除了在 Google 的 Material Design 實感設計方面有深入經驗之外，在使用者經驗及相關領域中亦有多年經驗。",
+      "tags": [
+        "UX",
+        "Startups",
+        "Data Visualization"
+      ],
+      "order" : 0,
+      "title" : "Developer Relation, Reginal Lead"
+    },
     "Akane Lee" : {
       "bio" : "如果設計師能和工程師順利合作，那麼老公也就能準時下班了吧。因此努力推廣 UI/UX 設計方面的知識、技術，並分享自己在專案開發上踩過的各種坑與心得。",
       "company" : "",
@@ -1036,8 +1060,8 @@
     "kevin_chiu" : {
       "bio" : "Kevin 目前任職於遠傳電信行動應用開發小組，之前為手機廠工程師，歡迎對軟硬體整合有興趣的朋友與他一起討論。",
       "company" : "遠傳電信",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
       "country" : "Taiwan",
       "featured" : false,
       "name" : "Kevin Chiu",
@@ -1124,33 +1148,6 @@
       "order" : 21,
       "title" : "Software Engineer"
     },
-    "takuo_suzuki" : {
-      "bio" : "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG – Connected Home, he likes discovering the world together with his kids in an odd way.",
-      "company" : "Duetsche Telekom AG - Group Innovation+",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Munich and Dusseldorf, Germany",
-      "featured" : true,
-      "name" : "Sascha Wolter",
-      "photo" : "/images/people/sascha_wolter.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/sascha_wolter.jpg",
-      "shortBio" : "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-      "socials" : [ {
-        "icon" : "website",
-        "link" : "http://www.wolter.biz",
-        "name" : "Website"
-      }, {
-        "icon" : "twitter",
-        "link" : "http://twitter.com/saschawolter",
-        "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "http://www.linkedin.com/pub/sascha-wolter/5/a38/493",
-        "name" : "LinkedIn"
-      } ],
-      "order" : 22,
-      "title" : "Senior Developer Evangelist Connected Home"
-    },
     "sergii_khomenko" : {
       "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
       "company" : "Stylight",
@@ -1173,9 +1170,9 @@
   },
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+      "name" : "Ted Chien",
+      "photo" : "/images/team/ted_chien.png",
+      "photoUrl" : "../images/team/ted_chien.png",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+OlehZasadnyy",
@@ -1196,9 +1193,9 @@
       "order" : 0,
       "title" : "Website and sponsors"
     }, {
-      "name" : "Sofiya Huts",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+      "name" : "Takuma Lee",
+      "photo" : "/images/team/takuma_lee.jpg",
+      "photoUrl" : "../images/team/takuma_lee.jpg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+SofiaHuts",
@@ -1211,9 +1208,9 @@
       "order" : 1,
       "title" : "Social and media"
     }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photo" : "/images/people/vitaliy_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+      "name" : "Ahdaa Yeh",
+      "photo" : "/images/team/ahdaa_yeh.jpg",
+      "photoUrl" : "../images/team/ahdaa_yeh.jpg",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/zasadnyy",
@@ -1230,9 +1227,9 @@
       "order" : 2,
       "title" : "Speakers"
     }, {
-      "name" : "Marta Maxymiak",
-      "photo" : "/images/people/marta_maxymiak.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+      "name" : "黃詩涵",
+      "photo" : "/images/team/shih_han.jpg",
+      "photoUrl" : "../images/team/shih_han.jpg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/104036874811391520583",
@@ -1244,85 +1241,13 @@
       } ],
       "order" : 3,
       "title" : "Party and happiness"
-    }, {
-      "name" : "Ostap Andrusiv",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 4,
-      "title" : "Sponsors"
-    }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "order" : 5,
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "order" : 6,
-      "title" : "Speakers"
-    }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "order" : 7,
-      "title" : "Social and media"
     } ],
-    "title" : "Core Team"
+    "title" : "核心團隊"
   }, {
     "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
+      "name" : "Teng",
+      "photo" : "/images/team/teng_wang.jpeg",
+      "photoUrl" : "../images/team/teng_wang.jpeg",
       "socials" : [ {
         "icon" : "facebook",
         "link" : "https://www.facebook.com/idvoretskyi",
@@ -1335,9 +1260,28 @@
       "order" : 0,
       "title" : "Cloud stream"
     }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
+      "name" : "劉威宏",
+      "photo" : "/images/team/weihung_liu.jpeg",
+      "photoUrl" : "../images/team/weihung_liu.jpeg",
+      "socials" : [ {
+        "icon" : "gplus",
+        "link" : "https://plus.google.com/+DmytroDanylyk",
+        "name" : "Google+"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/dmytrodanylyk",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "http://www.dmytrodanylyk.com/#/about",
+        "name" : "Website"
+      } ],
+      "order" : 1,
+      "title" : "Android Stream"
+    }, {
+      "name" : "徐小繹",
+      "photo" : "/images/team/weihung_liu.jpeg",
+      "photoUrl" : "../images/team/weihung_liu.jpeg",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "https://plus.google.com/+DmytroDanylyk",
@@ -1354,7 +1298,7 @@
       "order" : 1,
       "title" : "Android Stream"
     } ],
-    "title" : "Program Committee"
+    "title" : "公關組"
   } ],
   "tickets" : [ {
     "available" : true,
