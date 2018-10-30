@@ -87,7 +87,7 @@
 
     </style>
 
-    <div class="grid" style$="--tracks-number: 5;">
+    <div class="grid" style$="--tracks-number: [[day.tracks.length]];">
       <template is="dom-repeat" items="[[day.timeslots]]" as="timeslot" index-as="timeslotIndex">
 
         <div id$="[[timeslot.startTime]]" class="start-time" style$="grid-area: [[_getTimePosition(timeslotIndex)]]">
