@@ -137,349 +137,279 @@
     "2018-11-17" : {
       "dateReadable" : "November 17",
       "timeslots" : [ {
-        "endTime" : "10:00",
+        "endTime" : "9:30",
         "sessions" : [ {
-          "items" : [ 132 ]
+          "items" : [ 141 ]
         } ],
         "startTime" : "09:00"
       }, {
         "endTime" : "10:15",
         "sessions" : [ {
-          "items" : [ 136 ]
+          "items" : [ 145 ]
         } ],
         "startTime" : "10:00"
       }, {
-        "endTime" : "11:00",
+        "endTime" : "10:15",
         "sessions" : [ {
-          "items" : [ 139 ]
+          "items" : [ 148 ]
+        } ],
+        "startTime" : "9:45"
+      }, {
+        "endTime" : "10:30",
+        "sessions" : [ {
+          "items" : [ 149 ]
         } ],
         "startTime" : "10:15"
       }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 103, 112 ]
-        }, {
-          "items" : [ 120 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 109 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 129 ]
-        }, {
-          "items" : [ 116 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
-        "sessions" : [ {
-          "items" : [ 101 ]
-        }, {
-          "items" : [ 118 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 107 ]
-        } ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "15:30",
-        "sessions" : [ {
-          "items" : [ 140 ]
-        }, {
-          "items" : [ 126 ]
-        } ],
-        "startTime" : "14:50"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ {
-          "items" : [ 134 ]
-        } ],
-        "startTime" : "15:30"
-      }, {
-        "endTime" : "16:40",
-        "sessions" : [ {
-          "items" : [ 105 ]
-        }, {
-          "items" : [ 127 ]
-        }, {
-          "extend" : 3,
-          "items" : [ 119 ]
-        } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 112 ]
-        }, {
-          "items" : [ 111 ]
-        } ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:20",
-        "sessions" : [ {
-          "items" : [ 106 ]
-        }, {
-          "items" : [ 125 ]
-        } ],
-        "startTime" : "17:40"
-      }, {
-        "endTime" : "22:30",
-        "sessions" : [ {
-          "items" : [ 137 ]
-        } ],
-        "startTime" : "18:30"
-      } ],
-      "tracks" : [ {
-        "title" : "Expo hall"
-      }, {
-        "title" : "Conference hall"
-      }, {
-        "title" : "Workshops hall"
-      } ]
-    },
-    "2016-09-10" : {
-      "dateReadable" : "September 10",
-      "timeslots" : [ {
-        "endTime" : "10:10",
-        "sessions" : [ {
-          "items" : [ 135 ]
-        } ],
-        "startTime" : "09:30"
-      }, {
-        "endTime" : "10:50",
-        "sessions" : [ {
-          "items" : [ 114 ]
-        }, {
-          "items" : [ 117 ]
-        }, {
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "10:10"
-      }, {
-        "endTime" : "11:40",
-        "sessions" : [ {
-          "items" : [ 122 ]
-        }, {
-          "items" : [ 113 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 121 ]
-        } ],
-        "startTime" : "11:00"
-      }, {
-        "endTime" : "12:30",
-        "sessions" : [ {
-          "items" : [ 104 ]
-        }, {
-          "items" : [ 124 ]
-        } ],
-        "startTime" : "11:50"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ {
-          "items" : [ 133 ]
-        } ],
-        "startTime" : "12:30"
-      }, {
-        "endTime" : "14:40",
+        "endTime" : "11:15",
         "sessions" : [ {
           "items" : [ 108 ]
         }, {
-          "items" : [ 128 ]
+          "items" : [ 101 ]
         }, {
-          "extend" : 2,
           "items" : [ 102 ]
+        }, {
+          "items" : [ 122 ]
+        }, {
+          "items" : [ 106 ]
         } ],
-        "startTime" : "14:00"
+        "startTime" : "10:30"
       }, {
-        "endTime" : "15:30",
+        "endTime" : "11:30",
         "sessions" : [ {
+          "items" : [ 149 ]
+        } ],
+        "startTime" : "11:15"
+      }, {
+        "endTime" : "12:15",
+        "sessions" : [ {
+          "items" : [ 109 ]
+        }, {
+          "items" : [ 124 ]
+        }, {
+          "items" : [ 105 ]
+        }, {
+          "items" : [ 125 ]
+        }, {
+          "items" : [ 104 ]
+        } ],
+        "startTime" : "11:30"
+      }, {
+        "endTime" : "13:15",
+        "sessions" : [ {
+          "items" : [ 142 ]
+        } ],
+        "startTime" : "12:15"
+      }, {
+        "endTime" : "14:00",
+        "sessions" : [ {
+          "items" : [ 103 ]
+        }, {
+          "items" : [ 118 ]
+        }, {
           "items" : [ 110 ]
         }, {
           "items" : [ 123 ]
+        }, {
+          "items" : [ 111 ]
         } ],
-        "startTime" : "14:50"
+        "startTime" : "13:15"
       }, {
-        "endTime" : "16:00",
+        "endTime" : "14:30",
         "sessions" : [ {
-          "items" : [ 134 ]
+          "items" : [ 143 ]
+        } ],
+        "startTime" : "14:00"
+      }, {
+        "endTime" : "15:15",
+        "sessions" : [ {
+          "items" : [ 107 ]
+        }, {
+          "items" : [ 113 ]
+        }, {
+          "items" : [ 119 ]
+        }, {
+          "items" : [ 115 ]
+        }, {
+          "items" : [ 127 ]
+        } ],
+        "startTime" : "14:30"
+      }, {
+        "endTime" : "15:30",
+        "sessions" : [ {
+          "items" : [ 149 ]
+        } ],
+        "startTime" : "15:15"
+      }, {
+        "endTime" : "16:15",
+        "sessions" : [ {
+          "items" : [ 126 ]
+        }, {
+          "items" : [ 114 ]
+        }, {
+          "items" : [ 120 ]
+        }, {
+          "items" : [ 112 ]
+        }, {
+          "items" : [ 117 ]
         } ],
         "startTime" : "15:30"
       }, {
-        "endTime" : "16:40",
+        "endTime" : "16:30",
         "sessions" : [ {
-          "items" : [ 131 ]
-        }, {
-          "items" : [ 140 ]
-        }, {
-          "extend" : 2,
-          "items" : [ 130 ]
+          "items" : [ 147 ]
         } ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ {
-          "items" : [ 115 ]
-        }, {
-          "items" : [ 140 ]
-        } ],
-        "startTime" : "16:50"
+        "startTime" : "16:15"
       } ],
       "tracks" : [ {
         "title" : "Expo hall"
       }, {
         "title" : "Conference hall"
       }, {
-        "title" : "Workshops hall"
+        "title" : "Conference hall"
+      }, {
+        "title" : "Conference hall"
+      }, {
+        "title" : "Conference hall"
       } ]
     }
   },
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mete-atamel-windows-and-net-on-google-cloud-platform",
-      "speakers" : [ "mete_atamel", "adrian_kajda" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Windows and .NET on Google Cloud Platform "
+      "description" : "",
+      "language" : "英文",
+      "presentation" : "",
+      "speakers" : [ "takuo_suzuki" ],
+      "tags" : [ "UI/UX", "Material Design" ],
+      "title" : "Material Design 2.0"
     },
     "102" : {
       "complexity" : "Beginner",
-      "description" : "Do you remember the game Simon says from the 80s? I don’t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We’ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
-      "language" : "English",
-      "speakers" : [ "mete_atamel" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Hands-on gRPC experience building your own multiplayer game client"
+      "description" : "",
+      "language" : "中文",
+      "speakers" : [ "charlie_tsai" ],
+      "tags" : [ "Android Studio", "Android" ],
+      "title" : "Android Studio"
     },
     "103" : {
-      "complexity" : "Intermediate",
-      "description" : "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/yonatan-levin-knock-knock-whos-there-doze",
-      "speakers" : [ "yonatan_levin" ],
-      "tags" : [ "Android" ],
-      "title" : "Knock knock! Who's there? Doze."
+      "complexity" : "Beginner",
+      "description" : "科技始終來自於惰性，是「人」才會有惰性啊！能用上最新技術的產品當然令開發者興奮，但人們是否喜愛這項產品、對它有什麼樣的印象就很難說了...",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "akane_lee" ],
+      "tags" : [ "Design?" ],
+      "title" : "科技不是問題唯一解法，請先解決「人」"
     },
     "104" : {
-      "complexity" : "Beginner",
-      "description" : "It's no longer just about digitizing our environment. It’s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This “Internet of Things” will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sascha-wolter-the-physical-web-context-is-king",
-      "speakers" : [ "sascha_wolter" ],
-      "tags" : [ "Web" ],
-      "title" : "The Physical Web: Context is King!",
-      "videoId" : "fLfQNp75kbc"
+      "complexity" : "Senior",
+      "description" : "1. What is architecture?\n2. Port and Adapter\n3. Dependency principle\n4. Onion architecture\n5. A simple android example",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "YanBin" ],
+      "tags" : [ "Android", "Clean Architecture" ],
+      "title" : "Mobile Clean Architecture",
+      "videoId" : ""
     },
     "105" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/rustem-arzymbetov-intro-to-tensorflow",
-      "speakers" : [ "rustem_arzymbetov" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Intro to TensorFlow",
-      "videoId" : "e3cuSz1hEPs"
+      "description" : "如果你有如下的疑問，那麼可能在這個議程裡，你將可以更進一步獲得了解這些問題的本質\n* 與PM或是非技術人員溝通需求有困難？\n\n什麼是行為趨動開發(BDD)、什麼是實例化需求(SBE)\n* 書上寫的單元測試，看起來都很簡單，但實務上又下不了手\n\n什麼是測試趨動開發(TDD)\n* Coverage 100% 是不是代表程式品質很好？\n\n談測試的品質\n* 誰來寫 UI Test ?\n\n工程師 --- Android UI Testing\nQA --- Appium、calabash\n\n* 有沒有不會寫程式 又不懂 Android Studio 的人用的UI測試程式？\n用桌機程式做一個測試機器人吧",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "aki_yu" ],
+      "tags" : [ "iOS" ],
+      "title" : "Test Journey-  by Mouth, by Code, by Hands and By Automation Tool",
+      "videoId" : ""
     },
     "106" : {
       "complexity" : "Beginner",
-      "description" : "Fuelio. Success story (I'll write more info later)",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ "adrian_kajda" ],
-      "tags" : [ "Android" ],
-      "title" : "Fuelio. Success story",
-      "videoId" : "qK7ysoohsaM"
+      "description" : "to be done by Cage",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "cage" ],
+      "tags" : [ "Cloud" ],
+      "title" : "Cloud Build 101",
+      "videoId" : ""
     },
     "107" : {
       "complexity" : "Beginner",
-      "description" : "There's been much discussion about Progressive Web Apps. They're still a relatively new model. In this talk, I'll summarise few options and techniques for getting started with your own Progressive Web App",
-      "extend" : 2,
-      "language" : "English",
-      "speakers" : [ "gerard_sans" ],
-      "tags" : [ "Web" ],
-      "title" : "Introduction to Progressive Web Apps in Angular 2"
+      "description" : "Cloud不就應該要這麼用！本次以介紹基於Google Kubernetes Engine的開發與自動化CICD流程、Log的管理與進階監控，讓您一次了解開發流程中的Google Cloud各項服務，輕鬆上雲端！",
+      "language" : "中文",
+      "speakers" : [ "simon_su" ],
+      "tags" : [ "Cloud" ],
+      "title" : "Google Cloud Platform從開發到管理"
     },
     "108" : {
       "complexity" : "Intermediate",
-      "description" : "Angular 2 introduces a new Data Architecture based on Reactive Programming using RxJS 5. We are really excited to see the new approach using Observable sequences aka Observables. We will cover a basic introduction of Angular 2 followed by RxJS 5 and the new HTTP API covering some basic use cases.",
+      "description" : "Many abusing cases shorten game product life. To prevent this, Netmarble had made some kind of rule based detection system. However the detection system could not detect changes from update. It requires huge resources to fix it on every update events. To work more efficiently, Netmarble decided replacing rule based detection system to ML based detection system. Let us introduce our new system.",
       "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/gerard-sans-new-data-architecture-in-angular-2",
-      "speakers" : [ "gerard_sans" ],
+      "presentation" : "",
+      "speakers" : [ "yong_lee", "jenniefer_oh" ],
       "tags" : [ "Web" ],
-      "title" : "New Data Architecture in Angular 2",
-      "videoId" : "pgmLkwD-mqM"
+      "title" : "Game Anomaly Detection Using Tensorflow on GCP ML Engine",
+      "videoId" : ""
     },
     "109" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jozef-vodicka-how-much-money-firebase-can-save-you",
-      "speakers" : [ "jozef_vodicka" ],
-      "tags" : [ "Cloud" ],
-      "title" : "How much money Firebase can save you"
+      "description" : "這幾年前端框架的興起，讓所有人陷入挑選前端框架的選擇障礙。本次演說將為大家帶來 Angular 框架的各種完美的開發體驗，告訴大家如何透過 Angular 快速掌握複雜的前端世界。",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "will_huang" ],
+      "tags" : [ "Angular/Web" ],
+      "title" : "完美的 Angular 7 前端開發體驗"
     },
     "110" : {
-      "complexity" : "Intermediate",
-      "description" : "There's a lot of hype around MVP pattern in the Android world. Now it's time for concretes. During his presentation Mateusz will tell you how IG divided responsibilities between pattern's different components, how they tied Presenters' and Views' lifecycles and what they did to make it all testable. If you'd love to make your Fragments' and Activities' code simpler and increase your coverage, but you're confused how to glue it all together - don't miss Mateusz's talk.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/mateusz-herych-the-ultimate-guide-to-mvp-pattern-on-android",
-      "speakers" : [ "mateusz_herych" ],
+      "complexity" : "Beginner",
+      "description" : "1. New features as module\n2. The benefit\n3. Examples",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "nevin" ],
       "tags" : [ "Android" ],
-      "title" : "The ultimate guide to MVP pattern on Android"
+      "title" : "Module base Android Development"
     },
     "111" : {
       "complexity" : "Intermediate",
-      "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/kseniia-shumelchyk-building-modular-architecture-apps-with-dagger-2",
-      "speakers" : [ "david_mayboroda" ],
-      "tags" : [ "Android" ],
-      "title" : "Building modular architecture apps with Dagger 2"
+      "description" : "This talk demonstrate that how cloud services empowered data scientists with a production-ready environment to use their familiar tools to deal with such enriched information provided by OSM. (temp)",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "summit_suen" ],
+      "tags" : [ "Data Related", "full stack" ],
+      "title" : "Cloud Empowered Geographical Insights with R (temp)"
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
-      "language" : "English",
-      "speakers" : [ "konrad_dzwinel" ],
-      "tags" : [ "Web" ],
-      "title" : "Building web apps in 2016"
+      "description" : "* Why push notification\n* 使用技術介紹- service worker & redis & firebase\n* 網站內被動推播(passive notification)\n* 網站外主動推播(active notification)\n1) APP 推播\n2) Mobile Web推播\n3) Desktop 播播\n* 推播後台系統整合\n* Demo\n* Q&A",
+      "language" : "中文",
+      "speakers" : [ "ivan" ],
+      "tags" : [ "ReactJS", "NodeJS", "Javascript", "Python(Django)", "PHP", "MySQL", "C/C++", "C#", "Scrum/Agile/PMP" ],
+      "title" : "A push notification system integrated with service worker, firebase cloud message and redis"
     },
     "113" : {
       "complexity" : "Intermediate",
-      "description" : "Microservices is coming with a certain workload and constraints. Let's try to see how Google Cloud Platform and App Engine can help the overall microservices implementation.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jean-baptiste-clion-microservices-in-google-app-engine",
-      "speakers" : [ "jean-baptiste_clion" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Microservices in Google App Engine"
+      "description" : "1. Why we need micro service?\n2. What is micro service and how GCP can help us?\n3. How we manage our micro-service with G8?\n4. How we build common protocol with G8?\n5. Future work",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "david_chen" ],
+      "tags" : [ "Cloud", "ML" ],
+      "title" : "Build your own PAAS like Micro-Service on GKE."
     },
     "114" : {
       "complexity" : "Intermediate",
-      "description" : "Storing account information is a common challenge many app developers face, and is often tackled in tailored solutions. Isn't there some strategy to store account credentials in a centralized place?\n\nWhat about considerations for multiple accounts? Security concerns? And when should or could I synchronize data?\n\nAndroid offers a powerful—and underrated—account manager. Let's explore the possibilities together and lay out an architecture for engineering an Android app based on accounts.",
-      "language" : "English",
-      "speakers" : [ 12 ],
-      "tags" : [ "Android" ],
-      "title" : "I’ve been doing some syncing…"
+      "description" : "1.what is google home ; what can it do, what can it change your life.\n2.introduce diagdflow and firebase\n3.live coding",
+      "language" : "中文",
+      "speakers" : [ "wolke_lin" ],
+      "tags" : [ "IOT", "DialogFlow", "firebase" ],
+      "title" : "develop the Google Home Voice App with diagflow and firebase "
     },
     "115" : {
       "complexity" : "Beginner",
-      "description" : "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/aleksander-piotrowski-android-tool-chain-and-run-time-improvements-in-n",
-      "speakers" : [ "paul_lammertsma" ],
-      "tags" : [ "Android" ],
-      "title" : "Android tool-chain and run-time improvements in N",
-      "videoId" : "WqULb6bdwwg"
+      "description" : "是的，我們做了一款七龍珠中的戰鬥力探測器，透過人臉辨識，探測工程師的開源貢獻力。本次演講內容有:\n1. 初心者的人臉辨識技術 ，Face Recognition API\n2. 使用 Golang 在 Github 上做 Data Mining\n3. 從零開始的 side project，開發心路歷程與收穫分享\n\n內容包含 Face Recognition API，Github Data Mining，難度入門，適合沒有經驗但想上手人臉辨識的人。",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "david_chang" ],
+      "tags" : [ "DevOps", "Back End" ],
+      "title" : "從零開始的人臉辨識，七龍珠戰鬥力探測器",
+      "videoId" : ""
     },
     "116" : {
       "complexity" : "Beginner",
@@ -492,39 +422,39 @@
     },
     "117" : {
       "complexity" : "Beginner",
-      "description" : "Data is becoming one of the main decision-makers in an organisation. The more data we have the more challenges we face every day. Every decision we make will have long-term implications. In the talk we will go through different approaches to the data pipelines: from a simple in-house built, with comparison to open source solutions based on Apache stack(Apache Kafka, Apache Samza, Spark) and finally hosted auto-scaling solutions based Amazon(S3, Kinesis, Lambda, EMR) or Google(Pub/Sub, Dataflow, BigQuery). The talk covers the main aspects of data collecting processes altogether with further implications for data processing, highlighting appropriate solutions and architectures for the particular use-cases. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/sergii-khomenko-building-data-pipelines-from-simple-to-more-advanced-hands-on-experience",
-      "speakers" : [ "carmen_popovicu" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Building data pipelines: from simple to more advanced - hands-on experience"
+      "description" : "本議程將分享如何實作 Kubernetes Bare metal Load Balancer，由於目前 Kubernetes Service Load Balancer 類型大多只有在公有雲平台上才會支援，但若要在公司建立一套 Kubernetes 來使用，且又需要支援 Kubernetes Service Load Balancer 的話，我們該怎麼辦呢？來聽本次議程就對了!!我將會分享以 IPVS 與自行研發的 Kubernetes Operator 來實現其功能。",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "kairen" ],
+      "tags" : [ "Go", "Kubernetes", "OpenStack", "Ceph", "iOS" ],
+      "title" : "自幹 IPVS-based 的 Kubernetes Bare metal Load Balancer"
     },
     "118" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/dmytro-danylyk-kotlin-plus-android",
-      "speakers" : [ "sergii_khomenko" ],
-      "tags" : [ "Android" ],
-      "title" : "Kotlin + Android"
+      "description" : "-A glance at Detection AI as it stands today, it’s potential, and how it can evolve and impact the future.\n-Personal anecdote about my first experience with Detection AI\n-A few quick demos of simple A.I. detection, as well as a walkthrough detailing how easy it can be for any of the people attending this meet-up utilize the same technology (using Google Vision).",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "david_chang_gcpug" ],
+      "tags" : [ "iOS", "Python", "Javascript" ],
+      "title" : "Detection A.I"
     },
     "119" : {
       "complexity" : "Beginner",
-      "description" : "Writing Android apps is usually fun because you are actually building something. But what about writing tests? Boring stuff. Errr, UI tests? I am a developer!\n\nIn this talk we will take a look at options for UI tests on Android, why you should write them and how they help you with your app development workflow. No more untested apps!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jana-moudra-hands-on-with-ui-testing-for-android-developers",
-      "speakers" : [ "dmytro_danylyk" ],
-      "tags" : [ "Android" ],
-      "title" : "Hands-on with UI testing for Android developers"
+      "description" : "Android TV Develop",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "lyon" ],
+      "tags" : [ "Android", "Java" ],
+      "title" : "Android TV "
     },
     "120" : {
       "complexity" : "Beginner",
-      "description" : "\"Remember back when AJAX completely changed what was possible in the desktop web? Progressive web apps are that same fundamental shift for the mobile web.\" said Rahul Row-Chowdhury (Google’s product lead for chrome and the web platform) on stage at Google I/O 2016. - Progressive web apps use service workers, app shell, push notifications, RAIL and other capabilities to deliver an app-like user experience.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/jakub-skvara-progressive-web-apps-prepare-your-web-for-2017",
-      "speakers" : [ "jana_moudra" ],
-      "tags" : [ "Web" ],
-      "title" : "Progressive web apps - prepare your web for 2017"
+      "description" : "google action，dialogflow，範例",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "kevin_chiu" ],
+      "tags" : [ "Android" ],
+      "title" : "Google Action"
     },
     "121" : {
       "complexity" : "Intermediate",
@@ -536,143 +466,109 @@
     },
     "122" : {
       "complexity" : "Intermediate",
-      "description" : "I would like to talk about architecture of our Settle Up app. It's all based on new Firebase announced on I/O with the help of modern frameworks like Rx, Kotlin and MVP.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/david-vavra-firebase-plus-kotlin-plus-rxjava-plus-mvp-practical-tips",
-      "speakers" : [ "jakub_škvára" ],
+      "description" : "對大型軟體來說，良好的架構可以讓你寫出更好維護的程式碼。Dagger 是由 Android 大神 Jake wharton 所開發的 dependency injection framework，本場次將帶你從基礎入門如何使用並分析其背後精神 / 原理等深入探討。",
+      "language" : "中文",
+      "presentation" : "",
+      "speakers" : [ "jintin" ],
       "tags" : [ "Android" ],
-      "title" : "Firebase + Kotlin + RxJava + MVP: Practical Tips",
-      "videoId" : "b9NgjqM6dvk"
+      "title" : "Dagger 是要割什麼?",
+      "videoId" : ""
     },
     "123" : {
       "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "david_vávra" ],
+      "description" : "在本次演講中，會跟大家分享如何透過 Golang 撰寫 Kubernetes 相關的應用程式，透過該應用程式我們能夠更直接且直覺地去控管整個 Kubernetes 叢集並且自行實現一個更有彈性的 Container as a Serivce 平台。除了開發之外，也會跟大家分享要如何透過常見的 CI/CD 工具來幫自行實現的 CaaS 平台進行測試與部屬。",
+      "language" : "中文",
+      "speakers" : [ "hwchiu" ],
       "tags" : [ "Web" ],
-      "title" : "TBD"
+      "title" : "手把手打造自己的 CaaS (Container As a Service) Platform"
     },
     "124" : {
       "complexity" : "Intermediate",
-      "description" : "You are tired of building every patch for your QA ? Still deploying to google play manually ? You still think that build server is something that you don't need ? Than I will try to show you how you can make life of your team easier with CI.",
+      "description" : "",
       "language" : "English",
-      "speakers" : [ "valentyn_shybanov" ],
-      "tags" : [ "Android" ],
-      "title" : "Continues Integration in Android",
-      "videoId" : "MmGDQkgknfY"
+      "speakers" : [ "peter_lo" ],
+      "tags" : [  ],
+      "title" : "",
+      "videoId" : ""
     },
     "125" : {
       "complexity" : "Intermediate",
-      "description" : "TBD",
-      "language" : "English",
-      "speakers" : [ "sergiy_mokienko" ],
-      "tags" : [ "Cloud" ],
-      "title" : "Kubernetes in a real world"
+      "description" : "",
+      "language" : "中文",
+      "speakers" : [ "ted_chien" ],
+      "tags" : [  ],
+      "title" : "AR Core",
+      "videoId" : ""
     },
     "126" : {
       "complexity" : "Intermediate",
-      "description" : "Imagine the world where you can get any application, look into its code (even if it is not open sourced) and modify any conditional operator in any way you like. Welcome, you are in the Android applications world! Let's discover how anyone can decompile your app and, for example, hack your 'if' operators. For the beginning, we will play a role of a script kiddie and try to hack some simple app. After this, we will pretend security-conscious Android developers and try to think how we can protect ourselves.",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/michael-pustovit-android-hacking-for-dummies-if-operator-demolytion",
-      "speakers" : [ "ihor_dvoretskyi" ],
+      "description" : "",
+      "language" : "中文",
+      "speakers" : [ "William", "Prada", "Cateyes", "Vox", "洪彥彬" ],
       "tags" : [ "Android" ],
-      "title" : "Android hacking for dummies: ‘if’ operator demolytion",
-      "videoId" : "We04nyIIsA0"
+      "title" : "Android FireChat",
+      "videoId" : ""
     },
     "127" : {
-      "complexity" : "Intermediate",
-      "description" : "If you have any experience with Android Media Player, you definitely know how hard it is to prepare it and do not lose your mind. ExoPlayer - is an alternative, which can help you deal with media with much less pain. So lets discuss if it really a \"silver bullet\" or yet another State Machine hell.",
-      "language" : "Ukrainian",
-      "presentation" : "https://speakerdeck.com/gdglviv/anton-minashkin-exoplayer-media-playback-without-pain-almost-dot-dot-dot",
-      "speakers" : [ "michael_pustovit" ],
-      "tags" : [ "Android" ],
-      "title" : "ExoPlayer: Media playback without pain (almost...)"
-    },
-    "128" : {
       "complexity" : "Beginner",
-      "description" : "Google announced Android Wear 2.0 become available this Fall. This major update brings some revolutionary changes in platform, that should change our approaches in developing wearable apps, including freedom of BLE tethering, system support for complications and activity recognition by GoogleFit, developed mainly for Android Wear 2.0. We will talk deeper about these new features and look at some ways to implement them in the code.",
-      "language" : "English",
-      "speakers" : [ "anton__minashkin" ],
+      "description" : "Google Play just required all its Apps to target API 26 since November 1st. I'll talk about all these new requirements and a library I've open sourced to help fix one of the biggest part of the behavior change -- run-time permissions. I might also cover what checks we can do to assure our Apps don't break in new behaviors if we have enough time for this.",
+      "language" : "中文",
+      "speakers" : [ "mTwTm" ],
       "tags" : [ "Android" ],
-      "title" : "Android Wear 2.0: Great Changes Upcoming this Fall"
+      "title" : "Android Permission Handler to meet the Google Play App Guidelines",
+      "videoId" : ""
     },
-    "129" : {
-      "complexity" : "Intermediate",
-      "description" : "Accessibility is a very important step to make sure that your app reaches everyone in an easy and fun way to use. \nGood accessibility support means much more than just making sure the app supports screen readers, different fonts sizes and good contrast ratios. It is a learning process, and one in which we ourselves still have much to learn and explore. ",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/resul-caner-yildirim-accessibility-on-android",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Accessibility on Android"
-    },
-    "130" : {
-      "complexity" : "Intermediate",
-      "description" : "Wearable devices are one of the most popular things nowadays. Specially, after the Apple Watch, we finally get the whole picture of the entire list of products and their features. Now, we can talk about how we can design a user experience for this type of devices.\nEvery platform has it's own design principles and approaches. But, in the core, they all need to follow same core rules. So, how we combine this core requirements with Google's Material Design and use them on an Android Wear device? Let's learn!",
-      "language" : "English",
-      "speakers" : [ "constantine_mars" ],
-      "tags" : [ "Android" ],
-      "title" : "Designing an Android Wear Application"
-    },
-    "131" : {
-      "complexity" : "Intermediate",
-      "description" : "In this talk, I will reveal you all the deepest secrets of using MVVM architecture in Android. \nWe will discuss on how to organise your application, views, models, how to retrieve data from the model requested from the view via data binding. \nLightweight Activities and Fragments, is it even possible? \n\nYes, and I will show you how to achieve this with MVVM and DataBinding!",
-      "language" : "English",
-      "presentation" : "https://speakerdeck.com/gdglviv/roman-herasymenko-deal-with-it-android-databinding-explained",
-      "speakers" : [ "resul_caner__yildirim" ],
-      "tags" : [ "Android" ],
-      "title" : "Deal with it: Android DataBinding explained"
-    },
-    "132" : {
-      "description" : "Get your badge, coffee, enjoy talking with tech edicts around",
+    "141" : {
+      "description" : "報到並且領取 Badge",
       "icon" : "registration",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
-      "title" : "Registration & morning Coffee"
+      "title" : "報到"
     },
-    "133" : {
+    "142" : {
       "description" : "Foooooooood!",
       "icon" : "lunch",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
       "title" : "Lunch"
     },
-    "134" : {
+    "143" : {
       "description" : "Coffeeeeeee!",
       "icon" : "coffee-break",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
-      "title" : "Coffee break"
+      "title" : "下午茶時間 Coffee break"
     },
-    "135" : {
+    "144" : {
       "description" : "Coffeeeeeee!",
       "icon" : "coffee-break",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
       "title" : "Morning coffee"
     },
-    "136" : {
-      "description" : "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+    "145" : {
+      "description" : "慣例的開場致詞",
       "icon" : "opening",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b",
-      "language" : "English",
-      "title" : "GDG DevFest Ukraine 2016 Opening"
+      "language" : "中文",
+      "title" : "GDG DevFest Taipei 2018 Opening"
     },
-    "137" : {
+    "146" : {
       "description" : "Afterparty is a great time to have some fun and meet new people",
       "icon" : "party",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
       "title" : "Afterparty & Networking"
     },
-    "138" : {
-      "description" : "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+    "147" : {
+      "description" : "請確認是否有遺漏物品，請在離開前將識別證帶還給工作人員，Badge 可留作紀念。",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed",
-      "title" : "Conference closing and contest winners announcements"
+      "title" : "閉幕"
     },
-    "139" : {
+    "148" : {
       "description" : "",
-      "language" : "English",
+      "language" : "中文",
       "title" : "Keynote"
     },
-    "140" : {
-      "description" : "TBD",
+    "149" : {
+      "description" : "Break",
       "language" : "English",
-      "title" : "TBD"
+      "title" : "Break"
     }
   },
   "speakers" : {
@@ -700,7 +596,7 @@
       "order" : 0,
       "title" : "Developer Relation, Reginal Lead"
     },
-    "Akane Lee" : {
+    "akane_lee" : {
       "bio" : "如果設計師能和工程師順利合作，那麼老公也就能準時下班了吧。因此努力推廣 UI/UX 設計方面的知識、技術，並分享自己在專案開發上踩過的各種坑與心得。",
       "company" : "",
       "companyLogo" : "",
@@ -1148,24 +1044,24 @@
       "order" : 21,
       "title" : "Software Engineer"
     },
-    "sergii_khomenko" : {
-      "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
-      "company" : "Stylight",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Munich, Germany",
+    "mTwTm" : {
+      "bio" : "mTwTm currently works as a Senior Software Engineer at Mozilla. He has dedicated his time on Android since his first job. He is usually interested in optimizing Android background behaviors, building with Gradle and apk size optimization. He is recently mainly contributing to Firefox Rocket, a Webview based browser. He is, also, an Open Source believer. He currently writes everything in Java but he also dreams to learn more about Kotlin. ",
+      "company" : "Mozilla",
+      "companyLogo" : "",
+      "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mozilla_logo.svg/280px-Mozilla_logo.svg",
+      "country" : "Taiwan",
       "featured" : true,
-      "name" : "Sergii Khomenko",
-      "photo" : "/images/people/sergii_khomenko.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/sergii_khomenko.jpg",
-      "shortBio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisati...",
+      "name" : "mTwTm",
+      "photo" : "/images/speakers/mTwTm.jpg",
+      "photoUrl" : "../images/speakers/mTwTm.jpg",
+      "shortBio" : "mTwTm currently works as a Senior Software Engineer at Mozilla. He has dedicated his time on Android since his first job. He is usually interested in optimizing Android background behaviors, building with Gradle and apk size optimization. He is recently mainly contributing to Firefox Rocket, a Webview based browser. He is, also, an Open Source believer. He currently writes everything in Java but he also dreams to learn more about Kotlin. ",
       "socials" : [ {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/lc0d3r",
-        "name" : "Twitter"
+        "icon" : "stackoverflow",
+        "link" : "https://stackoverflow.com/users/3591480/teng-pao-yu",
+        "name" : "StackOverflow"
       } ],
-      "order" : 23,
-      "title" : "Data Scientist"
+      "order" : 21,
+      "title" : "Senior Software Engineer"
     }
   },
   "team" : [ {
@@ -1230,15 +1126,7 @@
       "name" : "黃詩涵",
       "photo" : "/images/team/shih_han.jpg",
       "photoUrl" : "../images/team/shih_han.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
+      "socials" : [],
       "order" : 3,
       "title" : "Party and happiness"
     } ],
