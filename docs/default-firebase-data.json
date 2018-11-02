@@ -205,7 +205,7 @@
         "sessions" : [ {
           "items" : [ 103 ]
         }, {
-          "items" : [ 118 ]
+          "items" : [ 113 ]
         }, {
           "items" : [ 110 ]
         }, {
@@ -225,7 +225,7 @@
         "sessions" : [ {
           "items" : [ 107 ]
         }, {
-          "items" : [ 113 ]
+          "items" : [ 114 ]
         }, {
           "items" : [ 119 ]
         }, {
@@ -245,9 +245,9 @@
         "sessions" : [ {
           "items" : [ 126 ]
         }, {
-          "items" : [ 114 ]
-        }, {
           "items" : [ 120 ]
+        }, {
+          "items" : [ 118 ]
         }, {
           "items" : [ 112 ]
         }, {
@@ -262,15 +262,15 @@
         "startTime" : "16:15"
       } ],
       "tracks" : [ {
-        "title" : "Expo hall"
+        "title" : "101"
       }, {
-        "title" : "Conference hall"
+        "title" : "102"
       }, {
-        "title" : "Conference hall"
+        "title" : "103"
       }, {
-        "title" : "Conference hall"
+        "title" : "201"
       }, {
-        "title" : "Conference hall"
+        "title" : "202"
       } ]
     }
   },
@@ -323,7 +323,7 @@
     },
     "106" : {
       "complexity" : "Beginner",
-      "description" : "to be done by Cage",
+      "description" : "持續性整合與發佈 (Continuous Integration / Continuous Delivery) 是 DevOps 文化中重要的一環。持續性整合(CI)可以讓軟體每一次變動可以持續、自動的進行驗証(Build、Test、Source Coce Analytics etcs.)。當驗証完全且成功時，可以進一步的整合到自動化發佈/部署(CD)(Docker Images、kubernetes、artfacts etcs.)\n\n在 2018 全球 DevOps 現況調查報告中觀察到軟體交付的效能已經成為公司竟爭優勢的條件之一。持續性整合與發佈 (Continuous Integration / Continuous Delivery) 已經成為軟體開發人員必備的技能之一\n\nGoogle Cloud Build (前身為 Container Build) 基於 Google Cloud Platfrom 提出了一套 CI/CD 的工具，讓開發者可以靈活的持續建構、測試和部署。本次的講提內容將帶你了解 Google Cloud Build 的基本操作方式",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "cage" ],
@@ -492,7 +492,7 @@
       "videoId" : ""
     },
     "125" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Beginner",
       "description" : "",
       "language" : "中文",
       "speakers" : [ "ted_chien" ],
@@ -501,7 +501,7 @@
       "videoId" : ""
     },
     "126" : {
-      "complexity" : "Intermediate",
+      "complexity" : "Beginner",
       "description" : "",
       "language" : "中文",
       "speakers" : [ "William", "Prada", "Cateyes", "Vox", "洪彥彬" ],
@@ -1087,48 +1087,75 @@
         "name" : "Blog"
       } ],
       "order" : 0,
-      "title" : "Website and sponsors"
+      "title" : "GDG Organizer"
     }, {
       "name" : "Takuma Lee",
       "photo" : "/images/team/takuma_lee.jpg",
       "photoUrl" : "../images/team/takuma_lee.jpg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/vmgsahm1",
+        "name" : "Twitter"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
+        "link" : "https://www.facebook.com/vmgsahm1",
         "name" : "Facebook"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/TakumaMochizuki",
+        "name" : "Github"
       } ],
       "order" : 1,
-      "title" : "Social and media"
+      "title" : "不上班打雜工"
     }, {
       "name" : "Ahdaa Yeh",
       "photo" : "/images/team/ahdaa_yeh.jpg",
       "photoUrl" : "../images/team/ahdaa_yeh.jpg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
       "order" : 2,
-      "title" : "Speakers"
+      "title" : "GDG Co-organizer"
     }, {
       "name" : "黃詩涵",
       "photo" : "/images/team/shih_han.jpg",
       "photoUrl" : "../images/team/shih_han.jpg",
       "socials" : [],
       "order" : 3,
-      "title" : "Party and happiness"
+      "title" : ""
+    }, {
+        "name": "Cateyes Lin",
+        "photo": "/images/team/cateyes_lin.png",
+        "photoUrl": "../images/team/cateyes_lin.png",
+        "socials": [
+          {
+            "icon": "github",
+            "link": "https://github.com/CateyesLin",
+            "name": "Github"
+          }
+        ],
+        "order": 4,
+        "title": "Chocolabs 工友 - 工程師好朋友"
+    }, {
+      "name" : "Jast Lai",
+      "photo" : "/images/team/jast.jpg",
+      "photoUrl" : "../images/team/jast.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jast.vacaty",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/jastlaiTW",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jastpower884",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "https://medium.com/jastzeonic",
+        "name" : "WebSite"
+      } ],
+      "order" : 5,
+      "title" : "神殿門口掃地的"
     } ],
     "title" : "核心團隊"
   }, {
@@ -1146,47 +1173,121 @@
         "name" : "Twitter"
       } ],
       "order" : 0,
-      "title" : "Cloud stream"
+      "title" : "Android Developer"
     }, {
-      "name" : "劉威宏",
+      "name" : "Wesley",
       "photo" : "/images/team/weihung_liu.jpeg",
       "photoUrl" : "../images/team/weihung_liu.jpeg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
       "order" : 1,
-      "title" : "Android Stream"
-    }, {
-      "name" : "徐小繹",
-      "photo" : "/images/team/weihung_liu.jpeg",
-      "photoUrl" : "../images/team/weihung_liu.jpeg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "order" : 1,
-      "title" : "Android Stream"
+      "title" : "CTO"
     } ],
     "title" : "公關組"
+  }, {
+    "members" : [ {
+      "name" : "Dion",
+      "photo" : "/images/team/dion.jpg",
+      "photoUrl" : "../images/team/dion.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/babogoos",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/kai-siang-jhang-01074385/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/babogoos",
+        "name" : "Github"
+      } ],
+      "order" : 0,
+      "title" : "Mobile Application Engineer"
+    }, {
+      "name" : "Chloe Hsu",
+      "photo" : "/images/team/ChloeHsu.jpg",
+      "photoUrl" : "../images/team/ChloeHsu.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/houhou.xu",
+        "name" : "Facebook"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/chloe722",
+        "name" : "Github"
+      } ],
+      "order" : 1,
+      "title" : "Android Developer"
+    } ],
+    "title" : "議程組"
+  }, {
+    "members" : [ {
+      "name" : "吳俊逸",
+      "photo" : "/images/team/ymow.jpg",
+      "photoUrl" : "../images/team/ymow.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/ymow.wu",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ymow",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/ymow",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.ymow.net/",
+        "name" : "WebSite"
+      } ],
+      "order" : 0,
+      "title" : "Product Manager"
+    }, {
+      "name" : "Wenny Li",
+      "photo" : "/images/team/wenyi.JPG",
+      "photoUrl" : "../images/team/wenyi.JPG",
+      "order" : 1,
+      "title" : "Android Developer"
+    } ],
+    "title" : "記錄組"
+  }, {
+    "members" : [ {
+      "name" : "Cage",
+      "photo" : "/images/team/cage.png",
+      "photoUrl" : "../images/team/cage.png",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/cage.chung",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/CageChung",
+        "name" : "Twitter"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/cage1016",
+        "name" : "Github"
+      }, {
+        "icon" : "website",
+        "link" : "https://kaichu.io/",
+        "name" : "WebSite"
+      } ],
+      "order" : 0,
+      "title" : "Senior Engineer"
+    }, {
+      "name" : "Lin HsinHung",
+      "photo" : "/images/team/HsinHungLin.JPG",
+      "photoUrl" : "../images/team/HsinHungLin.JPG",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/gn00540683",
+        "name" : "Facebook"
+      } ],
+      "order" : 1,
+      "title" : "Android Developer"
+    } ],
+    "title" : "主持人組"
   } ],
   "tickets" : [ {
     "available" : true,
