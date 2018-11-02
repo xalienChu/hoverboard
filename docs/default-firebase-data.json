@@ -1188,6 +1188,20 @@
       } ],
       "order" : 1,
       "title" : "Android Developer"
+    }, {
+      "name" : "Wayling",
+      "photo" : "/images/team/Wayling.jpg",
+      "photoUrl" : "../images/team/Wayling.jpg",
+      "socials" : [ ],
+      "order" : 2,
+      "title" : "工程師"
+    }, {
+      "name" : "Nathan",
+      "photo" : "/images/team/nathan.jpeg",
+      "photoUrl" : "../images/team/nathan.jpeg",
+      "socials" : [ ],
+      "order" : 3,
+      "title" : "Android developer"
     } ],
     "title" : "議程組"
   }, {
@@ -1235,6 +1249,35 @@
       } ],
       "order" : 2,
       "title" : "動態攝影師"
+    }, {
+      "name" : "JC",
+      "photo" : "/images/team/jc.JPG",
+      "photoUrl" : "../images/team/jc.JPG",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/jiachengx",
+        "name" : "Facebook"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/jiachengx",
+        "name" : "Github"
+      } ],
+      "order" : 3,
+      "title" : "資深測試工程師"
+    }, {
+      "name" : "許煥",
+      "photo" : "/images/team/shuhuan.JPG",
+      "photoUrl" : "../images/team/shuhuan.JPG",
+      "socials" : [  ],
+      "order" : 4,
+      "title" : "master student"
+    }, {
+      "name" : "Adrie Chang",
+      "photo" : "/images/team/adriechang.jpg",
+      "photoUrl" : "../images/team/adriechang.jpg",
+      "socials" : [],
+      "order" : 5,
+      "title" : "APP Developer"
     } ],
     "title" : "記錄組"
   }, {
@@ -1279,6 +1322,20 @@
       "socials" : [  ],
       "order" : 1,
       "title" : "Android 研發工程師"
+    }, {
+      "name" : "Noah",
+      "photo" : "/images/team/NoahCse.jpg",
+      "photoUrl" : "../images/team/NoahCse.jpg",
+      "socials" : [  ],
+      "order" : 1,
+      "title" : "volunteer of FOSSASIA"
+    }, {
+      "name" : "Hill Hung",
+      "photo" : "/images/team/HillHung.jpg",
+      "photoUrl" : "../images/team/HillHung.jpg",
+      "socials" : [  ],
+      "order" : 1,
+      "title" : "IT Consultant"
     } ],
     "title" : "主持人組"
   }, {
