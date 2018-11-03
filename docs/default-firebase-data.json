@@ -253,8 +253,8 @@
       "description" : "",
       "language" : "中文",
       "speakers" : [ "charlie_tsai" ],
-      "tags" : [ "神秘交流" ],
-      "title" : "技術"
+      "tags" : [ "Android", "Android Studio" ],
+      "title" : "Android Studio"
     },
     "103" : {
       "complexity" : "Beginner",
@@ -267,7 +267,7 @@
     },
     "104" : {
       "complexity" : "Senior",
-      "description" : "1. What is architecture?\n2. Port and Adapter\n3. Dependency principle\n4. Onion architecture\n5. A simple android example",
+      "description" : "1. A brief introduction of Clean Architecture, what is boundary? usecase? dependency direction?\n 2. How to implement it on mobile application? I will show you what will it looks like. \n3. Discussion about threading, layering, packaging and modulization.",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "YanBin" ],
@@ -435,7 +435,7 @@
       "presentation" : "",
       "speakers" : [ "jintin" ],
       "tags" : [ "Android" ],
-      "title" : "Dagger 是要割什麼?",
+      "title" : "Dependency Injection: koin vs dagger",
       "videoId" : ""
     },
     "123" : {
@@ -548,6 +548,7 @@
       "name": "Takuo Suzuki / 鈴木拓生",
       "company": "Google Japan",
       "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl" : "../images/logos/google.svg",
       "country": "Tokyo, Japan",
       "photoUrl": "https://pbs.twimg.com/profile_images/378800000672537135/2f5a340d5df2fb9b3baed2b1e22ea660_400x400.jpeg",
       "shortBio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理...",
@@ -559,6 +560,32 @@
       ],
       "order" : 0,
       "title" : "Developer Relation, Reginal Lead"
+    },
+    "charlie_tsai" : {
+      "badges": [
+        {
+          "name": "google",
+          "description": "Software Engineer",
+          "link": "https://developers.google.com"
+        }
+      ],
+      "bio" : "前讀書會 co-organizer, 現 Google 工程師, 負責 Android Studio 的開發與維護",
+      "company": "Google London",
+      "companyLogo": "/images/logos/google.svg",
+      "companyLogoUrl" : "../images/logos/google.svg",
+      "country" : "London",
+      "featured" : true,
+      "name" : "Charlie Tsai",
+      "photo" : "",
+      "photoUrl" : "",
+      "shortBio" : "前讀書會co-organizer, 現 Google 工程師, 負責 Android Studio 的開發與維護",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/charlie-tsai",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 0,
+      "title" : "Software Engineer"
     },
     "akane_lee" : {
       "bio" : "如果設計師能和工程師順利合作，那麼老公也就能準時下班了吧。因此努力推廣 UI/UX 設計方面的知識、技術，並分享自己在專案開發上踩過的各種坑與心得。",
@@ -585,10 +612,10 @@
       "name" : "彥彬",
       "photo" : "/images/speakers/洪彥彬.png",
       "photoUrl" : "../images/speakers/洪彥彬.png",
-      "shortBio" : "擅長:Android, Unit test, OOP, kotlin 前Colorgy Android 工程師",
+      "shortBio" : "Android, Unit test, OOP, kotlin, Architecture",
       "socials" : [ {
         "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/%E5%BD%A5%E5%BD%AC-%E6%B4%AA-94b350b7/",
+        "link" : "https://www.linkedin.com/in/yanbin-hung-94b350b7/",
         "name" : "LinkedIn"
       } ],
       "order" : 1,
@@ -845,7 +872,7 @@
       "title" : "Developer"
     },
     "david_chang" : {
-      "bio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。投入  Kubernetes  開發與技術推廣，常出現於 SDN x Cloud Native Meetup 與 Golang Taipei。Golang Taipei 的 co-organizer。",
+      "bio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。投入  Kubernetes  開發與技術推廣，常出現於 SDN x Cloud Native Meetup 與 Golang Taipei。Golang Taipei 的 co-organizer。",
       "company" : "秘銀科技",
       "companyLogo" : "/images/speakers/companies/mithril.png",
       "companyLogoUrl" : "../images/speakers/companies/mithril.png",
@@ -989,21 +1016,6 @@
       "order" : 20,
       "title" : ""
     },
-    "charlie_tsai" : {
-      "bio" : "",
-      "company" : "Google",
-      "companyLogo" : "",
-      "companyLogoUrl" : "",
-      "country" : "",
-      "featured" : true,
-      "name" : "神秘嘉賓",
-      "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "",
-      "socials" : [ ],
-      "order" : 21,
-      "title" : "交流"
-    },
     "mTwTm" : {
       "bio" : "mTwTm currently works as a Senior Software Engineer at Mozilla. He has dedicated his time on Android since his first job. He is usually interested in optimizing Android background behaviors, building with Gradle and apk size optimization. He is recently mainly contributing to Firefox Rocket, a Webview based browser. He is, also, an Open Source believer. He currently writes everything in Java but he also dreams to learn more about Kotlin. ",
       "company" : "Mozilla",
@@ -1081,18 +1093,18 @@
       "order" : 3,
       "title" : ""
     }, {
-        "name": "Cateyes Lin",
-        "photo": "/images/team/cateyes_lin.png",
-        "photoUrl": "../images/team/cateyes_lin.png",
-        "socials": [
-          {
-            "icon": "github",
-            "link": "https://github.com/CateyesLin",
-            "name": "Github"
-          }
-        ],
-        "order": 4,
-        "title": "Chocolabs 工友 - 工程師好朋友"
+      "name": "Cateyes Lin",
+      "photo": "/images/team/cateyes_lin.png",
+      "photoUrl": "../images/team/cateyes_lin.png",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/CateyesLin",
+          "name": "Github"
+        }
+      ],
+      "order": 4,
+      "title": "Chocolabs 工友 - 工程師好朋友"
     }, {
       "name" : "Jast Lai",
       "photo" : "/images/team/jast.jpg",
@@ -1181,6 +1193,10 @@
         "icon" : "facebook",
         "link" : "https://www.facebook.com/houhou.xu",
         "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/chloe-ting-hsuan-hsu-5124a9a1",
+        "name" : "LinkedIn"
       }, {
         "icon" : "github",
         "link" : "https://github.com/chloe722",
@@ -1278,6 +1294,31 @@
       "socials" : [],
       "order" : 5,
       "title" : "APP Developer"
+    }, {
+      "name" : "葉智強",
+      "photo" : "/images/team/jichang.JPG",
+      "photoUrl" : "../images/team/jichang.JPG",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://www.flickr.com/photos/114787703@N02/",
+        "name" : "Flickr"
+      } ],
+      "order" : 6,
+      "title" : "網站工程師"
+    }, {
+      "name" : "Mindos",
+      "photo" : "/images/team/mindos.jpg",
+      "photoUrl" : "../images/team/mindos.jpg",
+      "socials" : [],
+      "order" : 7,
+      "title" : "Senior Software Engineer"
+    }, {
+      "name" : "shuailik",
+      "photo" : "/images/team/shualik.jpg",
+      "photoUrl" : "../images/team/shualik.jpg",
+      "socials" : [  ],
+      "order" : 6,
+      "title" : "Android 軟體工程師"
     } ],
     "title" : "記錄組"
   }, {
@@ -1369,6 +1410,43 @@
       } ],
       "order" : 1,
       "title" : "Android Engineer"
+    }, {
+      "name" : "陳建霖",
+      "photo" : "/images/team/hearsilent.jpg",
+      "photoUrl" : "../images/team/hearsilent.jpg",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/hearsilent",
+        "name" : "Github"
+      } ],
+      "order" : 2,
+      "title" : "Android Developer"
+    }, {
+      "name" : "Ray",
+      "photo" : "/images/team/raychang.jpg",
+      "photoUrl" : "../images/team/raychang.jpg",
+      "socials" : [ {
+        "icon" : "website",
+        "link" : "https://weizhe0422.github.io/",
+        "name" : "WebSite"
+      } ],
+      "order" : 3,
+      "title" : "工程師"
+    }, {
+      "name" : "Kevin Chiu",
+      "photo" : "/images/speakers/chlu_chiu.jpg",
+      "photoUrl" : "../images/speakers/chlu_chiu.jpg",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/chluchiufet",
+        "name" : "Github"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/kevinIOT/?modal=admin_todo_tour",
+        "name" : "Facebook"
+      } ],
+      "order" : 1,
+      "title" : "Senior Engineer"
     } ],
     "title" : "Codelab 助教組"
   } ],
