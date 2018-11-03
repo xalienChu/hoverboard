@@ -468,7 +468,7 @@
       "complexity" : "Beginner",
       "description" : "",
       "language" : "中文",
-      "speakers" : [ "William", "Prada", "Cateyes", "Vox", "洪彥彬" ],
+      "speakers" : [ "william", "prada", "cuber", "alex_wang" ],
       "tags" : [ "Android" ],
       "title" : "Android FireChat",
       "videoId" : ""
@@ -1034,6 +1034,74 @@
       } ],
       "order" : 21,
       "title" : "Senior Software Engineer"
+    },
+    "alex_wang" : {
+      "bio" : "Android開發經驗四年 \n去年畢業於趨勢學院 (Trend Micro) \n現任誠實蜜蜂(honestbee)工程師 \n喜歡淺顯易懂的程式風格 \n於是成了React Native傳教士",
+      "company" : "honestbee",
+      "companyLogo" : "/images/speakers/companies/honestbee.jpg",
+      "companyLogoUrl" : "../images/speakers/companies/honestbee.jpg",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "Alex",
+      "photo" : "/images/speakers/mTwTm.jpg",
+      "photoUrl" : "../images/speakers/mTwTm.jpg",
+      "shortBio" : "",
+      "socials" : [  ],
+      "order" : 22,
+      "title" : "Android / React Native Developer"
+    },
+    "william" : {
+      "bio" : "開發 Android、iOS 多年，目前正朝著全端努力著",
+      "company" : "KKBOX",
+      "companyLogo" : "/images/speakers/companies/kkbox.png",
+      "companyLogoUrl" : "../images/speakers/companies/kkbox.png",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "William",
+      "photo" : "/images/speakers/williwam.jpg",
+      "photoUrl" : "../images/speakers/williwam.jpg",
+      "shortBio" : "靠寫程式混口飯吃的業餘哲學家",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/showang",
+        "name" : "Github"
+      } ],
+      "order" : 23,
+      "title" : "Sr. Engineer"
+    },
+    "prada" : {
+      "bio" : "Build something and create the impacts to users. \nOver 6 years android development, I work on an app called PicCollage from 10M  to 100M(almost) downloads. Recently fall in love with AR/VR technology, please downloads it \nhttps://itunes.apple.com/us/developer/cardinal-blue/id381057842?mt=8",
+      "company" : "PicCollage",
+      "companyLogo" : "/images/speakers/companies/piccollage.png",
+      "companyLogoUrl" : "../images/speakers/companies/piccollage.png",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "Prada",
+      "photo" : "/images/speakers/prada.jpg",
+      "photoUrl" : "../images/speakers/prada.jpg",
+      "shortBio" : "News: https://www.smartm.com.tw/article/34313635cea3",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/prada.bear",
+        "name" : "Facebook"
+      } ],
+      "order" : 24,
+      "title" : "Developer Manager"
+    },
+    "cuber" : {
+      "bio" : "如果這個世界沒有 Android 就只能去北車乞討的工程師",
+      "company" : "Android Developer開發讀書會",
+      "companyLogo" : "/images/logos/TADSG_logo.png",
+      "companyLogoUrl" : "../images/logos/TADSG_logo.png",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "Cuber",
+      "photo" : "/images/speakers/cuber.jpg",
+      "photoUrl" : "../images/speakers/cuber.jpg",
+      "shortBio" : "DevFest去年的講者",
+      "socials" : [  ],
+      "order" : 25,
+      "title" : "Android Developer"
     }
   },
   "team" : [ {
