@@ -468,7 +468,7 @@
       "complexity" : "Beginner",
       "description" : "",
       "language" : "中文",
-      "speakers" : [ "william", "prada", "cuber", "alex_wang" ],
+      "speakers" : [ "william", "prada", "cuber", "alex_huang" ],
       "tags" : [ "Android" ],
       "title" : "Android FireChat",
       "videoId" : ""
@@ -1035,7 +1035,7 @@
       "order" : 21,
       "title" : "Senior Software Engineer"
     },
-    "alex_wang" : {
+    "alex_huang" : {
       "bio" : "Android開發經驗四年 \n去年畢業於趨勢學院 (Trend Micro) \n現任誠實蜜蜂(honestbee)工程師 \n喜歡淺顯易懂的程式風格 \n於是成了React Native傳教士",
       "company" : "honestbee",
       "companyLogo" : "/images/speakers/companies/honestbee.jpg",
@@ -1043,8 +1043,8 @@
       "country" : "Taiwan",
       "featured" : true,
       "name" : "Alex",
-      "photo" : "/images/speakers/mTwTm.jpg",
-      "photoUrl" : "../images/speakers/mTwTm.jpg",
+      "photo" : "/images/speakers/alex_huang.jpg",
+      "photoUrl" : "../images/speakers/alex_huang.jpg",
       "shortBio" : "",
       "socials" : [  ],
       "order" : 22,
