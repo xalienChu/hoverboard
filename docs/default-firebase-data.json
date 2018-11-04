@@ -1102,6 +1102,21 @@
       "socials" : [  ],
       "order" : 25,
       "title" : "Android Developer"
+    },
+    "sunny" : {
+      "bio" : "Sunny 目前任職於遠傳電信，透過appium studio/appium server搭配Jenkins 進行自動化測試，協助撰寫Android tv開發。",
+      "company" : "遠傳電信",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "Sunny",
+      "photo" : "/images/speakers/sunny.jpeg",
+      "photoUrl" : "../images/speakers/sunny.jpeg",
+      "shortBio" : "Sunny 目前任職於遠傳電信，負責自動化測試相關，偶爾寫寫Android tv。",
+      "socials" : [  ],
+      "order" : 26,
+      "title" : "Android 工程師"
     }
   },
   "team" : [ {
