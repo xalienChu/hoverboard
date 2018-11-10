@@ -107,11 +107,11 @@
         } ],
         "startTime" : "09:00"
       }, {
-        "endTime" : "10:15",
+        "endTime" : "09:45",
         "sessions" : [ {
           "items" : [ 145 ]
         } ],
-        "startTime" : "10:00"
+        "startTime" : "09:30"
       }, {
         "endTime" : "10:15",
         "sessions" : [ {
@@ -241,12 +241,12 @@
   "sessions" : {
     "101" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "This session will cover latest update of Material Design, Material Components, and UI/UX Design flows to build high quality apps.",
       "language" : "英文",
       "presentation" : "",
       "speakers" : [ "takuo_suzuki" ],
       "tags" : [ "UI/UX", "Material Design" ],
-      "title" : "Material Design 2.0"
+      "title" : "Material Design Update"
     },
     "102" : {
       "complexity" : "Beginner",
@@ -416,7 +416,7 @@
       "description" : "google action，dialogflow，範例",
       "language" : "中文",
       "presentation" : "",
-      "speakers" : [ "kevin_chiu" ],
+      "speakers" : [ "kevin_chiu", "sunny" ],
       "tags" : [ "Android" ],
       "title" : "Google Action"
     },
@@ -466,11 +466,11 @@
     },
     "126" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "今年參考了日本東京 DevFest，準備了一個 Android 講壇，邀請了 KKBOX 的 William、PicCollage 的 Prada、誠實蜜蜂的 Alex，還有喜歡隱瞞身份的 Cuber 到台上來聊聊近期 Android JetPack、AndroidX、各種開發工具、Library 的各種拼裝使用狀況與優缺點，我們同時也將開放一段時間讓台下質詢台上四位各種敏感的 Android 問題。",
       "language" : "中文",
       "speakers" : [ "william", "prada", "cuber", "alex_huang" ],
       "tags" : [ "Android" ],
-      "title" : "Android FireChat",
+      "title" : "Android 開發大亂鬥",
       "videoId" : ""
     },
     "127" : {
@@ -1215,20 +1215,24 @@
     "title" : "核心團隊"
   }, {
     "members" : [ {
-      "name" : "Teng",
+      "name" : "王易騰",
       "photo" : "/images/team/teng_wang.jpeg",
       "photoUrl" : "../images/team/teng_wang.jpeg",
       "socials" : [ {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
+        "link" : "https://www.facebook.com/yumi.wang.568",
         "name" : "Facebook"
       }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
+        "icon" : "website",
+        "link" : "https://teng-wang.blogspot.com/",
+        "name" : "WebSite"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/Ten-Wang",
+        "name" : "Github"
       } ],
       "order" : 0,
-      "title" : "Android Developer"
+      "title" : "Chief Engineer"
     }, {
       "name" : "Wesley",
       "photo" : "/images/team/weihung_liu.jpeg",
@@ -1301,6 +1305,20 @@
       "socials" : [ ],
       "order" : 3,
       "title" : "Android developer"
+    }, {
+      "name" : "DONG 33",
+      "photo" : "/images/team/dong33.png",
+      "photoUrl" : "../images/team/dong33.png",
+      "socials" : [  ],
+      "order" : 4,
+      "title" : "Android Developer"
+    }, {
+      "name" : "Annis",
+      "photo" : "/images/team/annis.jpg",
+      "photoUrl" : "../images/team/annis.jpg",
+      "socials" : [  ],
+      "order" : 5,
+      "title" : "RD"
     } ],
     "title" : "議程組"
   }, {
@@ -1532,6 +1550,50 @@
       "title" : "Senior Engineer"
     } ],
     "title" : "Codelab 助教組"
+  }, {
+    "members" : [ {
+      "name" : "楊皓博",
+      "photo" : "/images/team/hob.jpeg",
+      "photoUrl" : "../images/team/hob.jpeg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/profile.php?id=1415014478",
+        "name" : "Facebook"
+      }, {
+        "icon" : "linkedin",
+        "link" : "http://linkedin.com/in/matt-yang",
+        "name" : "LinkedIn"
+      } ],
+      "order" : 0,
+      "title" : "Programmer"
+    }, {
+      "name" : "吳則諭",
+      "photo" : "/images/team/rexwu.png",
+      "photoUrl" : "../images/team/rexwu.png",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/raxy.wu?ref=bookmarks",
+        "name" : "Facebook"
+      } ],
+      "order" : 1,
+      "title" : "Android Developer"
+    }, {
+      "name" : "Jerome",
+      "photo" : "/images/team/JeromeChen.JPG",
+      "photoUrl" : "../images/team/JeromeChen.JPG",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/jrong/",
+        "name" : "LinkedIn"
+      }, {
+        "icon" : "github",
+        "link" : "https://github.com/Hierom",
+        "name" : "Github"
+      } ],
+      "order" : 2,
+      "title" : "M.S. Student"
+    } ],
+    "title" : "機動 & 報到組"
   } ],
   "tickets" : [  {
     "available" : false,
