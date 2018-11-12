@@ -457,11 +457,11 @@
     },
     "125" : {
       "complexity" : "Beginner",
-      "description" : "",
+      "description" : "TBD",
       "language" : "中文",
       "speakers" : [ "ted_chien" ],
       "tags" : [  ],
-      "title" : "AR Core",
+      "title" : "Introduction to ARCore",
       "videoId" : ""
     },
     "126" : {
@@ -1104,7 +1104,7 @@
       "title" : "Android Developer"
     },
     "sunny" : {
-      "bio" : "Sunny 目前任職於遠傳電信，透過appium studio/appium server搭配Jenkins 進行自動化測試，協助撰寫Android tv開發。",
+      "bio" : "Sunny 目前任職於遠傳電信，透過 appium studio/appium server 搭配 Jenkins 進行自動化測試，協助撰寫 Android TV 開發。",
       "company" : "遠傳電信",
       "companyLogo" : "",
       "companyLogoUrl" : "",
@@ -1113,10 +1113,41 @@
       "name" : "Sunny",
       "photo" : "/images/speakers/sunny.jpeg",
       "photoUrl" : "../images/speakers/sunny.jpeg",
-      "shortBio" : "Sunny 目前任職於遠傳電信，負責自動化測試相關，偶爾寫寫Android tv。",
+      "shortBio" : "Sunny 目前任職於遠傳電信，負責自動化測試相關，偶爾寫寫Android TV。",
       "socials" : [  ],
       "order" : 26,
       "title" : "Android 工程師"
+    },
+    "ted_chien" : {
+      "bio" : "Ted 現任 GDG Taipei - 台北 Google 開發者社群 主辦人，同時也是 遠傳電信 個人消費性產品事業部 數位技術處 App 開發小組 技術副理 以及 台灣維基媒體協會 監事；曾在 友立資訊、宏達電子 等公司擔任過 資深工程師、程式經理 等職，並曾任 台灣維基媒體協會 理事長，經歷過多項 Android、iOS 及 Windows 等平台上的軟體開發與測試專案，期望以自己的小小貢獻幫助更多開發者朋友們在技術學習之路上更平順。",
+      "company" : "GDG Taipei",
+      "companyLogo" : "/images/logos/gdg-taipei.svg",
+      "companyLogoUrl" : "../images/logos/gdg-taipei.svg",
+      "country" : "Taiwan",
+      "featured" : true,
+      "name" : "Ted Chien",
+      "photo" : "/images/team/ted_chien.png",
+      "photoUrl" : "../images/team/ted_chien.png",
+      "shortBio" : "Ted 的專長領域為 Android / iOS / Windows 上的 App 開發與測試專案管理，以及技術社群經營。",
+      "socials" : [ {
+        "icon" : "github",
+        "link" : "https://github.com/htchien",
+        "name" : "Github"
+      }, {
+        "icon" : "facebook",
+        "link" : "https://facebook.com/htchien",
+        "name" : "Facebook"
+      }, {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/htchien",
+        "name" : "Twitter"
+      }, {
+        "icon" : "website",
+        "link" : "https://about.me/htchien",
+        "name" : "Blog"
+      } ],
+      "order" : 27,
+      "title" : "GDG Taipei Organizer / 台北 Google 開發者社群 主辦人"
     }
   },
   "team" : [ {
@@ -1125,24 +1156,24 @@
       "photo" : "/images/team/ted_chien.png",
       "photoUrl" : "../images/team/ted_chien.png",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
+        "icon" : "github",
+        "link" : "https://github.com/htchien",
+        "name" : "Github"
       }, {
         "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
+        "link" : "https://facebook.com/htchien",
         "name" : "Facebook"
       }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/htchien",
         "name" : "Twitter"
       }, {
         "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
+        "link" : "https://about.me/htchien",
         "name" : "Blog"
       } ],
       "order" : 0,
-      "title" : "GDG Organizer"
+      "title" : "GDG Taipei Organizer / 台北 Google 開發者社群 主辦人"
     }, {
       "name" : "Takuma Lee",
       "photo" : "/images/team/takuma_lee.jpg",
@@ -1215,7 +1246,7 @@
     "title" : "核心團隊"
   }, {
     "members" : [ {
-      "name" : "Victoria Horng (洪佑瑄）",
+      "name" : "Victoria Horng",
       "photo" : "/images/team/VictoriaHorng.jpg",
       "photoUrl" : "../images/team/VictoriaHorng.jpg",
       "socials" : [ {
@@ -1228,7 +1259,7 @@
         "name" : "WebSite"
       } ],
       "order" : 0,
-      "title" : "Programmer"
+      "title" : "Graphic Designer"
     } ],
     "title" : "設計"
   }, {
