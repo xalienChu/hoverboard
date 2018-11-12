@@ -1215,6 +1215,24 @@
     "title" : "核心團隊"
   }, {
     "members" : [ {
+      "name" : "Victoria Horng (洪佑瑄）",
+      "photo" : "/images/team/VictoriaHorng.jpg",
+      "photoUrl" : "../images/team/VictoriaHorng.jpg",
+      "socials" : [ {
+        "icon" : "facebook",
+        "link" : "https://www.facebook.com/vyh.design",
+        "name" : "Facebook"
+      }, {
+        "icon" : "website",
+        "link" : "https://www.behance.net/vyhdesign",
+        "name" : "WebSite"
+      } ],
+      "order" : 0,
+      "title" : "Programmer"
+    } ],
+    "title" : "設計"
+  }, {
+    "members" : [ {
       "name" : "王易騰",
       "photo" : "/images/team/teng_wang.jpeg",
       "photoUrl" : "../images/team/teng_wang.jpeg",
