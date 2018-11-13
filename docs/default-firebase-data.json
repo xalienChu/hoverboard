@@ -593,7 +593,7 @@
         "link" : "https://www.linkedin.com/in/charlie-tsai",
         "name" : "LinkedIn"
       } ],
-      "order" : 0,
+      "order" : 1,
       "title" : "Software Engineer"
     },
     "akane_lee" : {
@@ -608,7 +608,7 @@
       "photoUrl" : "../images/speakers/AkaneLee.jpg",
       "shortBio" : "嫁給 RD 的 UI Designer",
       "socials" : [],
-      "order" : 0,
+      "order" : 2,
       "title" : "UI / UX"
     },
     "YanBin" : {
@@ -627,7 +627,7 @@
         "link" : "https://www.linkedin.com/in/yanbin-hung-94b350b7/",
         "name" : "LinkedIn"
       } ],
-      "order" : 1,
+      "order" : 3,
       "title" : "Android"
     },
     "aki_yu" : {
@@ -646,7 +646,7 @@
         "link" : "https://ua.linkedin.com/in/anton-minashkin-606a1b4b",
         "name" : "LinkedIn"
       } ],
-      "order" : 2,
+      "order" : 4,
       "title" : "技術傳教士"
     },
     "cage" : {
@@ -678,7 +678,7 @@
         "link" : "https://www.facebook.com/cage.chung",
         "name" : "Facebook"
       } ],
-      "order" : 3,
+      "order" : 5,
       "title" : "Senior Engineer"
     },
     "simon_su" : {
@@ -706,7 +706,7 @@
         "link" : "https://www.facebook.com/peihsinsu",
         "name" : "Facebook"
       } ],
-      "order" : 4,
+      "order" : 6,
       "title" : "DevOps PE"
     },
     "yong_lee" : {
@@ -725,7 +725,7 @@
         "link" : "https://www.facebook.com/groups/googlecloudkorea",
         "name" : "Facebook"
       } ],
-      "order" : 5,
+      "order" : 7,
       "title" : "GDG Cloud Organizer & Team Leader"
     },
     "jenniefer_oh" : {
@@ -744,7 +744,7 @@
         "link" : "https://www.facebook.com/groups/googlecloudkorea",
         "name" : "Facebook"
       } ],
-      "order" : 6,
+      "order" : 8,
       "title" : "GDG Cloud Organizer & Team Leader"
     },
     "will_huang" : {
@@ -772,7 +772,7 @@
         "link" : "https://www.facebook.com/will.fans/",
         "name" : "Facebook"
       } ],
-      "order" : 7,
+      "order" : 9,
       "title" : "技術總監"
     },
     "nevin" : {
@@ -791,7 +791,7 @@
         "link" : "https://twitter.com/chennevin",
         "name" : "Twitter"
       } ],
-      "order" : 8,
+      "order" : 10,
       "title" : "Android Dev"
     },
     "summit_suen" : {
@@ -810,7 +810,7 @@
         "link" : "https://www.facebook.com/summit.suen",
         "name" : "Facebook"
       } ],
-      "order" : 9,
+      "order" : 11,
       "title" : "Data Scientist"
     },
     "ivan" : {
@@ -829,7 +829,7 @@
         "link" : "https://www.linkedin.com/in/ivan-chiou-727b0721/",
         "name" : "Facebook"
       } ],
-      "order" : 10,
+      "order" : 12,
       "title" : "經理"
     },
     "david_chen" : {
@@ -853,7 +853,7 @@
         "link" : "https://www.facebook.com/lucemia",
         "name" : "Facebook"
       } ],
-      "order" : 11,
+      "order" : 13,
       "title" : "CEO"
     },
     "wolke_lin" : {
@@ -877,7 +877,7 @@
         "link" : "https://www.facebook.com/wolke.live",
         "name" : "Facebook"
       } ],
-      "order" : 12,
+      "order" : 14,
       "title" : "Developer"
     },
     "david_chang" : {
@@ -888,7 +888,6 @@
       "country" : "Taiwan",
       "featured" : true,
       "name" : "David Chang",
-      "order" : 4,
       "photo" : "/images/speakers/jeja.jpg",
       "photoUrl" : "../images/speakers/jeja.jpg",
       "shortBio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。",
@@ -897,12 +896,7 @@
         "link" : "https://github.com/chechiachang",
         "name" : "Github"
       } ],
-      "badges": [ {
-        "name": "google",
-        "link": "https://www.linkedin.com/in/jozefvodicka",
-        "description": "Developer Relations Regional Lead"
-      } ],
-      "order" : 13,
+      "order" : 15,
       "title" : "DevOps"
     },
     "kairen" : {
@@ -921,7 +915,7 @@
         "link" : "https://www.facebook.com/k2r2bai",
         "name" : "Facebook"
       } ],
-      "order" : 14,
+      "order" : 16,
       "title" : "軟體工程師"
     },
     "david_chang_gcpug" : {
@@ -936,7 +930,7 @@
       "photoUrl" : "../images/speakers/christine_rocky.jpg",
       "shortBio" : "IT Consultant, Full Stack Developer, CTO",
       "socials" : [],
-      "order" : 15,
+      "order" : 17,
       "title" : "CTO / Co-founder"
     },
     "lyon" : {
@@ -955,12 +949,7 @@
         "link" : "lejiteyu",
         "name" : "Line"
       } ],
-      "badges": [ {
-        "name": "google",
-        "link": "https://www.linkedin.com/in/meteatamel/",
-        "description": "Developer Advocate"
-      } ],
-      "order" : 16,
+      "order" : 18,
       "title" : "工程師"
     },
     "kevin_chiu" : {
@@ -979,7 +968,7 @@
         "link" : "chluchiufet@gmail.com",
         "name" : "Email"
       } ],
-      "order" : 17,
+      "order" : 19,
       "title" : "資深工程師"
     },
     "jintin" : {
@@ -998,7 +987,7 @@
         "link" : "https://github.com/Jintin",
         "name" : "Github"
       } ],
-      "order" : 18,
+      "order" : 20,
       "title" : "資深工程師"
     },
     "hwchiu" : {
@@ -1017,7 +1006,7 @@
         "link" : "https://twitter.com/hw_chiu",
         "name" : "Twitter"
       } ],
-      "order" : 19,
+      "order" : 21,
       "title" : "DevOps Engineer"
     },
     "peter_lo" : {
@@ -1032,7 +1021,7 @@
       "photoUrl" : "../images/speakers/PeterLo.jpg",
       "shortBio" : "行政總裁 - 睿創市場策劃, 講師 - 香港中文大學專業進修學院",
       "socials" : [],
-      "order" : 20,
+      "order" : 22,
       "title" : "CG Marketing"
     },
     "mTwTm" : {
@@ -1051,7 +1040,7 @@
         "link" : "https://stackoverflow.com/users/3591480/teng-pao-yu",
         "name" : "StackOverflow"
       } ],
-      "order" : 21,
+      "order" : 23,
       "title" : "Senior Software Engineer"
     },
     "alex_huang" : {
@@ -1066,7 +1055,7 @@
       "photoUrl" : "../images/speakers/alex_huang.jpg",
       "shortBio" : "",
       "socials" : [  ],
-      "order" : 22,
+      "order" : 24,
       "title" : "Android / React Native Developer"
     },
     "william" : {
@@ -1085,7 +1074,7 @@
         "link" : "https://github.com/showang",
         "name" : "Github"
       } ],
-      "order" : 23,
+      "order" : 25,
       "title" : "Sr. Engineer"
     },
     "prada" : {
@@ -1104,7 +1093,7 @@
         "link" : "https://www.facebook.com/prada.bear",
         "name" : "Facebook"
       } ],
-      "order" : 24,
+      "order" : 26,
       "title" : "Developer Manager"
     },
     "cuber" : {
@@ -1119,7 +1108,7 @@
       "photoUrl" : "../images/speakers/cuber.jpg",
       "shortBio" : "DevFest去年的講者",
       "socials" : [  ],
-      "order" : 25,
+      "order" : 27,
       "title" : "Android Developer"
     },
     "sunny" : {
@@ -1134,7 +1123,7 @@
       "photoUrl" : "../images/speakers/sunny.jpeg",
       "shortBio" : "Sunny 目前任職於遠傳電信，負責自動化測試相關，偶爾寫寫Android TV。",
       "socials" : [  ],
-      "order" : 26,
+      "order" : 28,
       "title" : "Android 工程師"
     },
     "ted_chien" : {
@@ -1165,7 +1154,7 @@
         "link" : "https://about.me/htchien",
         "name" : "Blog"
       } ],
-      "order" : 27,
+      "order" : 29,
       "title" : "GDG Taipei Organizer / 台北 Google 開發者社群 主辦人"
     }
   },
