@@ -897,6 +897,11 @@
         "link" : "https://github.com/chechiachang",
         "name" : "Github"
       } ],
+      "badges": [ {
+        "name": "google",
+        "link": "https://www.linkedin.com/in/jozefvodicka",
+        "description": "Developer Relations Regional Lead"
+      } ],
       "order" : 13,
       "title" : "DevOps"
     },
@@ -949,6 +954,11 @@
         "icon" : "line",
         "link" : "lejiteyu",
         "name" : "Line"
+      } ],
+      "badges": [ {
+        "name": "google",
+        "link": "https://www.linkedin.com/in/meteatamel/",
+        "description": "Developer Advocate"
       } ],
       "order" : 16,
       "title" : "工程師"
