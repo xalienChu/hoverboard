@@ -8,6 +8,15 @@
       "published" : "2017-02-12",
       "source" : "https://facebook.com/gdg.taipei/",
       "title" : "GDG Taipei，台北 Google 開發者社群"
+    },
+    "Codelab" : {
+      "backgroundColor" : "#3647a5",
+      "brief" : "GDG DevFest Taipei 2018 Codelab",
+      "content" : "<h1>Android</h1><figure><table><thead><tr><th style='text-align:left;' >題目</th><th style='text-align:left;' >助教</th></tr></thead><tbody><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/taking-advantage-of-kotlin/index.html?index=..%2F..%2Findex#0'>Taking Advantage of Kotlin</a></td><td style='text-align:left;' >Carter</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/android-workmanager-kt/index.html?index=..%2F..%2Findex#0'>Background Work with WorkManager</a></td><td style='text-align:left;' >Carter</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/android-persistence/index.html?index=..%2F..%2Findex#0'>Android Persistence codelab</a></td><td style='text-align:left;' >Carter</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/play-billing-codelab/index.html'>Buy and Subscribe: Monetize your app on Google Play</a></td><td style='text-align:left;' >HearSilent</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/android-network-security-config/index.html'>Android Network Security Configuration Codelab</a></td><td style='text-align:left;' >HearSilent</td></tr></tbody></table></figure><h1 data-breakpage>Android Things</h1><figure><table><thead><tr><th style='text-align:left;' >題目</th><th style='text-align:left;' >助教</th></tr></thead><tbody><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/androidthings-peripherals/index.html?index=..%2F..%2Findex'>Android Things Peripheral I/O</a></td><td style='text-align:left;' >kevinchiu</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/androidthings-weatherstation/index.html?index=..%2F..%2Findex#0'>Android Things Weather Station</a></td><td style='text-align:left;' >kevinchiu</td></tr></tbody></table></figure><h1 data-breakpage>Cloud</h1><figure><table><thead><tr><th style='text-align:left;' >題目</th><th style='text-align:left;' >助教</th></tr></thead><tbody><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/cloud-grpc-csharp/index.html?index=..%2F..%2Findex#0'>Building a gRPC service with C#</a></td><td style='text-align:left;' >張瑋哲</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/cloud-hello-kubernetes/index.html?index=..%2F..%2Findex#0'>Hello Node Kubernetes Codelab</a></td><td style='text-align:left;' >Bear Su</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/cloud-load-balancers/index.html?index=..%2F..%2Findex#0'>Setup Network and HTTP Load Balancers</a></td><td style='text-align:left;' >Bear Su</td></tr><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/cloud-app-engine-node/index.html?index=..%2F..%2Findex#0'>Deploy Node.js Express Application in App Engine</a></td><td style='text-align:left;' >Bear Su</td></tr></tbody></table></figure><h1 data-breakpage>Assistant</h1><figure><table><thead><tr><th style='text-align:left;' >題目</th><th style='text-align:left;' >助教</th></tr></thead><tbody><tr><td style='text-align:left;' ><a href='https://codelabs.developers.google.com/codelabs/actions-1/index.html'>Build Actions for the Google Assistant (Level 1)</a></td><td style='text-align:left;' >HearSilent</td></tr></tbody></table></figure><p>&nbsp;</p>",
+      "image" : "/images/backgrounds/home.jpg",
+      "published" : "2018-11-17",
+      "source" : "/data/Codelab.md",
+      "title" : "GDG DevFest Taipei 2018 Codelab"
     }
   },
   "gallery" : [
@@ -267,7 +276,7 @@
     },
     "104" : {
       "complexity" : "Senior",
-      "description" : "1. A brief introduction of Clean Architecture, what is boundary? usecase? dependency direction?\n 2. How to implement it on mobile application? I will show you what will it looks like. \n3. Discussion about threading, layering, packaging and modulization.",
+      "description" : "1. A brief introduction of Clean Architecture, what is boundary? usecase? dependency direction?<br/> 2. How to implement it on mobile application? I will show you what will it looks like. <br/>3. Discussion about threading, layering, packaging and modulization.",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "YanBin" ],
@@ -277,7 +286,7 @@
     },
     "105" : {
       "complexity" : "Intermediate",
-      "description" : "如果你有如下的疑問，那麼可能在這個議程裡，你將可以更進一步獲得了解這些問題的本質\n* 與PM或是非技術人員溝通需求有困難？\n\n什麼是行為趨動開發(BDD)、什麼是實例化需求(SBE)\n* 書上寫的單元測試，看起來都很簡單，但實務上又下不了手\n\n什麼是測試趨動開發(TDD)\n* Coverage 100% 是不是代表程式品質很好？\n\n談測試的品質\n* 誰來寫 UI Test ?\n\n工程師 --- Android UI Testing\nQA --- Appium、calabash\n\n* 有沒有不會寫程式 又不懂 Android Studio 的人用的UI測試程式？\n用桌機程式做一個測試機器人吧",
+      "description" : "如果你有如下的疑問，那麼可能在這個議程裡，你將可以更進一步獲得了解這些問題的本質<br/>* 與PM或是非技術人員溝通需求有困難？<br/><br/>什麼是行為趨動開發(BDD)、什麼是實例化需求(SBE)<br/>* 書上寫的單元測試，看起來都很簡單，但實務上又下不了手<br/><br/>什麼是測試趨動開發(TDD)<br/>* Coverage 100% 是不是代表程式品質很好？<br/><br/>談測試的品質<br/>* 誰來寫 UI Test ?<br/><br/>工程師 --- Android UI Testing<br/>QA --- Appium、calabash<br/><br/>* 有沒有不會寫程式 又不懂 Android Studio 的人用的UI測試程式？<br/>用桌機程式做一個測試機器人吧",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "aki_yu" ],
@@ -287,7 +296,7 @@
     },
     "106" : {
       "complexity" : "Beginner",
-      "description" : "持續性整合與發佈 (Continuous Integration / Continuous Delivery) 是 DevOps 文化中重要的一環。持續性整合(CI)可以讓軟體每一次變動可以持續、自動的進行驗証(Build、Test、Source Coce Analytics etcs.)。當驗証完全且成功時，可以進一步的整合到自動化發佈/部署(CD)(Docker Images、kubernetes、artfacts etcs.)\n\n在 2018 全球 DevOps 現況調查報告中觀察到軟體交付的效能已經成為公司竟爭優勢的條件之一。持續性整合與發佈 (Continuous Integration / Continuous Delivery) 已經成為軟體開發人員必備的技能之一\n\nGoogle Cloud Build (前身為 Container Build) 基於 Google Cloud Platfrom 提出了一套 CI/CD 的工具，讓開發者可以靈活的持續建構、測試和部署。本次的講提內容將帶你了解 Google Cloud Build 的基本操作方式",
+      "description" : "持續性整合與發佈 (Continuous Integration / Continuous Delivery) 是 DevOps 文化中重要的一環。持續性整合(CI)可以讓軟體每一次變動可以持續、自動的進行驗証(Build、Test、Source Coce Analytics etcs.)。當驗証完全且成功時，可以進一步的整合到自動化發佈/部署(CD)(Docker Images、kubernetes、artfacts etcs.)<br/><br/>在 2018 全球 DevOps 現況調查報告中觀察到軟體交付的效能已經成為公司竟爭優勢的條件之一。持續性整合與發佈 (Continuous Integration / Continuous Delivery) 已經成為軟體開發人員必備的技能之一<br/><br/>Google Cloud Build (前身為 Container Build) 基於 Google Cloud Platfrom 提出了一套 CI/CD 的工具，讓開發者可以靈活的持續建構、測試和部署。本次的講提內容將帶你了解 Google Cloud Build 的基本操作方式",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "cage" ],
@@ -324,7 +333,7 @@
     },
     "110" : {
       "complexity" : "Beginner",
-      "description" : "1. New features as module\n2. The benefit\n3. Examples",
+      "description" : "1. New features as module<br/>2. The benefit<br/>3. Examples",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "nevin" ],
@@ -342,7 +351,7 @@
     },
     "112" : {
       "complexity" : "Intermediate",
-      "description" : "* Why push notification\n* 使用技術介紹- service worker & redis & firebase\n* 網站內被動推播(passive notification)\n* 網站外主動推播(active notification)\n1) APP 推播\n2) Mobile Web推播\n3) Desktop 播播\n* 推播後台系統整合\n* Demo\n* Q&A",
+      "description" : "* Why push notification<br/>* 使用技術介紹- service worker & redis & firebase<br/>* 網站內被動推播(passive notification)<br/>* 網站外主動推播(active notification)<br/>1) APP 推播<br/>2) Mobile Web推播<br/>3) Desktop 播播<br/>* 推播後台系統整合<br/>* Demo<br/>* Q&A",
       "language" : "中文",
       "speakers" : [ "ivan" ],
       "tags" : [ "React", "Javascript", ".Net", "Agile" ],
@@ -350,7 +359,7 @@
     },
     "113" : {
       "complexity" : "Intermediate",
-      "description" : "1. Why we need micro service?\n2. What is micro service and how GCP can help us?\n3. How we manage our micro-service with G8?\n4. How we build common protocol with G8?\n5. Future work",
+      "description" : "1. Why we need micro service?<br/>2. What is micro service and how GCP can help us?<br/>3. How we manage our micro-service with G8?<br/>4. How we build common protocol with G8?<br/>5. Future work",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "david_chen" ],
@@ -359,7 +368,7 @@
     },
     "114" : {
       "complexity" : "Intermediate",
-      "description" : "1.what is google home ; what can it do, what can it change your life.\n2.introduce diagdflow and firebase\n3.live coding",
+      "description" : "1.what is google home ; what can it do, what can it change your life.<br/>2.introduce diagdflow and firebase<br/>3.live coding",
       "language" : "中文",
       "speakers" : [ "wolke_lin" ],
       "tags" : [ "IOT", "DialogFlow", "firebase" ],
@@ -367,7 +376,7 @@
     },
     "115" : {
       "complexity" : "Beginner",
-      "description" : "是的，我們做了一款七龍珠中的戰鬥力探測器，透過人臉辨識，探測工程師的開源貢獻力。本次演講內容有:\n1. 初心者的人臉辨識技術 ，Face Recognition API\n2. 使用 Golang 在 Github 上做 Data Mining\n3. 從零開始的 side project，開發心路歷程與收穫分享\n\n內容包含 Face Recognition API，Github Data Mining，難度入門，適合沒有經驗但想上手人臉辨識的人。",
+      "description" : "是的，我們做了一款七龍珠中的戰鬥力探測器，透過人臉辨識，探測工程師的開源貢獻力。本次演講內容有:<br/>1. 初心者的人臉辨識技術 ，Face Recognition API<br/>2. 使用 Golang 在 Github 上做 Data Mining<br/>3. 從零開始的 side project，開發心路歷程與收穫分享<br/><br/>內容包含 Face Recognition API，Github Data Mining，難度入門，適合沒有經驗但想上手人臉辨識的人。",
       "language" : "中文",
       "presentation" : "",
       "speakers" : [ "david_chang" ],
@@ -377,7 +386,7 @@
     },
     "116" : {
       "complexity" : "Beginner",
-      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?\n\nThis talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
+      "description" : "One of my favourite things about the web are ASCII smileys. They're sweet, fun and simply make the web a better place. How could anyone not like them ¯(ツ)/¯?<br/><br/>This talk is an overdose of smileys, because they're the perfect excuse to get started with Polymer. Polymer is a library built on top of the Web Components standards that helps developers create reusable components for the modern web. And since I know that everybody has been wondering how one could take over the world by creating a suite of Polymer animated emoticon components, we're going to do exactly that.",
       "language" : "English",
       "presentation" : "http://carmenpopoviciu.github.io/on-polymer-and-smileys/",
       "speakers" : [ "aleksander_piotrowski" ],
@@ -395,7 +404,7 @@
     },
     "118" : {
       "complexity" : "Intermediate",
-      "description" : "-A glance at Detection AI as it stands today, it’s potential, and how it can evolve and impact the future.\n-Personal anecdote about my first experience with Detection AI\n-A few quick demos of simple A.I. detection, as well as a walkthrough detailing how easy it can be for any of the people attending this meet-up utilize the same technology (using Google Vision).",
+      "description" : "-A glance at Detection AI as it stands today, it’s potential, and how it can evolve and impact the future.<br/>-Personal anecdote about my first experience with Detection AI<br/>-A few quick demos of simple A.I. detection, as well as a walkthrough detailing how easy it can be for any of the people attending this meet-up utilize the same technology (using Google Vision).",
       "language" : "English",
       "presentation" : "",
       "speakers" : [ "david_chang_gcpug" ],
@@ -418,7 +427,7 @@
       "presentation" : "",
       "speakers" : [ "kevin_chiu", "sunny" ],
       "tags" : [ "Android" ],
-      "title" : "Google Action"
+      "title" : "如何使用 Dialogflow 製作你自己的聊天機器人"
     },
     "121" : {
       "complexity" : "Intermediate",
@@ -448,11 +457,11 @@
     },
     "124" : {
       "complexity" : "Intermediate",
-      "description" : "",
-      "language" : "English",
+      "description" : "Mobile Apps 的發展訊速，但作為配套的Google Analytics一直被認為只是對網頁量身訂造。這節會探討Mobile Apps開發中又如何善用Google 提供的各種分析工具，從而確定開發方向，加速開發進度。<br/>﹝此節會配合中/英雙語進行，適合對GA已有認識的聽眾﹞",
+      "language" : "中文",
       "speakers" : [ "peter_lo" ],
       "tags" : [  ],
-      "title" : "",
+      "title" : "Google Analytics for Mobile Apps",
       "videoId" : ""
     },
     "125" : {
@@ -553,11 +562,6 @@
       "photoUrl": "https://pbs.twimg.com/profile_images/378800000672537135/2f5a340d5df2fb9b3baed2b1e22ea660_400x400.jpeg",
       "shortBio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理...",
       "bio": "曾為使用者介面設計師的 Takuo Suzuki 鈴木拓生先生現為 Google 在亞洲地區的開發者社群地區經理，他除了在 Google 的 Material Design 實感設計方面有深入經驗之外，在使用者經驗及相關領域中亦有多年經驗。",
-      "tags": [
-        "UX",
-        "Startups",
-        "Data Visualization"
-      ],
       "order" : 0,
       "title" : "Developer Relation, Reginal Lead"
     },
@@ -574,7 +578,7 @@
       "companyLogo": "/images/logos/google.svg",
       "companyLogoUrl" : "../images/logos/google.svg",
       "country" : "London",
-      "featured" : true,
+      "featured": false,
       "name" : "Charlie Tsai",
       "photo" : "",
       "photoUrl" : "",
@@ -584,7 +588,7 @@
         "link" : "https://www.linkedin.com/in/charlie-tsai",
         "name" : "LinkedIn"
       } ],
-      "order" : 0,
+      "order" : 1,
       "title" : "Software Engineer"
     },
     "akane_lee" : {
@@ -593,13 +597,12 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Akane Lee",
       "photo" : "/images/speakers/AkaneLee.jpg",
       "photoUrl" : "../images/speakers/AkaneLee.jpg",
       "shortBio" : "嫁給 RD 的 UI Designer",
-      "socials" : [],
-      "order" : 0,
+      "order" : 2,
       "title" : "UI / UX"
     },
     "YanBin" : {
@@ -608,7 +611,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "彥彬",
       "photo" : "/images/speakers/洪彥彬.png",
       "photoUrl" : "../images/speakers/洪彥彬.png",
@@ -618,7 +621,7 @@
         "link" : "https://www.linkedin.com/in/yanbin-hung-94b350b7/",
         "name" : "LinkedIn"
       } ],
-      "order" : 1,
+      "order" : 3,
       "title" : "Android"
     },
     "aki_yu" : {
@@ -627,7 +630,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "AKI YU",
       "photo" : "/images/speakers/aki.png",
       "photoUrl" : "../images/speakers/aki.png",
@@ -637,7 +640,7 @@
         "link" : "https://ua.linkedin.com/in/anton-minashkin-606a1b4b",
         "name" : "LinkedIn"
       } ],
-      "order" : 2,
+      "order" : 4,
       "title" : "技術傳教士"
     },
     "cage" : {
@@ -655,7 +658,7 @@
       "companyLogo" : "/images/speakers/companies/qnap.png",
       "companyLogoUrl" : "../images/speakers/companies/qnap.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Cage Chung",
       "photo" : "/images/speakers/cage.jpg",
       "photoUrl" : "../images/speakers/cage.jpg",
@@ -669,7 +672,7 @@
         "link" : "https://www.facebook.com/cage.chung",
         "name" : "Facebook"
       } ],
-      "order" : 3,
+      "order" : 5,
       "title" : "Senior Engineer"
     },
     "simon_su" : {
@@ -687,7 +690,7 @@
       "companyLogo" : "/images/speakers/companies/simonC.jpg",
       "companyLogoUrl" : "../images/speakers/companies/simonC.jpg",
       "country" : "Aylanetworks",
-      "featured" : false,
+      "featured": false,
       "name" : "Simon Su",
       "photo" : "/images/speakers/simon_su.jpeg",
       "photoUrl" : "../images/speakers/simon_su.jpeg",
@@ -697,7 +700,7 @@
         "link" : "https://www.facebook.com/peihsinsu",
         "name" : "Facebook"
       } ],
-      "order" : 4,
+      "order" : 6,
       "title" : "DevOps PE"
     },
     "yong_lee" : {
@@ -706,7 +709,7 @@
       "companyLogo" : "/images/speakers/companies/netmarble_logo.jpg",
       "companyLogoUrl" : "../images/speakers/companies/netmarble_logo.jpg",
       "country" : "South Korea",
-      "featured" : false,
+      "featured": false,
       "name" : "YONG LEE",
       "photo" : "/images/speakers/yong_lee.png",
       "photoUrl" : "../images/speakers/yong_lee.png",
@@ -716,7 +719,7 @@
         "link" : "https://www.facebook.com/groups/googlecloudkorea",
         "name" : "Facebook"
       } ],
-      "order" : 5,
+      "order" : 7,
       "title" : "GDG Cloud Organizer & Team Leader"
     },
     "jenniefer_oh" : {
@@ -725,7 +728,7 @@
       "companyLogo" : "/images/speakers/companies/netmarble_logo.jpg",
       "companyLogoUrl" : "../images/speakers/companies/netmarble_logo.jpg",
       "country" : "South Korea",
-      "featured" : false,
+      "featured": false,
       "name" : "JENNIFER OH",
       "photo" : "/images/speakers/jennifer.png",
       "photoUrl" : "../images/speakers/jennifer.png",
@@ -735,7 +738,7 @@
         "link" : "https://www.facebook.com/groups/googlecloudkorea",
         "name" : "Facebook"
       } ],
-      "order" : 6,
+      "order" : 8,
       "title" : "GDG Cloud Organizer & Team Leader"
     },
     "will_huang" : {
@@ -749,7 +752,7 @@
       "companyLogo" : "/images/speakers/companies/duotify.png",
       "companyLogoUrl" : "../images/speakers/companies/duotify.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Will 保哥",
       "photo" : "/images/speakers/will_huang.jpg",
       "photoUrl" : "../images/speakers/will_huang.jpg",
@@ -763,7 +766,7 @@
         "link" : "https://www.facebook.com/will.fans/",
         "name" : "Facebook"
       } ],
-      "order" : 7,
+      "order" : 9,
       "title" : "技術總監"
     },
     "nevin" : {
@@ -772,7 +775,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mozilla_logo.svg/280px-Mozilla_logo.svg",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Nevin",
       "photo" : "/images/speakers/nevin.png",
       "photoUrl" : "../images/speakers/nevin.png",
@@ -782,16 +785,16 @@
         "link" : "https://twitter.com/chennevin",
         "name" : "Twitter"
       } ],
-      "order" : 8,
+      "order" : 10,
       "title" : "Android Dev"
     },
     "summit_suen" : {
-      "bio" : "1. End-to-end data pipeline/product building experience 2. Problem solver and hacker 3. With a strong background in mathematics and statistics, Summit currently works as a senior data scientist developing data products such as DMP. He is also an open source enthusiast actively connecting and helping local communities, awarded the Data Platform Microsoft Most Valuable Professionals since 2017.",
+      "bio" : "<br/>1. End-to-end data pipeline/product building experience <br/>2. Problem solver and hacker <br/>3. With a strong background in mathematics and statistics, Summit currently works as a senior data scientist developing data products such as DMP. He is also an open source enthusiast actively connecting and helping local communities, awarded the Data Platform Microsoft Most Valuable Professionals since 2017.",
       "company" : "Taiwan R User Group",
       "companyLogo" : "/images/speakers/companies/Taiwan-R-logo.png",
       "companyLogoUrl" : "../images/speakers/companies/Taiwan-R-logo.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Summit Suen",
       "photo" : "/images/speakers/summit_suen.jpg",
       "photoUrl" : "../images/speakers/summit_suen.jpg",
@@ -801,7 +804,7 @@
         "link" : "https://www.facebook.com/summit.suen",
         "name" : "Facebook"
       } ],
-      "order" : 9,
+      "order" : 11,
       "title" : "Data Scientist"
     },
     "ivan" : {
@@ -810,7 +813,7 @@
       "companyLogo" : "/images/speakers/companies/ehs.png",
       "companyLogoUrl" : "../images/speakers/companies/ehs.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Ivan Chiou 邱文淇",
       "photo" : "/images/speakers/ivan.jpg",
       "photoUrl" : "../images/speakers/ivan.jpg",
@@ -820,7 +823,7 @@
         "link" : "https://www.linkedin.com/in/ivan-chiou-727b0721/",
         "name" : "Facebook"
       } ],
-      "order" : 10,
+      "order" : 12,
       "title" : "經理"
     },
     "david_chen" : {
@@ -834,7 +837,7 @@
       "companyLogo" : "/images/speakers/companies/logo_light.png",
       "companyLogoUrl" : "../images/speakers/companies/logo_light.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "David Chen",
       "photo" : "/images/speakers/hackpad_david_chen.jpg",
       "photoUrl" : "../images/speakers/hackpad_david_chen.jpg",
@@ -844,7 +847,7 @@
         "link" : "https://www.facebook.com/lucemia",
         "name" : "Facebook"
       } ],
-      "order" : 11,
+      "order" : 13,
       "title" : "CEO"
     },
     "wolke_lin" : {
@@ -858,7 +861,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Wolke Lin",
       "photo" : "/images/speakers/jianghon.jpg",
       "photoUrl" : "../images/speakers/jianghon.jpg",
@@ -868,7 +871,7 @@
         "link" : "https://www.facebook.com/wolke.live",
         "name" : "Facebook"
       } ],
-      "order" : 12,
+      "order" : 14,
       "title" : "Developer"
     },
     "david_chang" : {
@@ -877,9 +880,8 @@
       "companyLogo" : "/images/speakers/companies/mithril.png",
       "companyLogoUrl" : "../images/speakers/companies/mithril.png",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "David Chang",
-      "order" : 4,
       "photo" : "/images/speakers/jeja.jpg",
       "photoUrl" : "../images/speakers/jeja.jpg",
       "shortBio" : "David Chang，DevOps 與後端工程師，Kubernetes Admin。",
@@ -888,7 +890,7 @@
         "link" : "https://github.com/chechiachang",
         "name" : "Github"
       } ],
-      "order" : 13,
+      "order" : 15,
       "title" : "DevOps"
     },
     "kairen" : {
@@ -897,7 +899,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "白凱仁",
       "photo" : "/images/speakers/kairen_bai.jpg",
       "photoUrl" : "../images/speakers/kairen_bai.jpg",
@@ -907,7 +909,7 @@
         "link" : "https://www.facebook.com/k2r2bai",
         "name" : "Facebook"
       } ],
-      "order" : 14,
+      "order" : 16,
       "title" : "軟體工程師"
     },
     "david_chang_gcpug" : {
@@ -916,13 +918,12 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "David Chang",
       "photo" : "/images/speakers/christine_rocky.jpg",
       "photoUrl" : "../images/speakers/christine_rocky.jpg",
       "shortBio" : "IT Consultant, Full Stack Developer, CTO",
-      "socials" : [],
-      "order" : 15,
+      "order" : 17,
       "title" : "CTO / Co-founder"
     },
     "lyon" : {
@@ -931,7 +932,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "里盎",
       "photo" : "/images/speakers/jinfu.jpg",
       "photoUrl" : "../images/speakers/jinfu.jpg",
@@ -941,7 +942,7 @@
         "link" : "lejiteyu",
         "name" : "Line"
       } ],
-      "order" : 16,
+      "order" : 18,
       "title" : "工程師"
     },
     "kevin_chiu" : {
@@ -950,7 +951,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "Kevin Chiu",
       "photo" : "/images/speakers/chlu_chiu.jpg",
       "photoUrl" : "../images/speakers/chlu_chiu.jpg",
@@ -960,7 +961,7 @@
         "link" : "chluchiufet@gmail.com",
         "name" : "Email"
       } ],
-      "order" : 17,
+      "order" : 19,
       "title" : "資深工程師"
     },
     "jintin" : {
@@ -969,7 +970,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Jintin",
-      "featured" : true,
+      "featured": false,
       "name" : "Jintin",
       "photo" : "/images/speakers/jintin.jpeg",
       "photoUrl" : "../images/speakers/jintin.jpeg",
@@ -979,7 +980,7 @@
         "link" : "https://github.com/Jintin",
         "name" : "Github"
       } ],
-      "order" : 18,
+      "order" : 20,
       "title" : "資深工程師"
     },
     "hwchiu" : {
@@ -988,7 +989,7 @@
       "companyLogo" : "/images/speakers/companies/thundertoken.png",
       "companyLogoUrl" : "../images/speakers/companies/thundertoken.png",
       "country" : "Taiwan",
-      "featured" : false,
+      "featured": false,
       "name" : "邱宏瑋(hwchiu)",
       "photo" : "/images/speakers/hwchiu.png",
       "photoUrl" : "../images/speakers/hwchiu.png",
@@ -998,23 +999,22 @@
         "link" : "https://twitter.com/hw_chiu",
         "name" : "Twitter"
       } ],
-      "order" : 19,
+      "order" : 21,
       "title" : "DevOps Engineer"
     },
     "peter_lo" : {
-      "bio" : "",
-      "company" : "",
+      "bio" : "Peter 是 GDG 香港區組織者，現時在初創公司擔任行政總裁並在香港中文大學專業進修學院擔任講師教授市場學相關課程。在他的職業生涯中，Peter曾在影像串流產業中擔任研究開發，期後投身香港最大的報業公司，製作了第一批免費新聞手機應用。近年專注於內地市場，徙事數據分析及數位行銷方面。",
+      "company" : "GDG Hong Kong",
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Hong Kong",
-      "featured" : false,
+      "featured": false,
       "name" : "Peter Lo",
       "photo" : "/images/speakers/PeterLo.jpg",
       "photoUrl" : "../images/speakers/PeterLo.jpg",
-      "shortBio" : "",
-      "socials" : [],
-      "order" : 20,
-      "title" : ""
+      "shortBio" : "行政總裁 - 睿創市場策劃, 講師 - 香港中文大學專業進修學院",
+      "order" : 22,
+      "title" : "CG Marketing"
     },
     "mTwTm" : {
       "bio" : "mTwTm currently works as a Senior Software Engineer at Mozilla. He has dedicated his time on Android since his first job. He is usually interested in optimizing Android background behaviors, building with Gradle and apk size optimization. He is recently mainly contributing to Firefox Rocket, a Webview based browser. He is, also, an Open Source believer. He currently writes everything in Java but he also dreams to learn more about Kotlin. ",
@@ -1022,7 +1022,7 @@
       "companyLogo" : "",
       "companyLogoUrl" : "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Mozilla_logo.svg/280px-Mozilla_logo.svg",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "mTwTm",
       "photo" : "/images/speakers/mTwTm.jpg",
       "photoUrl" : "../images/speakers/mTwTm.jpg",
@@ -1032,22 +1032,21 @@
         "link" : "https://stackoverflow.com/users/3591480/teng-pao-yu",
         "name" : "StackOverflow"
       } ],
-      "order" : 21,
+      "order" : 23,
       "title" : "Senior Software Engineer"
     },
     "alex_huang" : {
-      "bio" : "Android開發經驗四年 \n去年畢業於趨勢學院 (Trend Micro) \n現任誠實蜜蜂(honestbee)工程師 \n喜歡淺顯易懂的程式風格 \n於是成了React Native傳教士",
+      "bio" : "Android開發經驗四年 <br/>去年畢業於趨勢學院 (Trend Micro) <br/>現任誠實蜜蜂(honestbee)工程師 <br/>喜歡淺顯易懂的程式風格 <br/>於是成了React Native傳教士",
       "company" : "honestbee",
       "companyLogo" : "/images/speakers/companies/honestbee.jpg",
       "companyLogoUrl" : "../images/speakers/companies/honestbee.jpg",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Alex",
       "photo" : "/images/speakers/alex_huang.jpg",
       "photoUrl" : "../images/speakers/alex_huang.jpg",
       "shortBio" : "",
-      "socials" : [  ],
-      "order" : 22,
+      "order" : 24,
       "title" : "Android / React Native Developer"
     },
     "william" : {
@@ -1056,7 +1055,7 @@
       "companyLogo" : "/images/speakers/companies/kkbox.png",
       "companyLogoUrl" : "../images/speakers/companies/kkbox.png",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "William",
       "photo" : "/images/speakers/williwam.jpg",
       "photoUrl" : "../images/speakers/williwam.jpg",
@@ -1066,16 +1065,16 @@
         "link" : "https://github.com/showang",
         "name" : "Github"
       } ],
-      "order" : 23,
+      "order" : 25,
       "title" : "Sr. Engineer"
     },
     "prada" : {
-      "bio" : "Build something and create the impacts to users. \nOver 6 years android development, I work on an app called PicCollage from 10M  to 100M(almost) downloads. Recently fall in love with AR/VR technology, please downloads it \nhttps://itunes.apple.com/us/developer/cardinal-blue/id381057842?mt=8",
+      "bio" : "Build something and create the impacts to users. <br/>Over 6 years android development, I work on an app called PicCollage from 10M  to 100M(almost) downloads. Recently fall in love with AR/VR technology, please downloads it <br/>https://itunes.apple.com/us/developer/cardinal-blue/id381057842?mt=8",
       "company" : "PicCollage",
       "companyLogo" : "/images/speakers/companies/piccollage.png",
       "companyLogoUrl" : "../images/speakers/companies/piccollage.png",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Prada",
       "photo" : "/images/speakers/prada.jpg",
       "photoUrl" : "../images/speakers/prada.jpg",
@@ -1085,7 +1084,7 @@
         "link" : "https://www.facebook.com/prada.bear",
         "name" : "Facebook"
       } ],
-      "order" : 24,
+      "order" : 26,
       "title" : "Developer Manager"
     },
     "cuber" : {
@@ -1094,13 +1093,12 @@
       "companyLogo" : "/images/logos/TADSG_logo.png",
       "companyLogoUrl" : "../images/logos/TADSG_logo.png",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Cuber",
       "photo" : "/images/speakers/cuber.jpg",
       "photoUrl" : "../images/speakers/cuber.jpg",
       "shortBio" : "DevFest去年的講者",
-      "socials" : [  ],
-      "order" : 25,
+      "order" : 27,
       "title" : "Android Developer"
     },
     "sunny" : {
@@ -1109,13 +1107,12 @@
       "companyLogo" : "",
       "companyLogoUrl" : "",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Sunny",
       "photo" : "/images/speakers/sunny.jpeg",
       "photoUrl" : "../images/speakers/sunny.jpeg",
       "shortBio" : "Sunny 目前任職於遠傳電信，負責自動化測試相關，偶爾寫寫Android TV。",
-      "socials" : [  ],
-      "order" : 26,
+      "order" : 28,
       "title" : "Android 工程師"
     },
     "ted_chien" : {
@@ -1124,7 +1121,7 @@
       "companyLogo" : "/images/logos/gdg-taipei.svg",
       "companyLogoUrl" : "../images/logos/gdg-taipei.svg",
       "country" : "Taiwan",
-      "featured" : true,
+      "featured": false,
       "name" : "Ted Chien",
       "photo" : "/images/team/ted_chien.png",
       "photoUrl" : "../images/team/ted_chien.png",
@@ -1146,7 +1143,7 @@
         "link" : "https://about.me/htchien",
         "name" : "Blog"
       } ],
-      "order" : 27,
+      "order" : 29,
       "title" : "GDG Taipei Organizer / 台北 Google 開發者社群 主辦人"
     }
   },
@@ -1645,7 +1642,7 @@
     "title" : "機動 & 報到組"
   } ],
   "tickets" : [  {
-    "available" : false,
+    "available" : true,
     "currency" : "NTD",
     "ends" : "Sep 30",
     "inDemand" : false,
@@ -1655,7 +1652,7 @@
     "primary" : true,
     "regular" : true,
     "soldOut" : false,
-    "starts" : "Nov 2",
+    "starts" : "Nov 17",
     "url" : " https://gdg-taipei.kktix.cc/events/devfest-taipei-18"
   } ],
   "triggers" : {
@@ -1969,7 +1966,7 @@
       "title" : "Senior Android Developer"
     },
     "ihor_dvoretskyi" : {
-      "bio" : "Ihor serves as a Developer Advocate with Kubernetes specialization for Cloud Native Computing Foundation - the Linux Foundation project, focused on creating and driving the adoption of a new computing paradigm that is optimized for modern distributed systems environments.\n\nIhor holds the role of Product Manager for Kubernetes at Kubernetes Open Source Community, co-driving Product Management Special Interest Group; and Program Manager at Mirantis - company, which is offering Kubernetes-based commercial solutions and services.\n\nApart from the product management activities, Ihor acts as a OpenStack Special Interest group co-lead at Kubernetes Community, working intensely on the questions and abilities, related to OpenStack and Kubernetes collaboration and integration.\n\nPrior to Mirantis, Ihor has been responsible for the projects, tightly bound to Cloud computing area, containerized workloads and Linux systems.",
+      "bio" : "Ihor serves as a Developer Advocate with Kubernetes specialization for Cloud Native Computing Foundation - the Linux Foundation project, focused on creating and driving the adoption of a new computing paradigm that is optimized for modern distributed systems environments.<br/><br/>Ihor holds the role of Product Manager for Kubernetes at Kubernetes Open Source Community, co-driving Product Management Special Interest Group; and Program Manager at Mirantis - company, which is offering Kubernetes-based commercial solutions and services.<br/><br/>Apart from the product management activities, Ihor acts as a OpenStack Special Interest group co-lead at Kubernetes Community, working intensely on the questions and abilities, related to OpenStack and Kubernetes collaboration and integration.<br/><br/>Prior to Mirantis, Ihor has been responsible for the projects, tightly bound to Cloud computing area, containerized workloads and Linux systems.",
       "company" : "Cloud Native Computing Foundation",
       "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/linux-foundation.svg",
       "country" : "Ukraine",
@@ -2216,7 +2213,7 @@
       "title" : "UX Designer"
     },
     "mateusz_herych" : {
-      "bio" : "Mateusz works as an Android Developer at IG, where he uses his Android-abracadabras to make enterprise software users more productive.\n\nHe's also an active member of GDG Kraków where, together with his co-organisers, he ensures the local community has direct access to the latest trends and knowledge of Google-related technology.\n\nMateusz is an avid Android speaker, and is particularly keen to get involved in events focusing on coding Android.",
+      "bio" : "Mateusz works as an Android Developer at IG, where he uses his Android-abracadabras to make enterprise software users more productive.<br/><br/>He's also an active member of GDG Kraków where, together with his co-organisers, he ensures the local community has direct access to the latest trends and knowledge of Google-related technology.<br/><br/>Mateusz is an avid Android speaker, and is particularly keen to get involved in events focusing on coding Android.",
       "company" : "IG",
       "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/ig.svg",
       "country" : "Poland",
@@ -2334,7 +2331,7 @@
       "title" : "Software Engineer"
     },
     "sergiy_khomenko" : {
-      "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.\n\nSpeaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
+      "bio" : "Data scientist at one of the biggest fashion communities, STYLIGHT. Data analysis and visualisation hobbyist, working on problems not only in working time, but in free time for fun and personal data visualisations.<br/><br/>Speaker at different conferences: Berlin Buzzwords 2014, ApacheCon Europe 2014, Puppet Camp London 2015, Munich Developer Camp, Berlin Buzzwords 2015, Tableau Conference on Tour - Berlin 2015, Budapest BI forum 2015, CrunchConf 2015, FOSDEM 2016, PyData Amsterdam 2016",
       "company" : "Stylight",
       "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/stylight.svg",
       "country" : "Germany",
@@ -2418,7 +2415,7 @@
       "title" : "Founder"
     },
     "valentyn_shybanov" : {
-      "bio" : "Started software engineering career with low level system programming mostly on start of the era of modern computers, my interest involved from programming calculators and simple games to developing complex enterprise-level cloud-based solutions. Now, with help of modern technologies, solutions and concepts, I am not just trying to bring any, even most courageous ideas into life, but also spread the light of all brilliant technology solutions I can find to all other developers. Now focused on combination of Web technologies (Angular, Dart) and cloud platforms (Google Cloud Platform, Amazon EC2, Azure etc) and mobile (Flutter)\n",
+      "bio" : "Started software engineering career with low level system programming mostly on start of the era of modern computers, my interest involved from programming calculators and simple games to developing complex enterprise-level cloud-based solutions. Now, with help of modern technologies, solutions and concepts, I am not just trying to bring any, even most courageous ideas into life, but also spread the light of all brilliant technology solutions I can find to all other developers. Now focused on combination of Web technologies (Angular, Dart) and cloud platforms (Google Cloud Platform, Amazon EC2, Azure etc) and mobile (Flutter)<br/>",
       "company" : "",
       "companyLogo" : "",
       "country" : "Ukraine",
@@ -2493,7 +2490,7 @@
       "title" : "Head of Mobile"
     },
     "yonatan_levin" : {
-      "bio" : "A born entrepreneur, combining the creative imagination of an artist with the meticulous precision of an engineer, Yonatan Levin is not only one of Israel’s top mobile developers, he’s also a member of the elite worldwide group of Google Developers Experts.\n\nAnd while Yonatan’s primary expertise is in Mobile and Product Management, he also gets along extremely well with backend technologies — not to mention people in general.\n\nAt Gett Yonatan headed up Android development, helping make it the world’s largest on-demand transportation, delivery, and logistics company. Most recently, Yonatan has received funding for his thirds (and latest) startup, KolGene, which is already revolutionizing the field of genetic testing.\n\nIn his free time, Yonatan can often be found, like his Star Wars hero Luke Skywalker, saving the galaxy, one groundbreaking technology at a time.",
+      "bio" : "A born entrepreneur, combining the creative imagination of an artist with the meticulous precision of an engineer, Yonatan Levin is not only one of Israel’s top mobile developers, he’s also a member of the elite worldwide group of Google Developers Experts.<br/><br/>And while Yonatan’s primary expertise is in Mobile and Product Management, he also gets along extremely well with backend technologies — not to mention people in general.<br/><br/>At Gett Yonatan headed up Android development, helping make it the world’s largest on-demand transportation, delivery, and logistics company. Most recently, Yonatan has received funding for his thirds (and latest) startup, KolGene, which is already revolutionizing the field of genetic testing.<br/><br/>In his free time, Yonatan can often be found, like his Star Wars hero Luke Skywalker, saving the galaxy, one groundbreaking technology at a time.",
       "company" : "KolGene",
       "companyLogo" : "https://storage.googleapis.com/dfua17.appspot.com/images/logos/kolgene.svg",
       "country" : "Israel",
