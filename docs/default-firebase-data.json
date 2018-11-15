@@ -615,16 +615,16 @@
           "link": "https://developers.google.com"
         }
       ],
-      "bio" : "前讀書會 co-organizer, 現 Google 工程師, 負責 Android Studio 的開發與維護",
-      "company": "Google London",
+      "bio" : "前讀書會 co-organizer，現 Google 工程師，負責 Android Studio 的開發與維護",
+      "company": "Google UK",
       "companyLogo": "/images/logos/google.svg",
       "companyLogoUrl" : "../images/logos/google.svg",
-      "country" : "London",
+      "country" : "London, UK",
       "featured": true,
       "name" : "Charlie Tsai",
-      "photo" : "",
-      "photoUrl" : "",
-      "shortBio" : "前讀書會co-organizer, 現 Google 工程師, 負責 Android Studio 的開發與維護",
+      "photo" : "/images/speakers/charlie.jpg",
+      "photoUrl" : "../images/speakers/charlie.jpg",
+      "shortBio" : "Software Engineer @ Android Studio",
       "socials" : [ {
         "icon" : "linkedin",
         "link" : "https://www.linkedin.com/in/charlie-tsai",
