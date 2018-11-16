@@ -1087,7 +1087,12 @@
       "name" : "Alex",
       "photo" : "/images/speakers/alex_huang.jpg",
       "photoUrl" : "../images/speakers/alex_huang.jpg",
-      "shortBio" : "",
+      "shortBio" : "Android & React Native Developer @ honestbee",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/alexxpasta/",
+        "name" : "LinkedIn"
+      } ],
       "order" : 24,
       "title" : "Android / React Native Developer"
     },
