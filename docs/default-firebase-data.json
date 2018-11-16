@@ -291,7 +291,7 @@
       "title" : "Material Design Update"
     },
     "102" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermediate",
       "description" : "Let's exploring the new developing tools \"JetPack\" and the new features in Android Studio 3.2",
       "language" : "中文",
       "speakers" : [ "charlie_tsai" ],
@@ -1087,7 +1087,12 @@
       "name" : "Alex",
       "photo" : "/images/speakers/alex_huang.jpg",
       "photoUrl" : "../images/speakers/alex_huang.jpg",
-      "shortBio" : "",
+      "shortBio" : "Android & React Native Developer @ honestbee",
+      "socials" : [ {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/alexxpasta/",
+        "name" : "LinkedIn"
+      } ],
       "order" : 24,
       "title" : "Android / React Native Developer"
     },
