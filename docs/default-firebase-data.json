@@ -291,7 +291,7 @@
       "title" : "Material Design Update"
     },
     "102" : {
-      "complexity" : "Beginner",
+      "complexity" : "Intermediate",
       "description" : "Let's exploring the new developing tools \"JetPack\" and the new features in Android Studio 3.2",
       "language" : "中文",
       "speakers" : [ "charlie_tsai" ],
